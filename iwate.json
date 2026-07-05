@@ -1,0 +1,332 @@
+[
+ {
+  "city_code": "03201",
+  "name": "盛岡市役所",
+  "postal_code": "020-8530",
+  "address": "盛岡市内丸12-2",
+  "phone": "019-651-4111",
+  "official_url": "https://www.city.morioka.iwate.jp/",
+  "source_url": "https://www.city.morioka.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03202",
+  "name": "宮古市役所",
+  "postal_code": "027-8501",
+  "address": "宮古市宮町一丁目1番30号",
+  "phone": "0193-62-2111",
+  "official_url": "https://www.city.miyako.iwate.jp/",
+  "source_url": "https://www.city.miyako.iwate.jp/gyosei/soshiki/somu/12/69.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03203",
+  "name": "大船渡市役所",
+  "postal_code": "022-8501",
+  "address": "大船渡市盛町字宇津野沢15",
+  "phone": "0192-27-3111",
+  "official_url": "https://www.city.ofunato.iwate.jp/",
+  "source_url": "https://www.city.ofunato.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03205",
+  "name": "花巻市役所",
+  "postal_code": "025-8601",
+  "address": "花巻市花城町9番30号",
+  "phone": "0198-24-2111",
+  "official_url": "https://www.city.hanamaki.iwate.jp/",
+  "source_url": "https://www.city.hanamaki.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03206",
+  "name": "北上市役所",
+  "postal_code": "024-8501",
+  "address": "北上市芳町1-1本庁舎2階",
+  "phone": "0197-64-2111",
+  "official_url": "http://www.city.kitakami.iwate.jp/",
+  "source_url": "http://www.city.kitakami.iwate.jp/life/soshikikarasagasu/somuka/jinjikoseigakari/2/4894.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03207",
+  "name": "久慈市役所",
+  "postal_code": "028-8030",
+  "address": "久慈市川崎町1番1号",
+  "phone": "0194-52-2111",
+  "official_url": "https://www.city.kuji.lg.jp/",
+  "source_url": "https://www.city.kuji.lg.jp/gyosei_joho/jinji/3/index.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03208",
+  "name": "遠野市役所",
+  "postal_code": "028-0592",
+  "address": "遠野市中央通り9番1号",
+  "phone": "0198-62-2111",
+  "official_url": "http://www.city.tono.iwate.jp/",
+  "source_url": "http://www.city.tono.iwate.jp/index.cfm/49,21199,263,541,html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03209",
+  "name": "一関市役所",
+  "postal_code": "021-8501",
+  "address": "一関市竹山町7番2号",
+  "phone": "0191-21-2111",
+  "official_url": "https://www.city.ichinoseki.iwate.jp/",
+  "source_url": "https://www.city.ichinoseki.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03210",
+  "name": "陸前高田市役所",
+  "postal_code": "029-2292",
+  "address": "陸前高田市高田町字下和野100番地",
+  "phone": "0192-54-2111",
+  "official_url": "https://www.city.rikuzentakata.iwate.jp/",
+  "source_url": "https://www.city.rikuzentakata.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03211",
+  "name": "釜石市役所",
+  "postal_code": "026-8686",
+  "address": "釜石市只越町3丁目9番13号",
+  "phone": "0193-22-2111",
+  "official_url": "https://www.city.kamaishi.iwate.jp/",
+  "source_url": "https://www.city.kamaishi.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03213",
+  "name": "二戸市役所",
+  "postal_code": "028-6192",
+  "address": "二戸市福岡字川又47番地",
+  "phone": "0195-23-3111",
+  "official_url": "https://www.city.ninohe.lg.jp/",
+  "source_url": "https://www.city.ninohe.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03214",
+  "name": "八幡平市役所",
+  "postal_code": "028-7397",
+  "address": "八幡平市野駄21-170",
+  "phone": "0195-74-2111",
+  "official_url": "https://www.city.hachimantai.lg.jp/",
+  "source_url": "https://www.city.hachimantai.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03215",
+  "name": "奥州市役所",
+  "postal_code": "023-8501",
+  "address": "奥州市水沢大手町一丁目1番地",
+  "phone": "0197-24-2111",
+  "official_url": "https://www.city.oshu.iwate.jp/",
+  "source_url": "https://www.city.oshu.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03216",
+  "name": "滝沢市役所",
+  "postal_code": "020-0692",
+  "address": "滝沢市中鵜飼55",
+  "phone": "019-684-2111",
+  "official_url": "https://www.city.takizawa.iwate.jp/",
+  "source_url": "https://www.city.takizawa.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03301",
+  "name": "雫石町役場",
+  "postal_code": "020-0595",
+  "address": "岩手郡雫石町千刈田5番地1",
+  "phone": "019-692-2111",
+  "official_url": "https://www.town.shizukuishi.iwate.jp/",
+  "source_url": "https://www.town.shizukuishi.iwate.jp/docs/2021042200041/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03302",
+  "name": "葛巻町役場",
+  "postal_code": "028-5495",
+  "address": "岩手郡葛巻町葛巻16-1-1",
+  "phone": "0195-66-2111",
+  "official_url": "https://www.town.kuzumaki.iwate.jp/",
+  "source_url": "https://www.town.kuzumaki.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03303",
+  "name": "岩手町役場",
+  "postal_code": "028-4395",
+  "address": "岩手郡岩手町大字五日市10-44",
+  "phone": "0195-62-2111",
+  "official_url": "https://town.iwate.iwate.jp/",
+  "source_url": "https://town.iwate.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03321",
+  "name": "紫波町役場",
+  "postal_code": "028-3392",
+  "address": "紫波郡紫波町紫波中央駅前二丁目3番地1",
+  "phone": "019-672-2111",
+  "official_url": "https://www.town.shiwa.iwate.jp/",
+  "source_url": "https://www.town.shiwa.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03322",
+  "name": "矢巾町役場",
+  "postal_code": "028-3692",
+  "address": "紫波郡矢巾町大字南矢幅第13地割123番地",
+  "phone": "019-697-2111",
+  "official_url": "https://www.town.yahaba.iwate.jp/",
+  "source_url": "https://www.town.yahaba.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03366",
+  "name": "西和賀町役場",
+  "postal_code": "029-5692",
+  "address": "和賀郡西和賀町沢内字太田2地割81番地1",
+  "phone": "0197-82-2111",
+  "official_url": "https://www.town.nishiwaga.lg.jp/",
+  "source_url": "https://www.town.nishiwaga.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03381",
+  "name": "金ケ崎町役場",
+  "postal_code": "029-4592",
+  "address": "胆沢郡金ケ崎町西根南町22-1",
+  "phone": "0197-42-2111",
+  "official_url": "https://www.town.kanegasaki.iwate.jp/",
+  "source_url": "https://www.town.kanegasaki.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03402",
+  "name": "平泉町役場",
+  "postal_code": "029-4192",
+  "address": "西磐井郡平泉町平泉字志羅山45-2",
+  "phone": "0191-46-2111",
+  "official_url": "https://www.town.hiraizumi.iwate.jp/",
+  "source_url": "https://www.town.hiraizumi.iwate.jp/category/town-administration/personnel-salary-recruitment/salary-staff-management/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03441",
+  "name": "住田町役場",
+  "postal_code": "029-2396",
+  "address": "気仙郡住田町世田米字川向88番地1",
+  "phone": "0192-46-2111",
+  "official_url": "https://www.town.sumita.iwate.jp/",
+  "source_url": "https://www.town.sumita.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03461",
+  "name": "大槌町役場",
+  "postal_code": "028-1192",
+  "address": "上閉伊郡大槌町上町1番3号",
+  "phone": "0193-42-2111",
+  "official_url": "https://www.town.otsuchi.iwate.jp/",
+  "source_url": "https://www.town.otsuchi.iwate.jp/gyosei/docs/R3kouhyou.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03482",
+  "name": "山田町役場",
+  "postal_code": "028-1392",
+  "address": "下閉伊郡山田町八幡町3番20号",
+  "phone": "0193-82-3111",
+  "official_url": "https://www.town.yamada.iwate.jp/",
+  "source_url": "https://www.town.yamada.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03483",
+  "name": "岩泉町役場",
+  "postal_code": "027-0595",
+  "address": "下閉伊郡岩泉町岩泉字惣畑59番地5",
+  "phone": "0194-22-2111",
+  "official_url": "https://www.town.iwaizumi.lg.jp/",
+  "source_url": "https://www.town.iwaizumi.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03484",
+  "name": "田野畑村役場",
+  "postal_code": "028-8407",
+  "address": "下閉伊郡田野畑村田野畑143-1",
+  "phone": "0194-34-2111",
+  "official_url": "https://www.vill.tanohata.iwate.jp/",
+  "source_url": "https://www.vill.tanohata.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03485",
+  "name": "普代村役場",
+  "postal_code": "028-8392",
+  "address": "下閉伊郡普代村第9地割字銅屋13番地2",
+  "phone": "0194-35-2111",
+  "official_url": "https://www.vill.fudai.iwate.jp/",
+  "source_url": "https://www.vill.fudai.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03501",
+  "name": "軽米町役場",
+  "postal_code": "028-6302",
+  "address": "九戸郡軽米町大字軽米10-85",
+  "phone": "0195-46-2111",
+  "official_url": "https://www.town.karumai.iwate.jp/",
+  "source_url": "https://www.town.karumai.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03503",
+  "name": "野田村役場",
+  "postal_code": "028-8201",
+  "address": "九戸郡野田村大字野田第20地割14番地",
+  "phone": "0194-78-2111",
+  "official_url": "https://www.vill.noda.iwate.jp/",
+  "source_url": "https://www.vill.noda.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03506",
+  "name": "九戸村役場",
+  "postal_code": "028-6502",
+  "address": "九戸郡九戸村大字伊保内第10地割11番地6",
+  "phone": "0195-42-2111",
+  "official_url": "http://www.vill.kunohe.iwate.jp/",
+  "source_url": "http://www.vill.kunohe.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03507",
+  "name": "洋野町役場",
+  "postal_code": "028-8802",
+  "address": "九戸郡洋野町大野8-47-2",
+  "phone": "0194-65-2111",
+  "official_url": "https://www.town.hirono.iwate.jp/",
+  "source_url": "https://www.town.hirono.iwate.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "03524",
+  "name": "一戸町役場",
+  "postal_code": "028-5311",
+  "address": "二戸郡一戸町高善寺字大川鉢24番地9",
+  "phone": "0195-33-2111",
+  "official_url": "https://www.town.ichinohe.iwate.jp/",
+  "source_url": "https://www.town.ichinohe.iwate.jp/soshikikarasagasu/somuka/gyouseikakari/2103.html",
+  "verified_at": "2026-07-06"
+ }
+]

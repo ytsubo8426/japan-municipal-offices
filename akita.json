@@ -1,0 +1,252 @@
+[
+ {
+  "city_code": "05201",
+  "name": "秋田市役所",
+  "postal_code": "010-8560",
+  "address": "秋田市山王一丁目1番1号",
+  "phone": "018-863-2222",
+  "official_url": "https://www.city.akita.lg.jp/",
+  "source_url": "https://www.city.akita.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05202",
+  "name": "能代市役所",
+  "postal_code": "016-8501",
+  "address": "能代市上町1番3号",
+  "phone": "0185-52-2111",
+  "official_url": "https://www.city.noshiro.lg.jp/",
+  "source_url": "https://www.city.noshiro.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05203",
+  "name": "横手市役所",
+  "postal_code": "013-8601",
+  "address": "横手市中央町8番2号",
+  "phone": "0182-35-2111",
+  "official_url": "https://www.city.yokote.lg.jp/",
+  "source_url": "https://www.city.yokote.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05204",
+  "name": "大館市役所",
+  "postal_code": "017-8555",
+  "address": "大館市字中城20番地",
+  "phone": "0186-49-3111",
+  "official_url": "http://www.city.odate.akita.jp/",
+  "source_url": "https://www.city.odate.lg.jp/city/koukyoushisetsu/annai/shisho",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05206",
+  "name": "男鹿市役所",
+  "postal_code": "010-0595",
+  "address": "男鹿市船川港船川字泉台66-1",
+  "phone": "0185-23-2111",
+  "official_url": "https://www.city.oga.akita.jp/",
+  "source_url": "https://www.city.oga.akita.jp/living_information/shiseijoho/kyuyo_teiinkanri/2488.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05207",
+  "name": "湯沢市役所",
+  "postal_code": "012-8501",
+  "address": "湯沢市佐竹町1番1号",
+  "phone": "0183-73-2111",
+  "official_url": "https://www.city-yuzawa.jp/",
+  "source_url": "https://www.city-yuzawa.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05209",
+  "name": "鹿角市役所",
+  "postal_code": "018-5292",
+  "address": "鹿角市花輪字荒田4番地1",
+  "phone": "0186-30-0203",
+  "official_url": "https://www.city.kazuno.lg.jp/",
+  "source_url": "https://www.city.kazuno.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05210",
+  "name": "由利本荘市役所",
+  "postal_code": "015-8501",
+  "address": "由利本荘市尾崎17番地",
+  "phone": "0184-24-3321",
+  "official_url": "https://www.city.yurihonjo.lg.jp/",
+  "source_url": "https://www.city.yurihonjo.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05211",
+  "name": "潟上市役所",
+  "postal_code": "010-0201",
+  "address": "潟上市天王字棒沼台226番地1",
+  "phone": "018-853-5301",
+  "official_url": "https://www.city.katagami.lg.jp/",
+  "source_url": "https://www.city.katagami.lg.jp/gyosei/gyoseijoho/jinji/2819.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05212",
+  "name": "大仙市役所",
+  "postal_code": "014-8601",
+  "address": "大仙市大曲花園町1-1",
+  "phone": "0187-63-1111",
+  "official_url": "https://www.city.daisen.lg.jp/",
+  "source_url": "https://www.city.daisen.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05213",
+  "name": "北秋田市役所",
+  "postal_code": "018-3392",
+  "address": "北秋田市花園町19番1号",
+  "phone": "0186-62-1111",
+  "official_url": "https://www.city.kitaakita.akita.jp/",
+  "source_url": "https://www.city.kitaakita.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05214",
+  "name": "にかほ市役所",
+  "postal_code": "018-0192",
+  "address": "にかほ市象潟町字浜ノ田1",
+  "phone": "0184-43-3200",
+  "official_url": "https://www.city.nikaho.akita.jp/",
+  "source_url": "https://www.city.nikaho.akita.jp/soshikikarasagasu/somuka/gyomuannai/9/2/teiinkanri/930.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05215",
+  "name": "仙北市役所",
+  "postal_code": "014-1298",
+  "address": "仙北市田沢湖生保内字宮ノ後30",
+  "phone": "0187-43-1111",
+  "official_url": "https://www.city.semboku.akita.jp/",
+  "source_url": "https://www.city.semboku.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05303",
+  "name": "小坂町役場",
+  "postal_code": "017-0292",
+  "address": "鹿角郡小坂町小坂字上谷地41-1",
+  "phone": "0186-29-3901",
+  "official_url": "https://www.town.kosaka.akita.jp/",
+  "source_url": "https://www.town.kosaka.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05327",
+  "name": "上小阿仁村役場",
+  "postal_code": "018-4494",
+  "address": "北秋田郡上小阿仁村小沢田字向川原118番地",
+  "phone": "0186-77-2221",
+  "official_url": "https://www.vill.kamikoani.akita.jp/",
+  "source_url": "https://www.vill.kamikoani.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05346",
+  "name": "藤里町役場",
+  "postal_code": "018-3201",
+  "address": "山本郡藤里町藤琴字藤琴8番地",
+  "phone": "0185-79-2111",
+  "official_url": "http://www.town.fujisato.akita.jp/",
+  "source_url": "http://www.town.fujisato.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05348",
+  "name": "三種町役場",
+  "postal_code": "018-2401",
+  "address": "山本郡三種町鵜川字岩谷子8",
+  "phone": "0185-85-2111",
+  "official_url": "https://www.town.mitane.akita.jp/",
+  "source_url": "https://www.town.mitane.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05349",
+  "name": "八峰町役場",
+  "postal_code": "018-2502",
+  "address": "山本郡八峰町峰浜目名潟字目長田118",
+  "phone": "0185-76-2111",
+  "official_url": "https://www.town.happo.lg.jp/",
+  "source_url": "https://www.town.happo.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05361",
+  "name": "五城目町役場",
+  "postal_code": "018-1792",
+  "address": "南秋田郡五城目町西磯ノ目1丁目1-1",
+  "phone": "018-852-5100",
+  "official_url": "https://www.town.gojome.akita.jp/",
+  "source_url": "https://www.town.gojome.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05363",
+  "name": "八郎潟町役場",
+  "postal_code": "018-1692",
+  "address": "南秋田郡八郎潟町字大道80番地",
+  "phone": "018-875-5800",
+  "official_url": "https://www.town.hachirogata.akita.jp/",
+  "source_url": "https://www.town.hachirogata.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05366",
+  "name": "井川町役場",
+  "postal_code": "018-1596",
+  "address": "南秋田郡井川町北川尻字海老沢樋ノ口78-1",
+  "phone": "018-874-4411",
+  "official_url": "http://www.town.ikawa.akita.jp/",
+  "source_url": "http://www.town.ikawa.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05368",
+  "name": "大潟村役場",
+  "postal_code": "010-0494",
+  "address": "南秋田郡大潟村字中央1-1",
+  "phone": "0185-45-2111",
+  "official_url": "https://www.vill.ogata.akita.jp/",
+  "source_url": "https://www.vill.ogata.akita.jp/archive/contents-106",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05434",
+  "name": "美郷町役場",
+  "postal_code": "019-1541",
+  "address": "仙北郡美郷町土崎字上野乙170番地10",
+  "phone": "0187-84-1111",
+  "official_url": "https://www.town.misato.akita.jp/",
+  "source_url": "https://www.town.misato.akita.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05463",
+  "name": "羽後町役場",
+  "postal_code": "012-1131",
+  "address": "雄勝郡羽後町西馬音内字中野177",
+  "phone": "0183-62-2111",
+  "official_url": "https://www.town.ugo.lg.jp/",
+  "source_url": "https://www.town.ugo.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "05464",
+  "name": "東成瀬村役場",
+  "postal_code": "019-0801",
+  "address": "雄勝郡東成瀬村田子内字仙人下30-1",
+  "phone": "0182-47-3401",
+  "official_url": "https://vill.higashinaruse.lg.jp/",
+  "source_url": "https://vill.higashinaruse.lg.jp/villager/post-30377/",
+  "verified_at": "2026-07-06"
+ }
+]
