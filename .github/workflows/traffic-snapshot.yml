@@ -1,0 +1,78 @@
+# GitHubのTraffic統計(閲覧・clone)は14日で消えるため、週次でstats/traffic.csvに履歴化する。
+#
+# 【所長作業・1回だけ】Traffic APIはGITHUB_TOKENでは読めない(fine-grainedの
+# Administration read権限が必要)ため、PATが要る:
+#   1. https://github.com/settings/personal-access-tokens/new で Fine-grained PAT を作成
+#      - Repository access: Only select repositories → japan-municipal-offices
+#      - Permissions: Repository permissions → Administration: Read-only
+#      - 有効期限は最長(1年)にして、切れたら作り直し
+#   2. このリポジトリの Settings → Secrets and variables → Actions →
+#      New repository secret で名前 TRAFFIC_PAT として登録
+# 登録されるまでこのworkflowは失敗し続ける(実害はなし)。
+
+name: traffic-snapshot
+
+on:
+  schedule:
+    - cron: '0 21 * * 0' # 月曜 06:00 JST
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Traffic APIを取得してstats/traffic.csvへマージ
+        env:
+          GH_TOKEN: ${{ secrets.TRAFFIC_PAT }}
+        run: |
+          gh api "repos/${{ github.repository }}/traffic/views" > /tmp/views.json
+          gh api "repos/${{ github.repository }}/traffic/clones" > /tmp/clones.json
+          gh api "repos/${{ github.repository }}/traffic/popular/referrers" > /tmp/referrers.json || echo '[]' > /tmp/referrers.json
+          python3 - <<'EOF'
+          import csv, json, os
+          # 日次の views/clones を日付でマージ(既存CSVと重複しない日だけ追記・同日なら大きい値で更新)
+          rows = {}
+          path = 'stats/traffic.csv'
+          os.makedirs('stats', exist_ok=True)
+          if os.path.exists(path):
+              for r in csv.DictReader(open(path)):
+                  rows[r['date']] = r
+          views = {v['timestamp'][:10]: v for v in json.load(open('/tmp/views.json'))['views']}
+          clones = {c['timestamp'][:10]: c for c in json.load(open('/tmp/clones.json'))['clones']}
+          for d in sorted(set(views) | set(clones)):
+              old = rows.get(d, {})
+              rows[d] = {
+                  'date': d,
+                  'views': max(int(old.get('views') or 0), views.get(d, {}).get('count', 0)),
+                  'views_unique': max(int(old.get('views_unique') or 0), views.get(d, {}).get('uniques', 0)),
+                  'clones': max(int(old.get('clones') or 0), clones.get(d, {}).get('count', 0)),
+                  'clones_unique': max(int(old.get('clones_unique') or 0), clones.get(d, {}).get('uniques', 0)),
+              }
+          with open(path, 'w', newline='') as f:
+              w = csv.DictWriter(f, fieldnames=['date', 'views', 'views_unique', 'clones', 'clones_unique'])
+              w.writeheader()
+              for d in sorted(rows):
+                  w.writerow(rows[d])
+          # リファラーは週次のスナップショットとして別ファイルに追記
+          import datetime
+          refs = json.load(open('/tmp/referrers.json'))
+          if refs:
+              rpath = 'stats/referrers.csv'
+              new = not os.path.exists(rpath)
+              with open(rpath, 'a', newline='') as f:
+                  w = csv.writer(f)
+                  if new:
+                      w.writerow(['snapshot_date', 'referrer', 'count', 'uniques'])
+                  today = datetime.date.today().isoformat()
+                  for r in refs:
+                      w.writerow([today, r['referrer'], r['count'], r['uniques']])
+          EOF
+      - name: コミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          git diff --cached --quiet || { git commit -m "traffic snapshot"; git push; }
