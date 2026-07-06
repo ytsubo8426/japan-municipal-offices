@@ -1,0 +1,622 @@
+[
+ {
+  "city_code": "13101",
+  "name": "千代田区役所",
+  "postal_code": "102-8688",
+  "address": "千代田区九段南1-2-1",
+  "phone": "03-3264-2111",
+  "official_url": "https://www.city.chiyoda.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13102",
+  "name": "中央区役所",
+  "postal_code": "104-8404",
+  "address": "中央区築地1-1-1",
+  "phone": "03-3543-0211",
+  "official_url": "https://www.city.chuo.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13103",
+  "name": "港区役所",
+  "postal_code": "105-8511",
+  "address": "港区芝公園1-5-25",
+  "phone": "03-3578-2111",
+  "official_url": "https://www.city.minato.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13104",
+  "name": "新宿区役所",
+  "postal_code": "160-8484",
+  "address": "新宿区歌舞伎町1-4-1",
+  "phone": "03-3209-1111",
+  "official_url": "http://www.city.shinjuku.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13105",
+  "name": "文京区役所",
+  "postal_code": "112-8555",
+  "address": "文京区春日1-16-21",
+  "phone": "03-3812-7111",
+  "official_url": "https://www.city.bunkyo.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13106",
+  "name": "台東区役所",
+  "postal_code": "110-8615",
+  "address": "台東区東上野4-5-6",
+  "phone": "03-5246-1111",
+  "official_url": "https://www.city.taito.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13107",
+  "name": "墨田区役所",
+  "postal_code": "130-8640",
+  "address": "墨田区吾妻橋1-23-20",
+  "phone": "03-5608-1111",
+  "official_url": "https://www.city.sumida.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13108",
+  "name": "江東区役所",
+  "postal_code": "135-8383",
+  "address": "江東区東陽4-11-28",
+  "phone": "03-3647-9111",
+  "official_url": "https://www.city.koto.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13109",
+  "name": "品川区役所",
+  "postal_code": "140-8715",
+  "address": "品川区広町2-1-36",
+  "phone": "03-3777-1111",
+  "official_url": "https://www.city.shinagawa.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13110",
+  "name": "目黒区役所",
+  "postal_code": "153-8573",
+  "address": "目黒区上目黒2-19-15",
+  "phone": "03-3715-1111",
+  "official_url": "https://www.city.meguro.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13111",
+  "name": "大田区役所",
+  "postal_code": "144-8621",
+  "address": "大田区蒲田5-13-14",
+  "phone": "03-5744-1111",
+  "official_url": "http://www.city.ota.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13112",
+  "name": "世田谷区役所",
+  "postal_code": "154-8504",
+  "address": "世田谷区世田谷4-21-27",
+  "phone": "03-5432-1111",
+  "official_url": "https://www.city.setagaya.lg.jp/index.html",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13113",
+  "name": "渋谷区役所",
+  "postal_code": "150-8010",
+  "address": "渋谷区宇田川町1-1",
+  "phone": "03-3463-1211",
+  "official_url": "http://www.city.shibuya.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13114",
+  "name": "中野区役所",
+  "postal_code": "164-8501",
+  "address": "中野区中野4-11-19",
+  "phone": "03-3389-1111",
+  "official_url": "https://www.city.tokyo-nakano.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13115",
+  "name": "杉並区役所",
+  "postal_code": "166-8570",
+  "address": "杉並区阿佐谷南1-15-1",
+  "phone": "03-3312-2111",
+  "official_url": "https://www.city.suginami.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13116",
+  "name": "豊島区役所",
+  "postal_code": "171-8422",
+  "address": "豊島区南池袋2-45-1",
+  "phone": "03-3981-1111",
+  "official_url": "http://www.city.toshima.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13117",
+  "name": "北区役所",
+  "postal_code": "114-8508",
+  "address": "北区王子本町1-15-22",
+  "phone": "03-3908-1111",
+  "official_url": "http://www.city.kita.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13118",
+  "name": "荒川区役所",
+  "postal_code": "116-8501",
+  "address": "荒川区荒川2-2-3",
+  "phone": "03-3802-3111",
+  "official_url": "https://www.city.arakawa.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13119",
+  "name": "板橋区役所",
+  "postal_code": "173-8501",
+  "address": "板橋区板橋2-66-1",
+  "phone": "03-3964-1111",
+  "official_url": "https://www.city.itabashi.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13120",
+  "name": "練馬区役所",
+  "postal_code": "176-8501",
+  "address": "練馬区豊玉北6-12-1",
+  "phone": "03-3993-1111",
+  "official_url": "https://www.city.nerima.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13121",
+  "name": "足立区役所",
+  "postal_code": "120-8510",
+  "address": "足立区中央本町1-17-1",
+  "phone": "03-3880-5111",
+  "official_url": "https://www.city.adachi.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13122",
+  "name": "葛飾区役所",
+  "postal_code": "124-8555",
+  "address": "葛飾区立石5-13-1",
+  "phone": "03-3695-1111",
+  "official_url": "https://www.city.katsushika.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13123",
+  "name": "江戸川区役所",
+  "postal_code": "132-8501",
+  "address": "江戸川区中央1-4-1",
+  "phone": "03-3652-1151",
+  "official_url": "https://www.city.edogawa.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13201",
+  "name": "八王子市役所",
+  "postal_code": "192-8501",
+  "address": "八王子市元本郷町3-24-1",
+  "phone": "042-626-3111",
+  "official_url": "https://www.city.hachioji.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13202",
+  "name": "立川市役所",
+  "postal_code": "190-8666",
+  "address": "立川市泉町1156-9",
+  "phone": "042-523-2111",
+  "official_url": "https://www.city.tachikawa.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13203",
+  "name": "武蔵野市役所",
+  "postal_code": "180-8777",
+  "address": "武蔵野市緑町2-2-28",
+  "phone": "0422-51-5131",
+  "official_url": "http://www.city.musashino.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13204",
+  "name": "三鷹市役所",
+  "postal_code": "181-8555",
+  "address": "三鷹市野崎1-1-1",
+  "phone": "0422-45-1151",
+  "official_url": "https://www.city.mitaka.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13205",
+  "name": "青梅市役所",
+  "postal_code": "198-8701",
+  "address": "青梅市東青梅1-11-1",
+  "phone": "0428-22-1111",
+  "official_url": "https://www.city.ome.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13206",
+  "name": "府中市役所",
+  "postal_code": "183-8703",
+  "address": "府中市宮西町2-24",
+  "phone": "042-364-4111",
+  "official_url": "http://www.city.fuchu.tokyo.jp/index.html",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13207",
+  "name": "昭島市役所",
+  "postal_code": "196-8511",
+  "address": "昭島市田中町1-17-1",
+  "phone": "042-544-5111",
+  "official_url": "https://www.city.akishima.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13208",
+  "name": "調布市役所",
+  "postal_code": "182-8511",
+  "address": "調布市小島町2-35-1",
+  "phone": "042-481-7111",
+  "official_url": "https://www.city.chofu.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13209",
+  "name": "町田市役所",
+  "postal_code": "194-8520",
+  "address": "町田市森野2-2-22",
+  "phone": "042-722-3111",
+  "official_url": "https://www.city.machida.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13210",
+  "name": "小金井市役所",
+  "postal_code": "184-8504",
+  "address": "小金井市本町6-6-3",
+  "phone": "042-383-1111",
+  "official_url": "http://www.city.koganei.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13211",
+  "name": "小平市役所",
+  "postal_code": "187-8701",
+  "address": "小平市小川町2-1333",
+  "phone": "042-341-1211",
+  "official_url": "http://www.city.kodaira.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13212",
+  "name": "日野市役所",
+  "postal_code": "191-8686",
+  "address": "日野市神明1-12-1",
+  "phone": "042-585-1111",
+  "official_url": "http://www.city.hino.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13213",
+  "name": "東村山市役所",
+  "postal_code": "189-8501",
+  "address": "東村山市本町1-2-3",
+  "phone": "042-393-5111",
+  "official_url": "https://www.city.higashimurayama.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13214",
+  "name": "国分寺市役所",
+  "postal_code": "185-8501",
+  "address": "国分寺市泉町2-2-18",
+  "phone": "042-325-0111",
+  "official_url": "https://www.city.kokubunji.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13215",
+  "name": "国立市役所",
+  "postal_code": "186-8501",
+  "address": "国立市富士見台2-47-1",
+  "phone": "042-576-2111",
+  "official_url": "https://www.city.kunitachi.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13218",
+  "name": "福生市役所",
+  "postal_code": "197-8501",
+  "address": "福生市本町5",
+  "phone": "042-551-1511",
+  "official_url": "https://www.city.fussa.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13219",
+  "name": "狛江市役所",
+  "postal_code": "201-8585",
+  "address": "狛江市和泉本町1-1-5",
+  "phone": "03-3430-1111",
+  "official_url": "http://www.city.komae.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13220",
+  "name": "東大和市役所",
+  "postal_code": "207-8585",
+  "address": "東大和市中央3-930",
+  "phone": "042-563-2111",
+  "official_url": "https://www.city.higashiyamato.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13221",
+  "name": "清瀬市役所",
+  "postal_code": "204-8511",
+  "address": "清瀬市中里5-842",
+  "phone": "042-492-5111",
+  "official_url": "https://www.city.kiyose.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13222",
+  "name": "東久留米市役所",
+  "postal_code": "203-8555",
+  "address": "東久留米市本町3-3-1",
+  "phone": "042-470-7777",
+  "official_url": "https://www.city.higashikurume.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13223",
+  "name": "武蔵村山市役所",
+  "postal_code": "208-8501",
+  "address": "武蔵村山市本町1-1-1",
+  "phone": "042-565-1111",
+  "official_url": "https://www.city.musashimurayama.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13224",
+  "name": "多摩市役所",
+  "postal_code": "206-8666",
+  "address": "多摩市関戸6-12-1",
+  "phone": "042-375-8111",
+  "official_url": "http://www.city.tama.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13225",
+  "name": "稲城市役所",
+  "postal_code": "206-8601",
+  "address": "稲城市東長沼2111",
+  "phone": "042-378-2111",
+  "official_url": "http://www.city.inagi.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13227",
+  "name": "羽村市役所",
+  "postal_code": "205-8601",
+  "address": "羽村市緑ヶ丘5-2-1",
+  "phone": "042-555-1111",
+  "official_url": "http://www.city.hamura.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13228",
+  "name": "あきる野市役所",
+  "postal_code": "197-0814",
+  "address": "あきる野市二宮350",
+  "phone": "042-558-1111",
+  "official_url": "https://www.city.akiruno.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13229",
+  "name": "西東京市役所",
+  "postal_code": "188-8666",
+  "address": "西東京市南町5-6-13",
+  "phone": "042-464-1311",
+  "official_url": "http://www.city.nishitokyo.lg.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13303",
+  "name": "瑞穂町役場",
+  "postal_code": "190-1292",
+  "address": "西多摩郡瑞穂町大字箱根ヶ崎2335",
+  "phone": "042-557-0501",
+  "official_url": "http://www.town.mizuho.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13305",
+  "name": "日の出町役場",
+  "postal_code": "190-0192",
+  "address": "西多摩郡日の出町大字平井2780",
+  "phone": "042-597-0511",
+  "official_url": "https://www.town.hinode.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13307",
+  "name": "檜原村役場",
+  "postal_code": "190-0212",
+  "address": "西多摩郡檜原村467-1",
+  "phone": "042-598-1011",
+  "official_url": "http://www.vill.hinohara.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13308",
+  "name": "奥多摩町役場",
+  "postal_code": "198-0212",
+  "address": "西多摩郡奥多摩町氷川215-6",
+  "phone": "0428-83-2111",
+  "official_url": "http://www.town.okutama.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13361",
+  "name": "大島町役場",
+  "postal_code": "100-0101",
+  "address": "大島町元町1-1-14",
+  "phone": "04992-2-1443",
+  "official_url": "https://www.town.oshima.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13362",
+  "name": "利島村役場",
+  "postal_code": "100-0301",
+  "address": "利島村248",
+  "phone": "04992-9-0011",
+  "official_url": "http://www.toshimamura.org/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13363",
+  "name": "新島村役場",
+  "postal_code": "100-0402",
+  "address": "新島村本村1-1-1",
+  "phone": "04992-5-0240",
+  "official_url": "http://www.niijima.com/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13364",
+  "name": "神津島村役場",
+  "postal_code": "100-0601",
+  "address": "神津島村904",
+  "phone": "04992-8-0011",
+  "official_url": "https://vill.kouzushima.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13381",
+  "name": "三宅村役場",
+  "postal_code": "100-1212",
+  "address": "三宅村阿古497",
+  "phone": "04994-5-0981",
+  "official_url": "https://www.vill.miyake.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13382",
+  "name": "御蔵島村役場",
+  "postal_code": "100-1301",
+  "address": "御蔵島村字入かねが沢",
+  "phone": "04994-8-2121",
+  "official_url": "http://www.mikurasima.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13401",
+  "name": "八丈町役場",
+  "postal_code": "100-1498",
+  "address": "八丈町大賀郷2551-2",
+  "phone": "04996-2-1121",
+  "official_url": "https://www.town.hachijo.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13402",
+  "name": "青ヶ島村役場",
+  "postal_code": "100-1701",
+  "address": "青ヶ島村無番地",
+  "phone": "04996-9-0111",
+  "official_url": "http://www.vill.aogashima.tokyo.jp/top.html",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "13421",
+  "name": "小笠原村役場",
+  "postal_code": "100-2101",
+  "address": "小笠原村父島字西町",
+  "phone": "04998-2-3111",
+  "official_url": "https://www.vill.ogasawara.tokyo.jp/",
+  "source_url": "https://www.metro.tokyo.lg.jp/tosei/iken-sodan/sodan/ichiran",
+  "verified_at": "2026-07-05"
+ }
+]

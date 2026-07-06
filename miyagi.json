@@ -1,0 +1,402 @@
+[
+ {
+  "city_code": "04100",
+  "name": "仙台市役所",
+  "postal_code": "980-8671",
+  "address": "仙台市青葉区国分町三丁目7番1号",
+  "phone": "022-261-1111",
+  "official_url": "https://www.city.sendai.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04101",
+  "name": "仙台市青葉区役所",
+  "postal_code": "980-8701",
+  "address": "仙台市青葉区上杉一丁目5番1号",
+  "phone": "022-225-7211",
+  "official_url": "https://www.city.sendai.jp/aobaku/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04102",
+  "name": "仙台市宮城野区役所",
+  "postal_code": "983-8601",
+  "address": "仙台市宮城野区五輪二丁目12番35号",
+  "phone": "022-291-2111",
+  "official_url": "https://www.city.sendai.jp/miyaginoku/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04103",
+  "name": "仙台市若林区役所",
+  "postal_code": "984-8601",
+  "address": "仙台市若林区保春院前丁3番地の1",
+  "phone": "022-282-1111",
+  "official_url": "https://www.city.sendai.jp/wakabayashiku/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04104",
+  "name": "仙台市太白区役所",
+  "postal_code": "982-8601",
+  "address": "仙台市太白区長町南三丁目1番15号",
+  "phone": "022-247-1111",
+  "official_url": "https://www.city.sendai.jp/taihakuku/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04105",
+  "name": "仙台市泉区役所",
+  "postal_code": "981-3189",
+  "address": "仙台市泉区泉中央二丁目1番地の1",
+  "phone": "022-372-3111",
+  "official_url": "https://www.city.sendai.jp/izumiku/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04202",
+  "name": "石巻市役所",
+  "postal_code": "986-8501",
+  "address": "石巻市穀町14番1号",
+  "phone": "0225-95-1111",
+  "official_url": "https://www.city.ishinomaki.lg.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04203",
+  "name": "塩竈市役所",
+  "postal_code": "985-8501",
+  "address": "塩竈市旭町1番1号",
+  "phone": "022-364-1111",
+  "official_url": "https://www.city.shiogama.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04205",
+  "name": "気仙沼市役所",
+  "postal_code": "988-8501",
+  "address": "気仙沼市八日町一丁目1番1号",
+  "phone": "0226-22-6600",
+  "official_url": "https://www.kesennuma.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04206",
+  "name": "白石市役所",
+  "postal_code": "989-0292",
+  "address": "白石市大手町1番1号",
+  "phone": "0224-25-2111",
+  "official_url": "https://www.city.shiroishi.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04207",
+  "name": "名取市役所",
+  "postal_code": "981-1292",
+  "address": "名取市増田字柳田80番地",
+  "phone": "022-384-2111",
+  "official_url": "https://www.city.natori.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04208",
+  "name": "角田市役所",
+  "postal_code": "981-1592",
+  "address": "角田市角田字大坊41番地",
+  "phone": "0224-63-2111",
+  "official_url": "https://www.city.kakuda.lg.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04209",
+  "name": "多賀城市役所",
+  "postal_code": "985-8531",
+  "address": "多賀城市中央二丁目1番1号",
+  "phone": "022-368-1141",
+  "official_url": "https://www.city.tagajo.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04211",
+  "name": "岩沼市役所",
+  "postal_code": "989-2480",
+  "address": "岩沼市桜一丁目6番20号",
+  "phone": "0223-22-1111",
+  "official_url": "https://www.city.iwanuma.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04212",
+  "name": "登米市役所",
+  "postal_code": "987-0511",
+  "address": "登米市迫町佐沼字中江二丁目6番地1",
+  "phone": "0220-22-2111",
+  "official_url": "https://www.city.tome.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04213",
+  "name": "栗原市役所",
+  "postal_code": "987-2293",
+  "address": "栗原市築館薬師一丁目7番1号",
+  "phone": "0228-22-1122",
+  "official_url": "https://www.kuriharacity.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04214",
+  "name": "東松島市役所",
+  "postal_code": "981-0503",
+  "address": "東松島市矢本字上河戸36番地1",
+  "phone": "0225-82-1111",
+  "official_url": "https://www.city.higashimatsushima.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04215",
+  "name": "大崎市役所",
+  "postal_code": "989-6188",
+  "address": "大崎市古川七日町1番1号",
+  "phone": "0229-23-2111",
+  "official_url": "https://www.city.osaki.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04216",
+  "name": "富谷市役所",
+  "postal_code": "981-3392",
+  "address": "富谷市富谷坂松田30番地",
+  "phone": "022-358-3111",
+  "official_url": "https://www.tomiya-city.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04301",
+  "name": "蔵王町役場",
+  "postal_code": "989-0892",
+  "address": "刈田郡蔵王町大字円田字西浦北10番地",
+  "phone": "0224-33-2211",
+  "official_url": "https://www.town.zao.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04302",
+  "name": "七ヶ宿町役場",
+  "postal_code": "989-0592",
+  "address": "刈田郡七ヶ宿町字関126番地",
+  "phone": "0224-37-2111",
+  "official_url": "https://town.shichikashuku.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04321",
+  "name": "大河原町役場",
+  "postal_code": "989-1295",
+  "address": "柴田郡大河原町字新南19番地",
+  "phone": "0224-53-2111",
+  "official_url": "https://www.town.ogawara.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04322",
+  "name": "村田町役場",
+  "postal_code": "989-1392",
+  "address": "柴田郡村田町大字村田字迫6番地",
+  "phone": "0224-83-2111",
+  "official_url": "https://www.town.murata.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04323",
+  "name": "柴田町役場",
+  "postal_code": "989-1692",
+  "address": "柴田郡柴田町船岡中央二丁目3番45号",
+  "phone": "0224-55-2111",
+  "official_url": "https://www.town.shibata.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04324",
+  "name": "川崎町役場",
+  "postal_code": "989-1592",
+  "address": "柴田郡川崎町大字前川字裏丁175番地1",
+  "phone": "0224-84-2111",
+  "official_url": "https://www.town.kawasaki.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04341",
+  "name": "丸森町役場",
+  "postal_code": "981-2192",
+  "address": "伊具郡丸森町字鳥屋120番地",
+  "phone": "0224-72-2111",
+  "official_url": "https://www.town.marumori.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04361",
+  "name": "亘理町役場",
+  "postal_code": "989-2393",
+  "address": "亘理郡亘理町字悠里1番地",
+  "phone": "0223-34-1111",
+  "official_url": "https://www.town.watari.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04362",
+  "name": "山元町役場",
+  "postal_code": "989-2292",
+  "address": "亘理郡山元町浅生原字作田山32番地",
+  "phone": "0223-37-1111",
+  "official_url": "https://www.town.yamamoto.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04401",
+  "name": "松島町役場",
+  "postal_code": "981-0215",
+  "address": "宮城郡松島町高城字帰命院下一19番地の1",
+  "phone": "022-354-5701",
+  "official_url": "https://www.town.miyagi-matsushima.lg.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04404",
+  "name": "七ヶ浜町役場",
+  "postal_code": "985-8577",
+  "address": "宮城郡七ヶ浜町東宮浜字丑谷辺5番地の1",
+  "phone": "022-357-2111",
+  "official_url": "https://www.shichigahama.com/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04406",
+  "name": "利府町役場",
+  "postal_code": "981-0112",
+  "address": "宮城郡利府町利府字新並松4番地",
+  "phone": "022-767-2111",
+  "official_url": "https://www.town.rifu.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04421",
+  "name": "大和町役場",
+  "postal_code": "981-3680",
+  "address": "黒川郡大和町吉岡まほろば一丁目1番地の1",
+  "phone": "022-345-1111",
+  "official_url": "https://www.town.taiwa.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04422",
+  "name": "大郷町役場",
+  "postal_code": "981-3592",
+  "address": "黒川郡大郷町粕川字西長崎5番地の8",
+  "phone": "022-359-3111",
+  "official_url": "https://www.town.miyagi-osato.lg.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04424",
+  "name": "大衡村役場",
+  "postal_code": "981-3692",
+  "address": "黒川郡大衡村大衡字平林62番地",
+  "phone": "022-345-5111",
+  "official_url": "https://www.village.ohira.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04444",
+  "name": "色麻町役場",
+  "postal_code": "981-4122",
+  "address": "加美郡色麻町四竃字北谷地41番地",
+  "phone": "0229-65-2111",
+  "official_url": "https://www.town.shikama.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04445",
+  "name": "加美町役場",
+  "postal_code": "981-4292",
+  "address": "加美郡加美町字西田三番5番地",
+  "phone": "0229-63-3111",
+  "official_url": "https://www.town.kami.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04501",
+  "name": "涌谷町役場",
+  "postal_code": "987-0192",
+  "address": "遠田郡涌谷町字新町裏153番地2",
+  "phone": "0229-43-2111",
+  "official_url": "https://www.town.wakuya.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04505",
+  "name": "美里町役場",
+  "postal_code": "987-8602",
+  "address": "遠田郡美里町北浦字駒米13番地",
+  "phone": "0229-33-2111",
+  "official_url": "https://www.town.misato.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04581",
+  "name": "女川町役場",
+  "postal_code": "986-2265",
+  "address": "牡鹿郡女川町女川一丁目1番地1",
+  "phone": "0225-54-3131",
+  "official_url": "https://www.town.onagawa.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "04606",
+  "name": "南三陸町役場",
+  "postal_code": "986-0725",
+  "address": "本吉郡南三陸町志津川字沼田101番地",
+  "phone": "0226-46-2600",
+  "official_url": "https://www.town.minamisanriku.miyagi.jp/",
+  "source_url": "https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html",
+  "verified_at": "2026-07-06"
+ }
+]

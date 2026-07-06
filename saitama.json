@@ -1,0 +1,732 @@
+[
+ {
+  "city_code": "11100",
+  "name": "さいたま市役所",
+  "postal_code": "330-9588",
+  "address": "さいたま市浦和区常盤6-4-4",
+  "phone": "048-829-1111",
+  "official_url": "http://www.city.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11101",
+  "name": "さいたま市西区役所",
+  "postal_code": "331-8587",
+  "address": "さいたま市西区西大宮3-4-2",
+  "phone": "048-622-1111",
+  "official_url": "https://www.city.saitama.lg.jp/nishi/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11102",
+  "name": "さいたま市北区役所",
+  "postal_code": "331-8586",
+  "address": "さいたま市北区宮原町1-852-1",
+  "phone": "048-653-1111",
+  "official_url": "https://www.city.saitama.lg.jp/kita/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11103",
+  "name": "さいたま市大宮区役所",
+  "postal_code": "330-8501",
+  "address": "さいたま市大宮区吉敷町1-124-1",
+  "phone": "048-657-0111",
+  "official_url": "https://www.city.saitama.lg.jp/omiya/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11104",
+  "name": "さいたま市見沼区役所",
+  "postal_code": "337-8586",
+  "address": "さいたま市見沼区堀崎町12-36",
+  "phone": "048-687-1111",
+  "official_url": "https://www.city.saitama.lg.jp/minuma/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11105",
+  "name": "さいたま市中央区役所",
+  "postal_code": "338-8686",
+  "address": "さいたま市中央区下落合5-7-10",
+  "phone": "048-856-1111",
+  "official_url": "https://www.city.saitama.lg.jp/chuo/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11106",
+  "name": "さいたま市桜区役所",
+  "postal_code": "338-8586",
+  "address": "さいたま市桜区道場4-3-1",
+  "phone": "048-858-1111",
+  "official_url": "https://www.city.saitama.lg.jp/sakura/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11107",
+  "name": "さいたま市浦和区役所",
+  "postal_code": "330-9586",
+  "address": "さいたま市浦和区常盤6-4-4",
+  "phone": "048-825-1111",
+  "official_url": "https://www.city.saitama.lg.jp/urawa/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11108",
+  "name": "さいたま市南区役所",
+  "postal_code": "336-8586",
+  "address": "さいたま市南区別所7-20-1",
+  "phone": "048-838-1111",
+  "official_url": "https://www.city.saitama.lg.jp/minami/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11109",
+  "name": "さいたま市緑区役所",
+  "postal_code": "336-8587",
+  "address": "さいたま市緑区大字中尾975-1",
+  "phone": "048-874-1111",
+  "official_url": "https://www.city.saitama.lg.jp/midori/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11110",
+  "name": "さいたま市岩槻区役所",
+  "postal_code": "339-8585",
+  "address": "さいたま市岩槻区本町3-2-5",
+  "phone": "048-790-0111",
+  "official_url": "https://www.city.saitama.lg.jp/iwatsuki/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11201",
+  "name": "川越市役所",
+  "postal_code": "350-8601",
+  "address": "川越市元町1-3-1",
+  "phone": "049-224-8811",
+  "official_url": "http://www.city.kawagoe.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11202",
+  "name": "熊谷市役所",
+  "postal_code": "360-8601",
+  "address": "熊谷市宮町2-47-1",
+  "phone": "048-524-1111",
+  "official_url": "http://www.city.kumagaya.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11203",
+  "name": "川口市役所",
+  "postal_code": "332-8601",
+  "address": "川口市青木2-1-1",
+  "phone": "048-258-1110",
+  "official_url": "https://www.city.kawaguchi.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11206",
+  "name": "行田市役所",
+  "postal_code": "361-8601",
+  "address": "行田市本丸2-5",
+  "phone": "048-556-1111",
+  "official_url": "http://www.city.gyoda.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11207",
+  "name": "秩父市役所",
+  "postal_code": "368-8686",
+  "address": "秩父市熊木町8-15",
+  "phone": "0494-22-2211",
+  "official_url": "http://www.city.chichibu.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11208",
+  "name": "所沢市役所",
+  "postal_code": "359-8501",
+  "address": "所沢市並木1-1-1",
+  "phone": "04-2998-1111",
+  "official_url": "http://www.city.tokorozawa.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11209",
+  "name": "飯能市役所",
+  "postal_code": "357-8501",
+  "address": "飯能市大字双柳1-1",
+  "phone": "042-973-2111",
+  "official_url": "https://www.city.hanno.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11210",
+  "name": "加須市役所",
+  "postal_code": "347-8501",
+  "address": "加須市三俣2-1-1",
+  "phone": "0480-62-1111",
+  "official_url": "https://www.city.kazo.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11211",
+  "name": "本庄市役所",
+  "postal_code": "367-8501",
+  "address": "本庄市本庄3-5-3",
+  "phone": "0495-25-1111",
+  "official_url": "http://www.city.honjo.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11212",
+  "name": "東松山市役所",
+  "postal_code": "355-8601",
+  "address": "東松山市松葉町1-1-58",
+  "phone": "0493-23-2221",
+  "official_url": "http://www.city.higashimatsuyama.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11214",
+  "name": "春日部市役所",
+  "postal_code": "344-8577",
+  "address": "春日部市中央7-2-1",
+  "phone": "048-736-1111",
+  "official_url": "http://www.city.kasukabe.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11215",
+  "name": "狭山市役所",
+  "postal_code": "350-1380",
+  "address": "狭山市入間川1-23-5",
+  "phone": "04-2953-1111",
+  "official_url": "http://www.city.sayama.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11216",
+  "name": "羽生市役所",
+  "postal_code": "348-8601",
+  "address": "羽生市東6-15",
+  "phone": "048-561-1121",
+  "official_url": "http://www.city.hanyu.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11217",
+  "name": "鴻巣市役所",
+  "postal_code": "365-8601",
+  "address": "鴻巣市中央1-1",
+  "phone": "048-541-1321",
+  "official_url": "http://www.city.kounosu.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11218",
+  "name": "深谷市役所",
+  "postal_code": "366-8501",
+  "address": "深谷市仲町11-1",
+  "phone": "048-571-1211",
+  "official_url": "http://www.city.fukaya.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11219",
+  "name": "上尾市役所",
+  "postal_code": "362-8501",
+  "address": "上尾市本町3-1-1",
+  "phone": "048-775-5111",
+  "official_url": "http://www.city.ageo.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11221",
+  "name": "草加市役所",
+  "postal_code": "340-8550",
+  "address": "草加市高砂1-1-1",
+  "phone": "048-922-0151",
+  "official_url": "http://www.city.soka.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11222",
+  "name": "越谷市役所",
+  "postal_code": "343-8501",
+  "address": "越谷市越ヶ谷4-2-1",
+  "phone": "048-964-2111",
+  "official_url": "http://www.city.koshigaya.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11223",
+  "name": "蕨市役所",
+  "postal_code": "335-8501",
+  "address": "蕨市中央5-14-15",
+  "phone": "048-432-3200",
+  "official_url": "http://www.city.warabi.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11224",
+  "name": "戸田市役所",
+  "postal_code": "335-8588",
+  "address": "戸田市上戸田1-18-1",
+  "phone": "048-441-1800",
+  "official_url": "http://www.city.toda.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11225",
+  "name": "入間市役所",
+  "postal_code": "358-8511",
+  "address": "入間市豊岡1-16-1",
+  "phone": "04-2964-1111",
+  "official_url": "http://www.city.iruma.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11227",
+  "name": "朝霞市役所",
+  "postal_code": "351-8501",
+  "address": "朝霞市本町1-1-1",
+  "phone": "048-463-1111",
+  "official_url": "http://www.city.asaka.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11228",
+  "name": "志木市役所",
+  "postal_code": "353-8501",
+  "address": "志木市中宗岡1-1-1",
+  "phone": "048-473-1111",
+  "official_url": "http://www.city.shiki.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11229",
+  "name": "和光市役所",
+  "postal_code": "351-0192",
+  "address": "和光市広沢1-5",
+  "phone": "048-464-1111",
+  "official_url": "http://www.city.wako.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11230",
+  "name": "新座市役所",
+  "postal_code": "352-8623",
+  "address": "新座市野火止1-1-1",
+  "phone": "048-477-1111",
+  "official_url": "http://www.city.niiza.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11231",
+  "name": "桶川市役所",
+  "postal_code": "363-8501",
+  "address": "桶川市泉1-3-28",
+  "phone": "048-786-3211",
+  "official_url": "http://www.city.okegawa.lg.jp/index.html",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11232",
+  "name": "久喜市役所",
+  "postal_code": "346-8501",
+  "address": "久喜市下早見85-3",
+  "phone": "0480-22-1111",
+  "official_url": "http://www.city.kuki.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11233",
+  "name": "北本市役所",
+  "postal_code": "364-8633",
+  "address": "北本市本町1-111",
+  "phone": "048-591-1111",
+  "official_url": "https://www.city.kitamoto.lg.jp/index.html",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11234",
+  "name": "八潮市役所",
+  "postal_code": "340-8588",
+  "address": "八潮市中央1-2-1",
+  "phone": "048-996-2111",
+  "official_url": "http://www.city.yashio.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11235",
+  "name": "富士見市役所",
+  "postal_code": "354-8511",
+  "address": "富士見市大字鶴馬1800-1",
+  "phone": "049-251-2711",
+  "official_url": "http://www.city.fujimi.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11237",
+  "name": "三郷市役所",
+  "postal_code": "341-8501",
+  "address": "三郷市花和田648-1",
+  "phone": "048-953-1111",
+  "official_url": "http://www.city.misato.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11238",
+  "name": "蓮田市役所",
+  "postal_code": "349-0193",
+  "address": "蓮田市大字黒浜2799-1",
+  "phone": "048-768-3111",
+  "official_url": "http://www.city.hasuda.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11239",
+  "name": "坂戸市役所",
+  "postal_code": "350-0292",
+  "address": "坂戸市千代田1-1-1",
+  "phone": "049-283-1331",
+  "official_url": "http://www.city.sakado.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11240",
+  "name": "幸手市役所",
+  "postal_code": "340-0192",
+  "address": "幸手市東4-6-8",
+  "phone": "0480-43-1111",
+  "official_url": "https://www.city.satte.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11241",
+  "name": "鶴ヶ島市役所",
+  "postal_code": "350-2292",
+  "address": "鶴ヶ島市大字三ツ木16-1",
+  "phone": "049-271-1111",
+  "official_url": "http://www.city.tsurugashima.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11242",
+  "name": "日高市役所",
+  "postal_code": "350-1292",
+  "address": "日高市大字南平沢1020",
+  "phone": "042-989-2111",
+  "official_url": "http://www.city.hidaka.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11243",
+  "name": "吉川市役所",
+  "postal_code": "342-8501",
+  "address": "吉川市きよみ野1-1",
+  "phone": "048-982-5111",
+  "official_url": "http://www.city.yoshikawa.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11245",
+  "name": "ふじみ野市役所",
+  "postal_code": "356-8501",
+  "address": "ふじみ野市福岡1-1-1",
+  "phone": "049-261-2611",
+  "official_url": "http://www.city.fujimino.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11246",
+  "name": "白岡市役所",
+  "postal_code": "349-0292",
+  "address": "白岡市千駄野432",
+  "phone": "0480-92-1111",
+  "official_url": "http://www.city.shiraoka.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11301",
+  "name": "伊奈町役場",
+  "postal_code": "362-8517",
+  "address": "伊奈町中央4-355",
+  "phone": "048-721-2111",
+  "official_url": "http://www.town.saitama-ina.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11324",
+  "name": "三芳町役場",
+  "postal_code": "354-8555",
+  "address": "三芳町大字藤久保1100-1",
+  "phone": "049-258-0019",
+  "official_url": "http://www.town.saitama-miyoshi.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11326",
+  "name": "毛呂山町役場",
+  "postal_code": "350-0493",
+  "address": "毛呂山町中央2-1",
+  "phone": "049-295-2112",
+  "official_url": "http://www.town.moroyama.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11327",
+  "name": "越生町役場",
+  "postal_code": "350-0494",
+  "address": "越生町大字越生900-2",
+  "phone": "049-292-3121",
+  "official_url": "http://www.town.ogose.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11341",
+  "name": "滑川町役場",
+  "postal_code": "355-8585",
+  "address": "滑川町大字福田750-1",
+  "phone": "0493-56-2211",
+  "official_url": "http://www.town.namegawa.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11342",
+  "name": "嵐山町役場",
+  "postal_code": "355-0211",
+  "address": "嵐山町大字杉山1030-1",
+  "phone": "0493-62-2150",
+  "official_url": "http://www.town.ranzan.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11343",
+  "name": "小川町役場",
+  "postal_code": "355-0392",
+  "address": "小川町大字大塚55",
+  "phone": "0493-72-1221",
+  "official_url": "http://www.town.ogawa.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11346",
+  "name": "川島町役場",
+  "postal_code": "350-0192",
+  "address": "川島町大字下八ツ林870-1",
+  "phone": "049-297-1811",
+  "official_url": "http://www.town.kawajima.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11347",
+  "name": "吉見町役場",
+  "postal_code": "355-0192",
+  "address": "吉見町大字下細谷411",
+  "phone": "0493-54-1511",
+  "official_url": "http://www.town.yoshimi.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11348",
+  "name": "鳩山町役場",
+  "postal_code": "350-0392",
+  "address": "鳩山町大字大豆戸184-16",
+  "phone": "049-296-1211",
+  "official_url": "http://www.town.hatoyama.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11349",
+  "name": "ときがわ町役場",
+  "postal_code": "355-0395",
+  "address": "ときがわ町大字玉川2490",
+  "phone": "0493-65-1521",
+  "official_url": "http://www.town.tokigawa.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11361",
+  "name": "横瀬町役場",
+  "postal_code": "368-0072",
+  "address": "横瀬町大字横瀬4545",
+  "phone": "0494-25-0111",
+  "official_url": "http://www.town.yokoze.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11362",
+  "name": "皆野町役場",
+  "postal_code": "369-1492",
+  "address": "皆野町大字皆野1420-1",
+  "phone": "0494-62-1230",
+  "official_url": "http://www.town.minano.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11363",
+  "name": "長瀞町役場",
+  "postal_code": "369-1392",
+  "address": "長瀞町大字本野上1035-1",
+  "phone": "0494-66-3111",
+  "official_url": "http://www.town.nagatoro.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11365",
+  "name": "小鹿野町役場",
+  "postal_code": "368-0192",
+  "address": "小鹿野町小鹿野89",
+  "phone": "0494-75-1221",
+  "official_url": "http://www.town.ogano.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11369",
+  "name": "東秩父村役場",
+  "postal_code": "355-0393",
+  "address": "東秩父村大字御堂634",
+  "phone": "0493-82-1221",
+  "official_url": "http://www.vill.higashichichibu.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11381",
+  "name": "美里町役場",
+  "postal_code": "367-0194",
+  "address": "美里町大字木部323-1",
+  "phone": "0495-76-1111",
+  "official_url": "http://www.town.saitama-misato.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11383",
+  "name": "神川町役場",
+  "postal_code": "367-0292",
+  "address": "神川町大字植竹909",
+  "phone": "0495-77-2111",
+  "official_url": "http://www.town.kamikawa.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11385",
+  "name": "上里町役場",
+  "postal_code": "369-0392",
+  "address": "上里町大字七本木5518",
+  "phone": "0495-35-1221",
+  "official_url": "http://www.town.kamisato.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11408",
+  "name": "寄居町役場",
+  "postal_code": "369-1292",
+  "address": "寄居町大字寄居1180-1",
+  "phone": "048-581-2121",
+  "official_url": "http://www.town.yorii.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11442",
+  "name": "宮代町役場",
+  "postal_code": "345-8504",
+  "address": "宮代町笠原1-4-1",
+  "phone": "0480-34-1111",
+  "official_url": "http://www.town.miyashiro.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11464",
+  "name": "杉戸町役場",
+  "postal_code": "345-8502",
+  "address": "杉戸町清地2-9-29",
+  "phone": "0480-33-1111",
+  "official_url": "http://www.town.sugito.lg.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "11465",
+  "name": "松伏町役場",
+  "postal_code": "343-0192",
+  "address": "松伏町大字松伏2424",
+  "phone": "048-991-2711",
+  "official_url": "http://www.town.matsubushi.saitama.jp/",
+  "source_url": "https://www.pref.saitama.lg.jp/a0107/jyuuminnokatahe/sityousondate.html",
+  "verified_at": "2026-07-05"
+ }
+]

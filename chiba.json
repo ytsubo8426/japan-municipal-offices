@@ -1,0 +1,602 @@
+[
+ {
+  "city_code": "12100",
+  "name": "千葉市役所",
+  "postal_code": "260-8722",
+  "address": "千葉市中央区千葉港1-1",
+  "phone": "043-245-5111",
+  "official_url": "https://www.city.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12101",
+  "name": "千葉市中央区役所",
+  "postal_code": "260-8733",
+  "address": "千葉市中央区中央3-10-8",
+  "phone": "043-221-2111",
+  "official_url": "https://www.city.chiba.jp/chuo/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12102",
+  "name": "千葉市花見川区役所",
+  "postal_code": "262-8733",
+  "address": "千葉市花見川区瑞穂1-1",
+  "phone": "043-275-6111",
+  "official_url": "https://www.city.chiba.jp/hanamigawa/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12103",
+  "name": "千葉市稲毛区役所",
+  "postal_code": "263-8733",
+  "address": "千葉市稲毛区穴川4-12-1",
+  "phone": "043-284-6111",
+  "official_url": "https://www.city.chiba.jp/inage/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12104",
+  "name": "千葉市若葉区役所",
+  "postal_code": "264-8733",
+  "address": "千葉市若葉区桜木北2-1-1",
+  "phone": "043-233-8111",
+  "official_url": "https://www.city.chiba.jp/wakaba/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12105",
+  "name": "千葉市緑区役所",
+  "postal_code": "266-8733",
+  "address": "千葉市緑区おゆみ野3-15-3",
+  "phone": "043-292-8111",
+  "official_url": "https://www.city.chiba.jp/midori/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12106",
+  "name": "千葉市美浜区役所",
+  "postal_code": "261-8733",
+  "address": "千葉市美浜区真砂5-15-1",
+  "phone": "043-270-3111",
+  "official_url": "https://www.city.chiba.jp/mihama/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12202",
+  "name": "銚子市役所",
+  "postal_code": "288-8601",
+  "address": "銚子市若宮町1-1",
+  "phone": "0479-24-8181",
+  "official_url": "https://www.city.choshi.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12203",
+  "name": "市川市役所",
+  "postal_code": "272-8501",
+  "address": "市川市八幡1-1-1",
+  "phone": "047-334-1111",
+  "official_url": "https://www.city.ichikawa.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12204",
+  "name": "船橋市役所",
+  "postal_code": "273-8501",
+  "address": "船橋市湊町2-10-25",
+  "phone": "047-436-2111",
+  "official_url": "https://www.city.funabashi.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12205",
+  "name": "館山市役所",
+  "postal_code": "294-8601",
+  "address": "館山市北条1145-1",
+  "phone": "0470-22-3111",
+  "official_url": "https://www.city.tateyama.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12206",
+  "name": "木更津市役所",
+  "postal_code": "292-8501",
+  "address": "木更津市富士見1-2-1",
+  "phone": "0438-23-7111",
+  "official_url": "https://www.city.kisarazu.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12207",
+  "name": "松戸市役所",
+  "postal_code": "271-8588",
+  "address": "松戸市根本387-5",
+  "phone": "047-366-1111",
+  "official_url": "https://www.city.matsudo.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12208",
+  "name": "野田市役所",
+  "postal_code": "278-8550",
+  "address": "野田市鶴奉7-1",
+  "phone": "04-7125-1111",
+  "official_url": "https://www.city.noda.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12210",
+  "name": "茂原市役所",
+  "postal_code": "297-8511",
+  "address": "茂原市道表1",
+  "phone": "0475-23-2111",
+  "official_url": "https://www.city.mobara.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12211",
+  "name": "成田市役所",
+  "postal_code": "286-8585",
+  "address": "成田市花崎町760",
+  "phone": "0476-22-1111",
+  "official_url": "https://www.city.narita.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12212",
+  "name": "佐倉市役所",
+  "postal_code": "285-8501",
+  "address": "佐倉市海隣寺町97",
+  "phone": "043-484-1111",
+  "official_url": "https://www.city.sakura.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12213",
+  "name": "東金市役所",
+  "postal_code": "283-8511",
+  "address": "東金市東岩崎1-1",
+  "phone": "0475-50-1111",
+  "official_url": "https://www.city.togane.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12215",
+  "name": "旭市役所",
+  "postal_code": "289-2595",
+  "address": "旭市ニ2132",
+  "phone": "0479-62-1212",
+  "official_url": "https://www.city.asahi.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12216",
+  "name": "習志野市役所",
+  "postal_code": "275-8601",
+  "address": "習志野市鷺沼2-1-1",
+  "phone": "047-451-1151",
+  "official_url": "https://www.city.narashino.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12217",
+  "name": "柏市役所",
+  "postal_code": "277-8505",
+  "address": "柏市柏5-10-1",
+  "phone": "04-7167-1111",
+  "official_url": "https://www.city.kashiwa.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12218",
+  "name": "勝浦市役所",
+  "postal_code": "299-5292",
+  "address": "勝浦市新官1343-1",
+  "phone": "0470-73-1211",
+  "official_url": "https://www.city.katsuura.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12219",
+  "name": "市原市役所",
+  "postal_code": "290-8501",
+  "address": "市原市国分寺台中央1-1-1",
+  "phone": "0436-22-1111",
+  "official_url": "https://www.city.ichihara.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12220",
+  "name": "流山市役所",
+  "postal_code": "270-0192",
+  "address": "流山市平和台1-1-1",
+  "phone": "04-7158-1111",
+  "official_url": "https://www.city.nagareyama.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12221",
+  "name": "八千代市役所",
+  "postal_code": "276-8501",
+  "address": "八千代市大和田新田312-5",
+  "phone": "047-483-1151",
+  "official_url": "https://www.city.yachiyo.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12222",
+  "name": "我孫子市役所",
+  "postal_code": "270-1192",
+  "address": "我孫子市我孫子1858",
+  "phone": "04-7185-1111",
+  "official_url": "https://www.city.abiko.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12223",
+  "name": "鴨川市役所",
+  "postal_code": "296-8601",
+  "address": "鴨川市横渚1450",
+  "phone": "04-7092-1111",
+  "official_url": "https://www.city.kamogawa.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12224",
+  "name": "鎌ケ谷市役所",
+  "postal_code": "273-0195",
+  "address": "鎌ケ谷市新鎌ケ谷2-6-1",
+  "phone": "047-445-1141",
+  "official_url": "https://www.city.kamagaya.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12225",
+  "name": "君津市役所",
+  "postal_code": "299-1192",
+  "address": "君津市久保2-13-1",
+  "phone": "0439-56-1581",
+  "official_url": "https://www.city.kimitsu.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12226",
+  "name": "富津市役所",
+  "postal_code": "293-8506",
+  "address": "富津市下飯野2443",
+  "phone": "0439-80-1222",
+  "official_url": "https://www.city.futtsu.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12227",
+  "name": "浦安市役所",
+  "postal_code": "279-8501",
+  "address": "浦安市猫実1-1-1",
+  "phone": "047-351-1111",
+  "official_url": "https://www.city.urayasu.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12228",
+  "name": "四街道市役所",
+  "postal_code": "284-8555",
+  "address": "四街道市鹿渡無番地",
+  "phone": "043-421-2111",
+  "official_url": "https://www.city.yotsukaido.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12229",
+  "name": "袖ケ浦市役所",
+  "postal_code": "299-0292",
+  "address": "袖ケ浦市坂戸市場1-1",
+  "phone": "0438-62-2111",
+  "official_url": "https://www.city.sodegaura.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12230",
+  "name": "八街市役所",
+  "postal_code": "289-1192",
+  "address": "八街市八街ほ35-29",
+  "phone": "043-443-1111",
+  "official_url": "https://www.city.yachimata.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12231",
+  "name": "印西市役所",
+  "postal_code": "270-1396",
+  "address": "印西市大森2364-2",
+  "phone": "0476-42-5111",
+  "official_url": "https://www.city.inzai.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12232",
+  "name": "白井市役所",
+  "postal_code": "270-1492",
+  "address": "白井市復1123",
+  "phone": "047-492-1111",
+  "official_url": "https://www.city.shiroi.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12233",
+  "name": "富里市役所",
+  "postal_code": "286-0292",
+  "address": "富里市七栄652-1",
+  "phone": "0476-93-1111",
+  "official_url": "https://www.city.tomisato.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12234",
+  "name": "南房総市役所",
+  "postal_code": "299-2492",
+  "address": "南房総市富浦町青木28",
+  "phone": "0470-33-1021",
+  "official_url": "https://www.city.minamiboso.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12235",
+  "name": "匝瑳市役所",
+  "postal_code": "289-2198",
+  "address": "匝瑳市八日市場ハ793-2",
+  "phone": "0479-73-0084",
+  "official_url": "https://www.city.sosa.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12236",
+  "name": "香取市役所",
+  "postal_code": "287-8501",
+  "address": "香取市佐原ロ2127",
+  "phone": "0478-54-1111",
+  "official_url": "https://www.city.katori.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12237",
+  "name": "山武市役所",
+  "postal_code": "289-1392",
+  "address": "山武市殿台296",
+  "phone": "0475-80-1112",
+  "official_url": "https://www.city.sammu.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12238",
+  "name": "いすみ市役所",
+  "postal_code": "298-8501",
+  "address": "いすみ市大原7400-1",
+  "phone": "0470-62-1111",
+  "official_url": "https://www.city.isumi.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12239",
+  "name": "大網白里市役所",
+  "postal_code": "299-3292",
+  "address": "大網白里市大網115-2",
+  "phone": "0475-70-0300",
+  "official_url": "https://www.city.oamishirasato.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12322",
+  "name": "酒々井町役場",
+  "postal_code": "285-8510",
+  "address": "印旛郡（いんばぐん）酒々井町中央台4-11",
+  "phone": "043-496-1171",
+  "official_url": "https://www.town.shisui.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12329",
+  "name": "栄町役場",
+  "postal_code": "270-1592",
+  "address": "印旛郡栄町安食台1-2",
+  "phone": "0476-95-1111",
+  "official_url": "https://www.town.sakae.chiba.jp/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12342",
+  "name": "神崎町役場",
+  "postal_code": "289-0292",
+  "address": "香取郡(かとりぐん)神崎町神崎本宿163",
+  "phone": "0478-72-2111",
+  "official_url": "https://www.town.kozaki.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12347",
+  "name": "多古町役場",
+  "postal_code": "289-2292",
+  "address": "香取郡多古町多古584",
+  "phone": "0479-76-2611",
+  "official_url": "https://www.town.tako.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12349",
+  "name": "東庄町役場",
+  "postal_code": "289-0692",
+  "address": "香取郡東庄町笹川い4713-131",
+  "phone": "0478-86-1111",
+  "official_url": "https://www.town.tohnosho.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12403",
+  "name": "九十九里町役場",
+  "postal_code": "283-0195",
+  "address": "山武郡九十九里町片貝4099",
+  "phone": "0475-70-3100",
+  "official_url": "https://www.town.kujukuri.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12409",
+  "name": "芝山町役場",
+  "postal_code": "289-1692",
+  "address": "山武郡芝山町小池992",
+  "phone": "0479-77-3901",
+  "official_url": "https://www.town.shibayama.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12410",
+  "name": "横芝光町役場",
+  "postal_code": "289-1793",
+  "address": "山武郡横芝光町宮川11902",
+  "phone": "0479-84-1211",
+  "official_url": "https://www.town.yokoshibahikari.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12421",
+  "name": "一宮町役場",
+  "postal_code": "299-4396",
+  "address": "長生郡一宮町一宮2457",
+  "phone": "0475-42-2111",
+  "official_url": "https://www.town.ichinomiya.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12422",
+  "name": "睦沢町役場",
+  "postal_code": "299-4492",
+  "address": "長生郡睦沢町下之郷1650-1",
+  "phone": "0475-44-1111",
+  "official_url": "https://www.town.mutsuzawa.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12423",
+  "name": "長生村役場",
+  "postal_code": "299-4394",
+  "address": "長生郡長生村本郷1-77",
+  "phone": "0475-32-2111",
+  "official_url": "https://www.vill.chosei.chiba.jp/index.html",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12424",
+  "name": "白子町役場",
+  "postal_code": "299-4292",
+  "address": "長生郡白子町関5074-2",
+  "phone": "0475-33-2111",
+  "official_url": "https://www.town.shirako.lg.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12426",
+  "name": "長柄町役場",
+  "postal_code": "297-0298",
+  "address": "長生郡長柄町桜谷712",
+  "phone": "0475-35-2111",
+  "official_url": "https://www.town.nagara.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12427",
+  "name": "長南町役場",
+  "postal_code": "297-0192",
+  "address": "長生郡長南町長南2110",
+  "phone": "0475-46-2111",
+  "official_url": "https://www.town.chonan.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12441",
+  "name": "大多喜町役場",
+  "postal_code": "298-0292",
+  "address": "夷隅郡大多喜町大多喜93",
+  "phone": "0470-82-2111",
+  "official_url": "https://www.town.otaki.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12443",
+  "name": "御宿町役場",
+  "postal_code": "299-5192",
+  "address": "夷隅郡御宿町須賀1522",
+  "phone": "0470-68-2511",
+  "official_url": "https://www.town.onjuku.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ },
+ {
+  "city_code": "12463",
+  "name": "鋸南町役場",
+  "postal_code": "299-2192",
+  "address": "安房郡鋸南町下佐久間3458",
+  "phone": "0470-55-2111",
+  "official_url": "https://www.town.kyonan.chiba.jp/",
+  "source_url": "https://www.pref.chiba.lg.jp/kouhou/ichiran.html",
+  "verified_at": "2026-07-05"
+ }
+]

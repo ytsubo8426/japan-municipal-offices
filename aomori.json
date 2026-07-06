@@ -1,0 +1,402 @@
+[
+ {
+  "city_code": "02201",
+  "name": "青森市役所",
+  "postal_code": "030-8555",
+  "address": "青森市中央1-22-5",
+  "phone": "017-734-1111",
+  "official_url": "https://www.city.aomori.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02202",
+  "name": "弘前市役所",
+  "postal_code": "036-8551",
+  "address": "弘前市大字上白銀町1-1",
+  "phone": "0172-35-1111",
+  "official_url": "https://www.city.hirosaki.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02203",
+  "name": "八戸市役所",
+  "postal_code": "031-8686",
+  "address": "八戸市内丸1-1-1",
+  "phone": "0178-43-2111",
+  "official_url": "https://www.city.hachinohe.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02204",
+  "name": "黒石市役所",
+  "postal_code": "036-0396",
+  "address": "黒石市大字市ノ町11-1",
+  "phone": "0172-52-2111",
+  "official_url": "https://www.city.kuroishi.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02205",
+  "name": "五所川原市役所",
+  "postal_code": "037-8686",
+  "address": "五所川原市字布屋町41番地1",
+  "phone": "0173-35-2111",
+  "official_url": "https://www.city.goshogawara.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02206",
+  "name": "十和田市役所",
+  "postal_code": "034-8615",
+  "address": "十和田市西十二番町6番1号",
+  "phone": "0176-23-5111",
+  "official_url": "https://www.city.towada.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02207",
+  "name": "三沢市役所",
+  "postal_code": "033-8666",
+  "address": "三沢市桜町1-1-38",
+  "phone": "0176-53-5111",
+  "official_url": "https://www.city.misawa.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02208",
+  "name": "むつ市役所",
+  "postal_code": "035-8686",
+  "address": "むつ市中央一丁目8番1号",
+  "phone": "0175-22-1111",
+  "official_url": "https://www.city.mutsu.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02209",
+  "name": "つがる市役所",
+  "postal_code": "038-3192",
+  "address": "つがる市木造若緑61-1",
+  "phone": "0173-42-2111",
+  "official_url": "https://www.city.tsugaru.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02210",
+  "name": "平川市役所",
+  "postal_code": "036-0104",
+  "address": "平川市柏木町藤山25-6",
+  "phone": "0172-44-1111",
+  "official_url": "https://www.city.hirakawa.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02301",
+  "name": "平内町役場",
+  "postal_code": "039-3321",
+  "address": "平内町大字小湊字小湊63",
+  "phone": "017-755-2111",
+  "official_url": "https://www.town.hiranai.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02303",
+  "name": "今別町役場",
+  "postal_code": "030-1502",
+  "address": "今別町大字今別字今別167",
+  "phone": "0174-35-2001",
+  "official_url": "https://www.town.imabetsu.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02304",
+  "name": "蓬田村役場",
+  "postal_code": "030-1212",
+  "address": "蓬田村大字阿弥陀川字汐干126-1",
+  "phone": "0174-27-2111",
+  "official_url": "https://www.vill.yomogita.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02307",
+  "name": "外ヶ浜町役場",
+  "postal_code": "030-1393",
+  "address": "外ヶ浜町字蟹田高銅屋44-2",
+  "phone": "0174-31-1111",
+  "official_url": "https://www.town.sotogahama.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02321",
+  "name": "鰺ヶ沢町役場",
+  "postal_code": "038-2792",
+  "address": "鰺ヶ沢町大字舞戸町字鳴戸321番地",
+  "phone": "0173-72-2111",
+  "official_url": "https://www.town.ajigasawa.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02323",
+  "name": "深浦町役場",
+  "postal_code": "038-2324",
+  "address": "深浦町大字深浦字苗代沢84-2",
+  "phone": "0173-74-2111",
+  "official_url": "https://www.town.fukaura.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02343",
+  "name": "西目屋村役場",
+  "postal_code": "036-1492",
+  "address": "西目屋村大字田代字神田57",
+  "phone": "0172-85-2111",
+  "official_url": "https://www.nishimeya.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02361",
+  "name": "藤崎町役場",
+  "postal_code": "038-3803",
+  "address": "藤崎町大字西豊田一丁目1番地",
+  "phone": "0172-75-3111",
+  "official_url": "https://www.town.fujisaki.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02362",
+  "name": "大鰐町役場",
+  "postal_code": "038-0211",
+  "address": "南津軽郡大鰐町大字大鰐字羽黒館5-3",
+  "phone": "0172-48-2111",
+  "official_url": "http://www.town.owani.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02367",
+  "name": "田舎館村役場",
+  "postal_code": "038-1113",
+  "address": "田舎館村大字田舎舘字中辻123-1",
+  "phone": "0172-58-2111",
+  "official_url": "http://www.vill.inakadate.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02381",
+  "name": "板柳町役場",
+  "postal_code": "038-3692",
+  "address": "板柳町大字板柳字土井239-3",
+  "phone": "0172-73-2111",
+  "official_url": "https://www.town.itayanagi.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02384",
+  "name": "鶴田町役場",
+  "postal_code": "038-3595",
+  "address": "鶴田町大字鶴田字早瀬200番地1",
+  "phone": "0173-22-2111",
+  "official_url": "https://www.town.tsuruta.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02387",
+  "name": "中泊町役場",
+  "postal_code": "037-0392",
+  "address": "中泊町大字中里字紅葉坂209番地",
+  "phone": "0173-57-2111",
+  "official_url": "https://www.town.nakadomari.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02401",
+  "name": "野辺地町役場",
+  "postal_code": "039-3131",
+  "address": "野辺地町字野辺地123番地1",
+  "phone": "0175-64-2111",
+  "official_url": "https://www.town.noheji.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02402",
+  "name": "七戸町役場",
+  "postal_code": "039-2792",
+  "address": "七戸町字森ノ上131-4",
+  "phone": "0176-68-2111",
+  "official_url": "https://www.town.shichinohe.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02405",
+  "name": "六戸町役場",
+  "postal_code": "039-2392",
+  "address": "六戸町大字犬落瀬字前谷地60",
+  "phone": "0176-55-3111",
+  "official_url": "https://www.town.rokunohe.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02406",
+  "name": "横浜町役場",
+  "postal_code": "039-4145",
+  "address": "横浜町字寺下35",
+  "phone": "0175-78-2111",
+  "official_url": "https://www.town.yokohama.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02408",
+  "name": "東北町役場",
+  "postal_code": "039-2492",
+  "address": "東北町上北南四丁目32-484",
+  "phone": "0176-56-3111",
+  "official_url": "https://www.town.tohoku.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02411",
+  "name": "六ヶ所村役場",
+  "postal_code": "039-3212",
+  "address": "六ヶ所村大字尾駮字野附475",
+  "phone": "0175-72-2111",
+  "official_url": "https://www.rokkasho.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02412",
+  "name": "おいらせ町役場",
+  "postal_code": "039-2192",
+  "address": "おいらせ町中下田135-2",
+  "phone": "0178-56-2111",
+  "official_url": "https://www.town.oirase.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02423",
+  "name": "大間町役場",
+  "postal_code": "039-4601",
+  "address": "大間町大字大間字奥戸下道20番地4",
+  "phone": "0175-37-2111",
+  "official_url": "https://www.town.ooma.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02424",
+  "name": "東通村役場",
+  "postal_code": "039-4292",
+  "address": "東通村大字砂子又字沢内5-34",
+  "phone": "0175-27-2111",
+  "official_url": "http://www.vill.higashidoori.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02425",
+  "name": "風間浦村役場",
+  "postal_code": "039-4502",
+  "address": "風間浦村大字易国間字大川目28-5",
+  "phone": "0175-35-2111",
+  "official_url": "https://www.kazamaura.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02426",
+  "name": "佐井村役場",
+  "postal_code": "039-4711",
+  "address": "佐井村大字佐井字糠森20",
+  "phone": "0175-38-2111",
+  "official_url": "https://www.vill.sai.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02441",
+  "name": "三戸町役場",
+  "postal_code": "039-0198",
+  "address": "三戸町大字在府小路町43",
+  "phone": "0179-20-1111",
+  "official_url": "https://www.town.sannohe.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02442",
+  "name": "五戸町役場",
+  "postal_code": "039-1513",
+  "address": "五戸町字古舘21-1",
+  "phone": "0178-62-2111",
+  "official_url": "https://www.town.gonohe.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02443",
+  "name": "田子町役場",
+  "postal_code": "039-0292",
+  "address": "田子町大字田子字天神堂平81",
+  "phone": "0179-32-3111",
+  "official_url": "https://www.town.takko.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02445",
+  "name": "南部町役場",
+  "postal_code": "039-0592",
+  "address": "南部町大字平字広場28-1",
+  "phone": "0178-76-2111",
+  "official_url": "https://www.town.aomori-nanbu.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02446",
+  "name": "階上町役場",
+  "postal_code": "039-1201",
+  "address": "階上町大字道仏字天当平1-87",
+  "phone": "0178-88-2111",
+  "official_url": "https://www.town.hashikami.lg.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "02450",
+  "name": "新郷村役場",
+  "postal_code": "039-1801",
+  "address": "新郷村大字戸来字風呂前10",
+  "phone": "0178-78-2111",
+  "official_url": "https://www.vill.shingo.aomori.jp/",
+  "source_url": "https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html",
+  "verified_at": "2026-07-06"
+ }
+]

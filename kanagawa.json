@@ -1,0 +1,612 @@
+[
+ {
+  "city_code": "14100",
+  "name": "横浜市役所",
+  "postal_code": "231-0005",
+  "address": "横浜市中区本町6-50-10",
+  "phone": "045-671-2121",
+  "official_url": "https://www.city.yokohama.lg.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14101",
+  "name": "横浜市鶴見区役所",
+  "postal_code": "230-0051",
+  "address": "横浜市鶴見区鶴見中央3-20-1",
+  "phone": "045-510-1818",
+  "official_url": "https://www.city.yokohama.lg.jp/tsurumi/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14102",
+  "name": "横浜市神奈川区役所",
+  "postal_code": "221-0824",
+  "address": "横浜市神奈川区広台太田町3-8",
+  "phone": "045-411-7171",
+  "official_url": "https://www.city.yokohama.lg.jp/kanagawa/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14103",
+  "name": "横浜市西区役所",
+  "postal_code": "220-0051",
+  "address": "横浜市西区中央1-5-10",
+  "phone": "045-320-8484",
+  "official_url": "https://www.city.yokohama.lg.jp/nishi/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14104",
+  "name": "横浜市中区役所",
+  "postal_code": "231-0021",
+  "address": "横浜市中区日本大通35",
+  "phone": "045-224-8181",
+  "official_url": "https://www.city.yokohama.lg.jp/naka/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14105",
+  "name": "横浜市南区役所",
+  "postal_code": "232-0024",
+  "address": "横浜市南区浦舟町2-33",
+  "phone": "045-341-1212",
+  "official_url": "https://www.city.yokohama.lg.jp/minami/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14106",
+  "name": "横浜市保土ケ谷区役所",
+  "postal_code": "240-0001",
+  "address": "横浜市保土ケ谷区川辺町2-9",
+  "phone": "045-334-6262",
+  "official_url": "https://www.city.yokohama.lg.jp/hodogaya/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14107",
+  "name": "横浜市磯子区役所",
+  "postal_code": "235-0016",
+  "address": "横浜市磯子区磯子3-5-1",
+  "phone": "045-750-2323",
+  "official_url": "https://www.city.yokohama.lg.jp/isogo/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14108",
+  "name": "横浜市金沢区役所",
+  "postal_code": "236-0021",
+  "address": "横浜市金沢区泥亀2-9-1",
+  "phone": "045-788-7878",
+  "official_url": "https://www.city.yokohama.lg.jp/kanazawa/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14109",
+  "name": "横浜市港北区役所",
+  "postal_code": "222-0032",
+  "address": "横浜市港北区大豆戸町26-1",
+  "phone": "045-540-2323",
+  "official_url": "https://www.city.yokohama.lg.jp/kohoku/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14110",
+  "name": "横浜市戸塚区役所",
+  "postal_code": "244-0003",
+  "address": "横浜市戸塚区戸塚町16-17",
+  "phone": "045-866-8484",
+  "official_url": "https://www.city.yokohama.lg.jp/totsuka/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14111",
+  "name": "横浜市港南区役所",
+  "postal_code": "233-0003",
+  "address": "横浜市港南区港南4-2-10",
+  "phone": "045-847-8484",
+  "official_url": "https://www.city.yokohama.lg.jp/konan/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14112",
+  "name": "横浜市旭区役所",
+  "postal_code": "241-0022",
+  "address": "横浜市旭区鶴ケ峰1-4-12",
+  "phone": "045-954-6161",
+  "official_url": "https://www.city.yokohama.lg.jp/asahi/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14113",
+  "name": "横浜市緑区役所",
+  "postal_code": "226-0013",
+  "address": "横浜市緑区寺山町118",
+  "phone": "045-930-2323",
+  "official_url": "https://www.city.yokohama.lg.jp/midori/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14114",
+  "name": "横浜市瀬谷区役所",
+  "postal_code": "246-0021",
+  "address": "横浜市瀬谷区二ツ橋町190",
+  "phone": "045-367-5656",
+  "official_url": "https://www.city.yokohama.lg.jp/seya/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14115",
+  "name": "横浜市栄区役所",
+  "postal_code": "247-0005",
+  "address": "横浜市栄区桂町303-19",
+  "phone": "045-894-8181",
+  "official_url": "https://www.city.yokohama.lg.jp/sakae/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14116",
+  "name": "横浜市泉区役所",
+  "postal_code": "245-0024",
+  "address": "横浜市泉区和泉中央北5-1-1",
+  "phone": "045-800-2323",
+  "official_url": "https://www.city.yokohama.lg.jp/izumi/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14117",
+  "name": "横浜市青葉区役所",
+  "postal_code": "225-0024",
+  "address": "横浜市青葉区市ケ尾町31-4",
+  "phone": "045-978-2323",
+  "official_url": "https://www.city.yokohama.lg.jp/aoba/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14118",
+  "name": "横浜市都筑区役所",
+  "postal_code": "224-0032",
+  "address": "横浜市都筑区茅ケ崎中央32-1",
+  "phone": "045-948-2323",
+  "official_url": "https://www.city.yokohama.lg.jp/tsuzuki/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14130",
+  "name": "川崎市役所",
+  "postal_code": "210-8577",
+  "address": "川崎市川崎区宮本町1",
+  "phone": "044-200-2111",
+  "official_url": "https://www.city.kawasaki.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14131",
+  "name": "川崎市川崎区役所",
+  "postal_code": "210-8570",
+  "address": "川崎市川崎区東田町8",
+  "phone": "044-201-3113",
+  "official_url": "https://www.city.kawasaki.jp/kawasaki/index.html",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14132",
+  "name": "川崎市幸区役所",
+  "postal_code": "212-8570",
+  "address": "川崎市幸区戸手本町1-11-1",
+  "phone": "044-556-6666",
+  "official_url": "https://www.city.kawasaki.jp/saiwai/index.html",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14133",
+  "name": "川崎市中原区役所",
+  "postal_code": "211-8570",
+  "address": "川崎市中原区小杉町3-245",
+  "phone": "044-744-3113",
+  "official_url": "https://www.city.kawasaki.jp/nakahara/index.html",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14134",
+  "name": "川崎市高津区役所",
+  "postal_code": "213-8570",
+  "address": "川崎市高津区下作延2-8-1",
+  "phone": "044-861-3113",
+  "official_url": "https://www.city.kawasaki.jp/takatsu/index.html",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14135",
+  "name": "川崎市多摩区役所",
+  "postal_code": "214-8570",
+  "address": "川崎市多摩区登戸1775-1",
+  "phone": "044-935-3113",
+  "official_url": "https://www.city.kawasaki.jp/tama/index.html",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14136",
+  "name": "川崎市宮前区役所",
+  "postal_code": "216-8570",
+  "address": "川崎市宮前区宮前平2-20-5",
+  "phone": "044-856-3113",
+  "official_url": "https://www.city.kawasaki.jp/miyamae/index.html",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14137",
+  "name": "川崎市麻生区役所",
+  "postal_code": "215-8570",
+  "address": "川崎市麻生区万福寺1-5-1",
+  "phone": "044-965-5100",
+  "official_url": "https://www.city.kawasaki.jp/asao/index.html",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14150",
+  "name": "相模原市役所",
+  "postal_code": "252-5277",
+  "address": "相模原市中央区中央2-11-15",
+  "phone": "042-754-1111",
+  "official_url": "https://www.city.sagamihara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14151",
+  "name": "相模原市緑区役所（区政策課）",
+  "postal_code": "252-5177",
+  "address": "相模原市緑区西橋本5-3-21（市緑区合同庁舎内）",
+  "phone": "042-775-8802",
+  "official_url": "https://www.city.sagamihara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14152",
+  "name": "相模原市中央区役所（区政策課）",
+  "postal_code": "252-5277",
+  "address": "相模原市中央区中央2-11-15市役所本館1階",
+  "phone": "042-769-9802",
+  "official_url": "https://www.city.sagamihara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14153",
+  "name": "相模原市南区役所（区政策課）",
+  "postal_code": "252-0377",
+  "address": "相模原市南区相模大野5-31-1（市南区合同庁舎内）",
+  "phone": "042-749-2134",
+  "official_url": "https://www.city.sagamihara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14201",
+  "name": "横須賀市役所",
+  "postal_code": "238-8550",
+  "address": "横須賀市小川町11",
+  "phone": "046-822-4000",
+  "official_url": "https://www.city.yokosuka.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14203",
+  "name": "平塚市役所",
+  "postal_code": "254-8686",
+  "address": "平塚市浅間町9-1",
+  "phone": "0463-23-1111",
+  "official_url": "https://www.city.hiratsuka.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14204",
+  "name": "鎌倉市役所",
+  "postal_code": "248-8686",
+  "address": "鎌倉市御成町18-10",
+  "phone": "0467-23-3000",
+  "official_url": "https://www.city.kamakura.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14205",
+  "name": "藤沢市役所",
+  "postal_code": "251-8601",
+  "address": "藤沢市朝日町1-1",
+  "phone": "0466-25-1111",
+  "official_url": "https://www.city.fujisawa.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14206",
+  "name": "小田原市役所",
+  "postal_code": "250-8555",
+  "address": "小田原市荻窪300",
+  "phone": "0465-33-1300",
+  "official_url": "https://www.city.odawara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14207",
+  "name": "茅ヶ崎市役所",
+  "postal_code": "253-8686",
+  "address": "茅ヶ崎市茅ヶ崎1-1-1",
+  "phone": "0467-82-1111",
+  "official_url": "https://www.city.chigasaki.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14208",
+  "name": "逗子市役所",
+  "postal_code": "249-8686",
+  "address": "逗子市逗子5-2-16",
+  "phone": "046-873-1111",
+  "official_url": "https://www.city.zushi.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14210",
+  "name": "三浦市役所",
+  "postal_code": "238-0298",
+  "address": "三浦市城山町1-1",
+  "phone": "046-882-1111",
+  "official_url": "https://www.city.miura.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14211",
+  "name": "秦野市役所",
+  "postal_code": "257-8501",
+  "address": "秦野市桜町1-3-2",
+  "phone": "0463-82-5111",
+  "official_url": "https://www.city.hadano.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14212",
+  "name": "厚木市役所",
+  "postal_code": "243-8511",
+  "address": "厚木市中町3-17-17",
+  "phone": "046-223-1511",
+  "official_url": "https://www.city.atsugi.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14213",
+  "name": "大和市役所",
+  "postal_code": "242-8601",
+  "address": "大和市下鶴間1-1-1",
+  "phone": "046-263-1111",
+  "official_url": "https://www.city.yamato.lg.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14214",
+  "name": "伊勢原市役所",
+  "postal_code": "259-1188",
+  "address": "伊勢原市田中348",
+  "phone": "0463-94-4711",
+  "official_url": "https://www.city.isehara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14215",
+  "name": "海老名市役所",
+  "postal_code": "243-0492",
+  "address": "海老名市勝瀬175-1",
+  "phone": "046-231-2111",
+  "official_url": "https://www.city.ebina.kanagawa.jp",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14216",
+  "name": "座間市役所",
+  "postal_code": "252-8566",
+  "address": "座間市緑ケ丘1-1-1",
+  "phone": "046-255-1111",
+  "official_url": "https://www.city.zama.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14217",
+  "name": "南足柄市役所",
+  "postal_code": "250-0192",
+  "address": "南足柄市関本440",
+  "phone": "0465-74-2111",
+  "official_url": "https://www.city.minamiashigara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14218",
+  "name": "綾瀬市役所",
+  "postal_code": "252-1192",
+  "address": "綾瀬市早川550",
+  "phone": "0467-77-1111",
+  "official_url": "https://www.city.ayase.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14301",
+  "name": "葉山町役場",
+  "postal_code": "240-0192",
+  "address": "三浦郡葉山町堀内2135",
+  "phone": "046-876-1111",
+  "official_url": "https://www.town.hayama.lg.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14321",
+  "name": "寒川町役場",
+  "postal_code": "253-0196",
+  "address": "高座郡寒川町宮山165",
+  "phone": "0467-74-1111",
+  "official_url": "https://www.town.samukawa.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14341",
+  "name": "大磯町役場",
+  "postal_code": "255-8555",
+  "address": "中郡大磯町東小磯183",
+  "phone": "0463-61-4100",
+  "official_url": "https://www.town.oiso.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14342",
+  "name": "二宮町役場",
+  "postal_code": "259-0196",
+  "address": "中郡二宮町二宮961",
+  "phone": "0463-71-3311",
+  "official_url": "https://www.town.ninomiya.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14361",
+  "name": "中井町役場",
+  "postal_code": "259-0197",
+  "address": "足柄上郡中井町比奈窪56",
+  "phone": "0465-81-1111",
+  "official_url": "https://www.town.nakai.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14362",
+  "name": "大井町役場",
+  "postal_code": "258-8501",
+  "address": "足柄上郡大井町金子1995",
+  "phone": "0465-83-1311",
+  "official_url": "https://www.town.oi.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14363",
+  "name": "松田町役場",
+  "postal_code": "258-8585",
+  "address": "足柄上郡松田町松田惣領2037",
+  "phone": "0465-83-1221",
+  "official_url": "https://town.matsuda.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14364",
+  "name": "山北町役場",
+  "postal_code": "258-0195",
+  "address": "足柄上郡山北町山北1301-4",
+  "phone": "0465-75-1122",
+  "official_url": "https://www.town.yamakita.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14366",
+  "name": "開成町役場",
+  "postal_code": "258-8502",
+  "address": "足柄上郡開成町延沢773",
+  "phone": "0465-83-2331",
+  "official_url": "https://www.town.kaisei.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14382",
+  "name": "箱根町役場",
+  "postal_code": "250-0398",
+  "address": "足柄下郡箱根町湯本256",
+  "phone": "0460-85-7111",
+  "official_url": "https://www.town.hakone.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14383",
+  "name": "真鶴町役場",
+  "postal_code": "259-0202",
+  "address": "足柄下郡真鶴町岩244-1",
+  "phone": "0465-68-1131",
+  "official_url": "https://www.town.manazuru.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14384",
+  "name": "湯河原町役場",
+  "postal_code": "259-0392",
+  "address": "足柄下郡湯河原町中央2-2-1",
+  "phone": "0465-63-2111",
+  "official_url": "https://www.town.yugawara.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14401",
+  "name": "愛川町役場",
+  "postal_code": "243-0392",
+  "address": "愛甲郡愛川町角田251-1",
+  "phone": "046-285-2111",
+  "official_url": "https://www.town.aikawa.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "14402",
+  "name": "清川村役場",
+  "postal_code": "243-0195",
+  "address": "愛甲郡清川村煤ヶ谷2216",
+  "phone": "046-288-1211",
+  "official_url": "https://www.town.kiyokawa.kanagawa.jp/",
+  "source_url": "https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html",
+  "verified_at": "2026-07-06"
+ }
+]
