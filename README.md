@@ -1,4 +1,9 @@
 # 日本の市町村役場 所在地データカタログ + 補完データセット
+# Japan Municipal Offices — Location Data Catalog & Gap-Filling Datasets
+
+日本語 | [English](#english)
+
+---
 
 「県内の市町村役場の所在地・連絡先一覧」を探している人のためのリポジトリです。
 
@@ -68,3 +73,88 @@
 - 収集時点(`verified_at`)の情報です。**最新かつ正確な情報は必ず各自治体の公式サイトで
   ご確認ください**(庁舎移転・電話番号変更・URL変更等がありえます)。
 - 本データの利用によって生じたいかなる損害についても、作成者は責任を負いません。
+
+---
+
+# English
+
+A repository for anyone looking for **machine-readable lists of municipal
+government office locations (city/town/village halls) in Japan**.
+
+- **Catalog** (`catalog.csv`): for each of the 47 prefectures, **where the
+  prefecture's official list is published** (URL, format, machine readability)
+- **Gap-filling datasets** (`iwate.csv` / `akita.csv`, etc.): for prefectures
+  that publish **no machine-readable official list**, data collected from each
+  municipality's official website (CC0)
+
+The policy: **link to the official list when one exists; build the data
+ourselves when it doesn't.**
+
+## Why this exists
+
+Most prefectures publish an official list of municipal office locations, but
+the publishing location and format vary widely (HTML tables, PDF, Excel).
+Some prefectures — such as Iwate and Akita — publish **no machine-readable
+list at all** (Iwate has no aggregated page; Akita's handbook PDF cannot be
+text-extracted due to missing ToUnicode maps in embedded fonts). This
+repository saves the next person the search.
+
+## Columns in catalog.csv
+
+| Column | Description |
+|---|---|
+| `pref_code` | Prefecture code (2 digits) |
+| `pref_name` | Prefecture name (Japanese) |
+| `official_list_url` | URL of the prefecture's official municipal list (empty if unsurveyed or nonexistent) |
+| `format` | HTML / PDF / Excel |
+| `machine_readable` | yes/no (whether text can be extracted/parsed mechanically) |
+| `notes` | Remarks (official title of the list, parsing caveats, etc.; in Japanese) |
+| `verified_at` | Date verified (YYYY-MM-DD) |
+| `gap_dataset` | Filename of the gap-filling dataset for prefectures without an official list |
+
+Unsurveyed prefectures are published honestly as `notes=未調査` ("unsurveyed")
+and filled in as they are verified.
+
+## Columns in gap-filling datasets (iwate.csv / akita.csv, ...)
+
+| Column | Description |
+|---|---|
+| `city_code` | Japanese local government code (5 digits; MIC / GSI N03 standard) |
+| `name` | Office name in Japanese (city hall = 「〇〇市役所」, town/village hall = 「〇〇町役場/〇〇村役場」) |
+| `postal_code` | Postal code of the main office building |
+| `address` | Address of the main office building (without the prefecture prefix) |
+| `phone` | Main phone number |
+| `official_url` | Top URL of the municipality's official website |
+| `source_url` | The official page the address/phone was actually taken from |
+| `verified_at` | Date verified (YYYY-MM-DD) |
+
+JSON equivalents (`iwate.json` / `akita.json`) are also provided.
+
+## Collection method (gap-filling datasets)
+
+1. **Confirming official URLs**: official domains for every municipality were
+   taken from each prefecture's official cross-link index (the "municipal
+   staff salary disclosure" link collections). Officialness is established by
+   the inbound link from the prefectural government's own page.
+2. **Extracting address & phone**: deterministic parsing (regex, NFKC
+   normalization) of each municipal site's footer / office-guide page,
+   preferring the **main office building** so that branch offices of merged
+   cities are not picked up by mistake.
+3. **Validation**: asserted an exact one-to-one match against the national
+   local government code master; mechanical checks of postal/phone formats and
+   that the address contains the municipality name.
+
+All information comes **exclusively from official prefectural and municipal
+websites**.
+
+## License
+
+**CC0 1.0 Universal (public domain dedication)** — this is factual data; use
+it freely. See `LICENSE`.
+
+## Disclaimer
+
+- Data reflects the state at collection time (`verified_at`). **Always check
+  each municipality's official website for the latest information** (office
+  relocations, phone number changes, URL changes, etc.).
+- The author accepts no liability for any damage arising from use of this data.
