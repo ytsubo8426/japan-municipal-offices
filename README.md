@@ -65,7 +65,7 @@
 
 ## メンテナー
 
-[**管轄ナビ**](https://kankatsunavi.com/)(つぼうち税理士事務所)が維持しています。
+壺内靖二郎([管轄ナビ](https://kankatsunavi.com/)・[つぼうち税理士事務所](https://ytsubo.com/))が維持しています。
 全国の税務署・都道府県税事務所・市区町村役場の管轄データを整備する過程の副産物として
 収集したものを、同じデータを探す人のために公開しています。
 
@@ -155,10 +155,11 @@ websites**.
 
 ## Maintainer
 
-Maintained by [**KankatsuNavi**](https://kankatsunavi.com/) (Tsubouchi Tax
-Accountant Office, Japan). The data is a byproduct of building nationwide
-jurisdiction data for tax offices, prefectural tax offices, and municipal
-governments, published here for anyone looking for the same information.
+Maintained by Yasujiro Tsubouchi ([KankatsuNavi](https://kankatsunavi.com/) /
+[Tsubouchi Tax Accountant Office](https://ytsubo.com/), Japan). The data is a
+byproduct of building nationwide jurisdiction data for tax offices, prefectural
+tax offices, and municipal governments, published here for anyone looking for
+the same information.
 
 ## License
 
