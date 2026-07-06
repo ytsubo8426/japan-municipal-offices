@@ -1,0 +1,382 @@
+[
+ {
+  "city_code": "15100",
+  "name": "新潟市役所",
+  "postal_code": "951-8550",
+  "address": "新潟市中央区学校町通1番町602番地1",
+  "phone": "025-228-1000",
+  "official_url": "https://www.city.niigata.lg.jp/",
+  "source_url": "https://www.city.niigata.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15101",
+  "name": "新潟市北区役所",
+  "postal_code": "950-3393",
+  "address": "新潟市北区東栄町1丁目1番14号",
+  "phone": "025-387-1000",
+  "official_url": "https://www.city.niigata.lg.jp/kita/",
+  "source_url": "https://www.city.niigata.lg.jp/kita/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15102",
+  "name": "新潟市東区役所",
+  "postal_code": "950-8709",
+  "address": "新潟市東区下木戸1丁目4番1号",
+  "phone": "025-272-1000",
+  "official_url": "https://www.city.niigata.lg.jp/higashi/",
+  "source_url": "https://www.city.niigata.lg.jp/higashi/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15103",
+  "name": "新潟市中央区役所",
+  "postal_code": "951-8553",
+  "address": "新潟市中央区西堀通6番町866番地",
+  "phone": "025-223-1000",
+  "official_url": "https://www.city.niigata.lg.jp/chuo/",
+  "source_url": "https://www.city.niigata.lg.jp/chuo/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15104",
+  "name": "新潟市江南区役所",
+  "postal_code": "950-0195",
+  "address": "新潟市江南区泉町3丁目4番5号",
+  "phone": "025-383-1000",
+  "official_url": "https://www.city.niigata.lg.jp/konan/",
+  "source_url": "https://www.city.niigata.lg.jp/konan/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15105",
+  "name": "新潟市秋葉区役所",
+  "postal_code": "956-8601",
+  "address": "新潟市秋葉区程島2009番地",
+  "phone": "0250-23-1000",
+  "official_url": "https://www.city.niigata.lg.jp/akiha/",
+  "source_url": "https://www.city.niigata.lg.jp/akiha/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15106",
+  "name": "新潟市南区役所",
+  "postal_code": "950-1292",
+  "address": "新潟市南区白根1235番地",
+  "phone": "025-373-1000",
+  "official_url": "https://www.city.niigata.lg.jp/minami/",
+  "source_url": "https://www.city.niigata.lg.jp/minami/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15107",
+  "name": "新潟市西区役所",
+  "postal_code": "950-2097",
+  "address": "新潟市西区寺尾東3丁目14番41号",
+  "phone": "025-268-1000",
+  "official_url": "https://www.city.niigata.lg.jp/nishi/",
+  "source_url": "https://www.city.niigata.lg.jp/nishi/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15108",
+  "name": "新潟市西蒲区役所",
+  "postal_code": "959-0492",
+  "address": "新潟市西蒲区旗屋585番地1（西川出張所3階／庁舎建替えのため移転中）",
+  "phone": "0256-73-1000",
+  "official_url": "https://www.city.niigata.lg.jp/nishikan/",
+  "source_url": "https://www.city.niigata.lg.jp/nishikan/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15202",
+  "name": "長岡市役所",
+  "postal_code": "940-8501",
+  "address": "長岡市大手通1丁目4番地10",
+  "phone": "0258-35-1122",
+  "official_url": "https://www.city.nagaoka.niigata.jp/",
+  "source_url": "https://www.city.nagaoka.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15204",
+  "name": "三条市役所",
+  "postal_code": "955-8686",
+  "address": "三条市旭町2丁目3番1号",
+  "phone": "0256-34-5511",
+  "official_url": "https://www.city.sanjo.niigata.jp/",
+  "source_url": "https://www.city.sanjo.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15205",
+  "name": "柏崎市役所",
+  "postal_code": "945-8511",
+  "address": "柏崎市日石町2番1号",
+  "phone": "0257-23-5111",
+  "official_url": "https://www.city.kashiwazaki.lg.jp/",
+  "source_url": "https://www.city.kashiwazaki.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15206",
+  "name": "新発田市役所",
+  "postal_code": "957-8686",
+  "address": "新発田市中央町3丁目3番3号",
+  "phone": "0254-22-3030",
+  "official_url": "https://www.city.shibata.lg.jp/",
+  "source_url": "https://www.city.shibata.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15208",
+  "name": "小千谷市役所",
+  "postal_code": "947-8501",
+  "address": "小千谷市城内2丁目7番5号",
+  "phone": "0258-83-3511",
+  "official_url": "https://www.city.ojiya.niigata.jp/",
+  "source_url": "https://www.city.ojiya.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15209",
+  "name": "加茂市役所",
+  "postal_code": "959-1392",
+  "address": "加茂市幸町2丁目3番5号",
+  "phone": "0256-52-0080",
+  "official_url": "https://www.city.kamo.niigata.jp/",
+  "source_url": "https://www.city.kamo.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15210",
+  "name": "十日町市役所",
+  "postal_code": "948-8501",
+  "address": "十日町市千歳町3丁目3番地",
+  "phone": "025-757-3111",
+  "official_url": "https://www.city.tokamachi.lg.jp/",
+  "source_url": "https://www.city.tokamachi.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15211",
+  "name": "見附市役所",
+  "postal_code": "954-8686",
+  "address": "見附市昭和町2丁目1番1号",
+  "phone": "0258-62-1700",
+  "official_url": "https://www.city.mitsuke.niigata.jp/",
+  "source_url": "https://www.city.mitsuke.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15212",
+  "name": "村上市役所",
+  "postal_code": "958-8501",
+  "address": "村上市三之町1番1号",
+  "phone": "0254-53-2111",
+  "official_url": "https://www.city.murakami.lg.jp/",
+  "source_url": "https://www.city.murakami.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15213",
+  "name": "燕市役所",
+  "postal_code": "959-0295",
+  "address": "燕市吉田西太田1934番地",
+  "phone": "0256-92-1111",
+  "official_url": "https://www.city.tsubame.niigata.jp/",
+  "source_url": "https://www.city.tsubame.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15216",
+  "name": "糸魚川市役所",
+  "postal_code": "941-8501",
+  "address": "糸魚川市一の宮1丁目2番5号",
+  "phone": "025-552-1511",
+  "official_url": "https://www.city.itoigawa.lg.jp/",
+  "source_url": "https://www.city.itoigawa.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15217",
+  "name": "妙高市役所",
+  "postal_code": "944-8686",
+  "address": "妙高市栄町5番1号",
+  "phone": "0255-72-5111",
+  "official_url": "https://www.city.myoko.niigata.jp/",
+  "source_url": "https://www.city.myoko.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15218",
+  "name": "五泉市役所",
+  "postal_code": "959-1692",
+  "address": "五泉市太田1094番地1",
+  "phone": "0250-43-3911",
+  "official_url": "https://www.city.gosen.lg.jp/",
+  "source_url": "https://www.city.gosen.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15222",
+  "name": "上越市役所",
+  "postal_code": "943-8601",
+  "address": "上越市木田1丁目1番3号",
+  "phone": "025-526-5111",
+  "official_url": "https://www.city.joetsu.niigata.jp/",
+  "source_url": "https://www.city.joetsu.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15223",
+  "name": "阿賀野市役所",
+  "postal_code": "959-2092",
+  "address": "阿賀野市岡山町10番15号",
+  "phone": "0250-62-2510",
+  "official_url": "https://www.city.agano.niigata.jp/",
+  "source_url": "https://www.city.agano.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15224",
+  "name": "佐渡市役所",
+  "postal_code": "952-1292",
+  "address": "佐渡市千種232番地",
+  "phone": "0259-63-3111",
+  "official_url": "https://www.city.sado.niigata.jp/",
+  "source_url": "https://www.city.sado.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15225",
+  "name": "魚沼市役所",
+  "postal_code": "946-8601",
+  "address": "魚沼市小出島910番地",
+  "phone": "025-792-1000",
+  "official_url": "https://www.city.uonuma.lg.jp/",
+  "source_url": "https://www.city.uonuma.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15226",
+  "name": "南魚沼市役所",
+  "postal_code": "949-6696",
+  "address": "南魚沼市六日町180番地1",
+  "phone": "025-773-6660",
+  "official_url": "https://www.city.minamiuonuma.niigata.jp/",
+  "source_url": "https://www.city.minamiuonuma.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15227",
+  "name": "胎内市役所",
+  "postal_code": "959-2693",
+  "address": "胎内市新和町2番10号",
+  "phone": "0254-43-6111",
+  "official_url": "https://www.city.tainai.niigata.jp/",
+  "source_url": "https://www.city.tainai.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15307",
+  "name": "聖籠町役場",
+  "postal_code": "957-0192",
+  "address": "北蒲原郡聖籠町大字諏訪山1635番地4",
+  "phone": "0254-27-2111",
+  "official_url": "https://www.town.seiro.niigata.jp/",
+  "source_url": "https://www.town.seiro.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15342",
+  "name": "弥彦村役場",
+  "postal_code": "959-0392",
+  "address": "西蒲原郡弥彦村大字矢作402番地",
+  "phone": "0256-94-3131",
+  "official_url": "https://www.vill.yahiko.niigata.jp/",
+  "source_url": "https://www.vill.yahiko.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15361",
+  "name": "田上町役場",
+  "postal_code": "959-1503",
+  "address": "南蒲原郡田上町大字原ヶ崎新田3070番地",
+  "phone": "0256-57-6222",
+  "official_url": "https://www.town.tagami.niigata.jp/",
+  "source_url": "https://www.town.tagami.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15385",
+  "name": "阿賀町役場",
+  "postal_code": "959-4495",
+  "address": "東蒲原郡阿賀町津川580番地",
+  "phone": "0254-92-3111",
+  "official_url": "https://www.town.aga.niigata.jp/",
+  "source_url": "https://www.town.aga.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15405",
+  "name": "出雲崎町役場",
+  "postal_code": "949-4392",
+  "address": "三島郡出雲崎町大字川西140番地",
+  "phone": "0258-78-3111",
+  "official_url": "https://www.town.izumozaki.niigata.jp/",
+  "source_url": "https://www.town.izumozaki.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15461",
+  "name": "湯沢町役場",
+  "postal_code": "949-6192",
+  "address": "南魚沼郡湯沢町大字神立300番地",
+  "phone": "025-784-3451",
+  "official_url": "https://www.town.yuzawa.lg.jp/",
+  "source_url": "https://www.town.yuzawa.lg.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15482",
+  "name": "津南町役場",
+  "postal_code": "949-8292",
+  "address": "中魚沼郡津南町大字下船渡戊585番地",
+  "phone": "025-765-3111",
+  "official_url": "https://www.town.tsunan.niigata.jp/",
+  "source_url": "https://www.town.tsunan.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15504",
+  "name": "刈羽村役場",
+  "postal_code": "945-0397",
+  "address": "刈羽郡刈羽村大字割町新田215番地1",
+  "phone": "0257-45-2244",
+  "official_url": "https://www.vill.kariwa.niigata.jp/",
+  "source_url": "https://www.vill.kariwa.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15581",
+  "name": "関川村役場",
+  "postal_code": "959-3292",
+  "address": "岩船郡関川村大字下関912番地",
+  "phone": "0254-64-1476",
+  "official_url": "https://www.vill.sekikawa.niigata.jp/",
+  "source_url": "https://www.vill.sekikawa.niigata.jp/",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "15586",
+  "name": "粟島浦村役場",
+  "postal_code": "958-0061",
+  "address": "岩船郡粟島浦村字日ノ見山1513-11",
+  "phone": "0254-55-2111",
+  "official_url": "https://www.vill.awashimaura.lg.jp/",
+  "source_url": "https://www.vill.awashimaura.lg.jp/",
+  "verified_at": "2026-07-06"
+ }
+]

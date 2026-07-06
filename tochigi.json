@@ -1,0 +1,252 @@
+[
+ {
+  "city_code": "09201",
+  "name": "宇都宮市役所",
+  "postal_code": "320-8540",
+  "address": "宇都宮市旭1丁目1-5",
+  "phone": "028-632-2222",
+  "official_url": "https://www.city.utsunomiya.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09202",
+  "name": "足利市役所",
+  "postal_code": "326-8601",
+  "address": "足利市本城3丁目2145番地",
+  "phone": "0284-20-2222",
+  "official_url": "https://www.city.ashikaga.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09203",
+  "name": "栃木市役所",
+  "postal_code": "328-8686",
+  "address": "栃木市万町9番25号",
+  "phone": "0282-22-3535",
+  "official_url": "https://www.city.tochigi.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09204",
+  "name": "佐野市役所",
+  "postal_code": "327-8501",
+  "address": "佐野市高砂町1番地",
+  "phone": "0283-24-5111",
+  "official_url": "https://www.city.sano.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09205",
+  "name": "鹿沼市役所",
+  "postal_code": "322-8601",
+  "address": "鹿沼市今宮町1688-1",
+  "phone": "0289-64-2111",
+  "official_url": "https://www.city.kanuma.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09206",
+  "name": "日光市役所",
+  "postal_code": "321-1292",
+  "address": "日光市今市本町1番地",
+  "phone": "0288-22-1111",
+  "official_url": "https://www.city.nikko.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09208",
+  "name": "小山市役所",
+  "postal_code": "323-8686",
+  "address": "小山市中央町1丁目1番1号",
+  "phone": "0285-23-1111",
+  "official_url": "https://www.city.oyama.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09209",
+  "name": "真岡市役所",
+  "postal_code": "321-4395",
+  "address": "真岡市荒町5191番地",
+  "phone": "0285-82-1111",
+  "official_url": "https://www.city.moka.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09210",
+  "name": "大田原市役所",
+  "postal_code": "324-8641",
+  "address": "大田原市本町1丁目4番1号",
+  "phone": "0287-23-1111",
+  "official_url": "https://www.city.ohtawara.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09211",
+  "name": "矢板市役所",
+  "postal_code": "329-2192",
+  "address": "矢板市本町5番4号",
+  "phone": "0287-43-1111",
+  "official_url": "https://www.city.yaita.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09213",
+  "name": "那須塩原市役所",
+  "postal_code": "325-8501",
+  "address": "那須塩原市共墾社108番地2",
+  "phone": "0287-62-7111",
+  "official_url": "https://www.city.nasushiobara.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09214",
+  "name": "さくら市役所",
+  "postal_code": "329-1392",
+  "address": "さくら市氏家2771番地",
+  "phone": "028-681-1111",
+  "official_url": "https://www.city.tochigi-sakura.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09215",
+  "name": "那須烏山市役所",
+  "postal_code": "321-0692",
+  "address": "那須烏山市中央1丁目1番1号",
+  "phone": "0287-83-1111",
+  "official_url": "https://www.city.nasukarasuyama.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09216",
+  "name": "下野市役所",
+  "postal_code": "329-0492",
+  "address": "下野市笹原26番地",
+  "phone": "0285-32-8888",
+  "official_url": "https://www.city.shimotsuke.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09301",
+  "name": "上三川町役場",
+  "postal_code": "329-0696",
+  "address": "河内郡上三川町しらさぎ一丁目1番地",
+  "phone": "0285-56-9111",
+  "official_url": "https://www.town.kaminokawa.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09342",
+  "name": "益子町役場",
+  "postal_code": "321-4293",
+  "address": "芳賀郡益子町大字益子2030番地",
+  "phone": "0285-72-2111",
+  "official_url": "https://www.town.mashiko.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09343",
+  "name": "茂木町役場",
+  "postal_code": "321-3598",
+  "address": "芳賀郡茂木町大字茂木155番地",
+  "phone": "0285-63-1111",
+  "official_url": "https://www.town.motegi.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09344",
+  "name": "市貝町役場",
+  "postal_code": "321-3493",
+  "address": "芳賀郡市貝町大字市塙1280",
+  "phone": "0285-68-1111",
+  "official_url": "https://www.town.ichikai.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09345",
+  "name": "芳賀町役場",
+  "postal_code": "321-3392",
+  "address": "芳賀郡芳賀町祖母井1020",
+  "phone": "028-677-1111",
+  "official_url": "https://www.town.tochigi-haga.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09361",
+  "name": "壬生町役場",
+  "postal_code": "321-0292",
+  "address": "下都賀郡壬生町大字壬生甲3841番地1",
+  "phone": "0282-81-1806",
+  "official_url": "https://www.town.mibu.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09364",
+  "name": "野木町役場",
+  "postal_code": "329-0195",
+  "address": "下都賀郡野木町大字丸林571",
+  "phone": "0280-57-4111",
+  "official_url": "https://www.town.nogi.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09384",
+  "name": "塩谷町役場",
+  "postal_code": "329-2292",
+  "address": "塩谷郡塩谷町大字玉生955番地3",
+  "phone": "0287-45-1111",
+  "official_url": "https://www.town.shioya.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09386",
+  "name": "高根沢町役場",
+  "postal_code": "329-1292",
+  "address": "塩谷郡高根沢町大字石末2053",
+  "phone": "028-675-8100",
+  "official_url": "https://www.town.takanezawa.tochigi.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09407",
+  "name": "那須町役場",
+  "postal_code": "329-3292",
+  "address": "那須郡那須町大字寺子丙3-13",
+  "phone": "0287-72-6901",
+  "official_url": "https://www.town.nasu.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "09411",
+  "name": "那珂川町役場",
+  "postal_code": "324-0692",
+  "address": "那須郡那珂川町馬頭555番地",
+  "phone": "0287-92-1111",
+  "official_url": "https://www.town.tochigi-nakagawa.lg.jp/",
+  "source_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html",
+  "verified_at": "2026-07-06"
+ }
+]

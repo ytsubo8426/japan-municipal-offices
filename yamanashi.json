@@ -1,0 +1,272 @@
+[
+ {
+  "city_code": "19201",
+  "name": "甲府市役所",
+  "postal_code": "400-8585",
+  "address": "甲府市丸の内一丁目18番1号",
+  "phone": "055-237-1161",
+  "official_url": "https://www.city.kofu.yamanashi.jp/top.html",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19202",
+  "name": "富士吉田市役所",
+  "postal_code": "403-8601",
+  "address": "富士吉田市下吉田6丁目1-1",
+  "phone": "0555-22-1111",
+  "official_url": "https://www.city.fujiyoshida.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19204",
+  "name": "都留市役所",
+  "postal_code": "402-8501",
+  "address": "都留市上谷1-1-1",
+  "phone": "0554-43-1111",
+  "official_url": "https://www.city.tsuru.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19205",
+  "name": "山梨市役所",
+  "postal_code": "405-8501",
+  "address": "山梨市小原西843",
+  "phone": "0553-22-1111",
+  "official_url": "https://www.city.yamanashi.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19206",
+  "name": "大月市役所",
+  "postal_code": "401-8601",
+  "address": "大月市大月2丁目6-20",
+  "phone": "0554-22-2111",
+  "official_url": "https://www.city.otsuki.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19207",
+  "name": "韮崎市役所",
+  "postal_code": "407-8501",
+  "address": "韮崎市水神一丁目3番1号",
+  "phone": "0551-22-1111",
+  "official_url": "https://www.city.nirasaki.lg.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19208",
+  "name": "南アルプス市役所",
+  "postal_code": "400-0395",
+  "address": "南アルプス市小笠原376",
+  "phone": "055-282-1111",
+  "official_url": "https://www.city.minami-alps.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19209",
+  "name": "北杜市役所",
+  "postal_code": "408-0188",
+  "address": "北杜市須玉町大豆生田961-1",
+  "phone": "0551-42-1111",
+  "official_url": "https://www.city.hokuto.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19210",
+  "name": "甲斐市役所",
+  "postal_code": "400-0192",
+  "address": "甲斐市篠原2610番地",
+  "phone": "055-276-2111",
+  "official_url": "https://www.city.kai.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19211",
+  "name": "笛吹市役所",
+  "postal_code": "406-8510",
+  "address": "笛吹市石和町市部777",
+  "phone": "055-262-4111",
+  "official_url": "https://www.city.fuefuki.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19212",
+  "name": "上野原市役所",
+  "postal_code": "409-0192",
+  "address": "上野原市上野原3832",
+  "phone": "0554-62-3111",
+  "official_url": "https://www.city.uenohara.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19213",
+  "name": "甲州市役所",
+  "postal_code": "404-8501",
+  "address": "甲州市塩山上於曽1085番地1",
+  "phone": "0553-32-2111",
+  "official_url": "https://www.city.koshu.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19214",
+  "name": "中央市役所",
+  "postal_code": "409-3892",
+  "address": "中央市臼井阿原301番地1",
+  "phone": "055-274-1111",
+  "official_url": "https://www.city.chuo.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19346",
+  "name": "市川三郷町役場",
+  "postal_code": "409-3601",
+  "address": "西八代郡市川三郷町市川大門1790-3",
+  "phone": "055-272-1101",
+  "official_url": "https://www.town.ichikawamisato.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19364",
+  "name": "早川町役場",
+  "postal_code": "409-2732",
+  "address": "南巨摩郡早川町高住758",
+  "phone": "0556-45-2511",
+  "official_url": "https://www.town.hayakawa.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19365",
+  "name": "身延町役場",
+  "postal_code": "409-3392",
+  "address": "南巨摩郡身延町切石350",
+  "phone": "0556-42-2111",
+  "official_url": "https://www.town.minobu.lg.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19366",
+  "name": "南部町役場",
+  "postal_code": "409-2192",
+  "address": "南巨摩郡南部町福士28505番地2",
+  "phone": "0556-66-2111",
+  "official_url": "https://www.town.nanbu.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19368",
+  "name": "富士川町役場",
+  "postal_code": "400-0592",
+  "address": "南巨摩郡富士川町天神中條1134",
+  "phone": "0556-22-1111",
+  "official_url": "https://www.town.fujikawa.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19384",
+  "name": "昭和町役場",
+  "postal_code": "409-3880",
+  "address": "中巨摩郡昭和町押越542-2",
+  "phone": "055-275-2111",
+  "official_url": "https://www.town.showa.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19422",
+  "name": "道志村役場",
+  "postal_code": "402-0209",
+  "address": "南都留郡道志村6181番地1",
+  "phone": "0554-52-2111",
+  "official_url": "http://www.vill.doshi.lg.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19423",
+  "name": "西桂町役場",
+  "postal_code": "403-0022",
+  "address": "南都留郡西桂町小沼1500-1",
+  "phone": "0555-25-2121",
+  "official_url": "https://www.town.nishikatsura.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19424",
+  "name": "忍野村役場",
+  "postal_code": "401-0592",
+  "address": "南都留郡忍野村忍草1514",
+  "phone": "0555-84-3111",
+  "official_url": "https://www.vill.oshino.lg.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19425",
+  "name": "山中湖村役場",
+  "postal_code": "401-0595",
+  "address": "南都留郡山中湖村山中237-1",
+  "phone": "0555-62-1111",
+  "official_url": "https://www.vill.yamanakako.lg.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19429",
+  "name": "鳴沢村役場",
+  "postal_code": "401-0398",
+  "address": "南都留郡鳴沢村1575番地",
+  "phone": "0555-85-2311",
+  "official_url": "https://www.vill.narusawa.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19430",
+  "name": "富士河口湖町役場",
+  "postal_code": "401-0392",
+  "address": "南都留郡富士河口湖町船津1700番地",
+  "phone": "0555-72-1111",
+  "official_url": "https://www.town.fujikawaguchiko.lg.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19442",
+  "name": "小菅村役場",
+  "postal_code": "409-0211",
+  "address": "北都留郡小菅村4698番地",
+  "phone": "0428-87-0111",
+  "official_url": "http://www.vill.kosuge.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "19443",
+  "name": "丹波山村役場",
+  "postal_code": "409-0300",
+  "address": "北都留郡丹波山村2450",
+  "phone": "0428-88-0211",
+  "official_url": "https://www.vill.tabayama.yamanashi.jp/",
+  "source_url": "https://www.pref.yamanashi.jp/shichoson/shichoson-address.html",
+  "verified_at": "2026-07-06"
+ }
+]

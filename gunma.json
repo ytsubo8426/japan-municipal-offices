@@ -1,0 +1,352 @@
+[
+ {
+  "city_code": "10201",
+  "name": "前橋市役所",
+  "postal_code": "371-8601",
+  "address": "前橋市大手町二丁目12番1号",
+  "phone": "027-224-1111",
+  "official_url": "https://www.city.maebashi.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10202",
+  "name": "高崎市役所",
+  "postal_code": "370-8501",
+  "address": "高崎市高松町35番地1",
+  "phone": "027-321-1111",
+  "official_url": "https://www.city.takasaki.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10203",
+  "name": "桐生市役所",
+  "postal_code": "376-8501",
+  "address": "桐生市織姫町1番1号",
+  "phone": "0277-46-1111",
+  "official_url": "https://www.city.kiryu.lg.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10204",
+  "name": "伊勢崎市役所",
+  "postal_code": "372-8501",
+  "address": "伊勢崎市今泉町二丁目410番地",
+  "phone": "0270-24-5111",
+  "official_url": "https://www.city.isesaki.lg.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10205",
+  "name": "太田市役所",
+  "postal_code": "373-8718",
+  "address": "太田市浜町2番35号",
+  "phone": "0276-47-1111",
+  "official_url": "https://www.city.ota.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10206",
+  "name": "沼田市役所",
+  "postal_code": "378-8501",
+  "address": "沼田市下之町888番地",
+  "phone": "0278-23-2111",
+  "official_url": "https://www.city.numata.gunma.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10207",
+  "name": "館林市役所",
+  "postal_code": "374-8501",
+  "address": "館林市城町1番1号",
+  "phone": "0276-72-4111",
+  "official_url": "https://www.city.tatebayashi.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10208",
+  "name": "渋川市役所",
+  "postal_code": "377-8501",
+  "address": "渋川市石原80番地",
+  "phone": "0279-22-2111",
+  "official_url": "https://www.city.shibukawa.lg.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10209",
+  "name": "藤岡市役所",
+  "postal_code": "375-8601",
+  "address": "藤岡市中栗須327番地",
+  "phone": "0274-22-1211",
+  "official_url": "https://www.city.fujioka.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10210",
+  "name": "富岡市役所",
+  "postal_code": "370-2392",
+  "address": "富岡市富岡1460－1",
+  "phone": "0274-62-1511",
+  "official_url": "https://www.city.tomioka.lg.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10211",
+  "name": "安中市役所",
+  "postal_code": "379-0192",
+  "address": "安中市安中2丁目13番7号",
+  "phone": "027-382-1111",
+  "official_url": "https://www.city.annaka.lg.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10212",
+  "name": "みどり市役所",
+  "postal_code": "379-2395",
+  "address": "みどり市笠懸町鹿2952番地",
+  "phone": "0277-76-2111",
+  "official_url": "https://www.city.midori.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10344",
+  "name": "榛東村役場",
+  "postal_code": "370-3593",
+  "address": "榛東村大字新井790番地1",
+  "phone": "0279-54-2211",
+  "official_url": "https://www.vill.shinto.gunma.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10345",
+  "name": "吉岡町役場",
+  "postal_code": "370-3692",
+  "address": "吉岡町大字下野田560",
+  "phone": "0279-54-3111",
+  "official_url": "https://www.town.yoshioka.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10366",
+  "name": "上野村役場",
+  "postal_code": "370-1614",
+  "address": "上野村大字川和11",
+  "phone": "0274-59-2111",
+  "official_url": "https://www.uenomura.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10367",
+  "name": "神流町役場",
+  "postal_code": "370-1592",
+  "address": "神流町大字万場90－6",
+  "phone": "0274-57-2111",
+  "official_url": "https://www.town.kanna.gunma.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10382",
+  "name": "下仁田町役場",
+  "postal_code": "370-2601",
+  "address": "下仁田町大字下仁田682",
+  "phone": "0274-82-2111",
+  "official_url": "https://www.town.shimonita.lg.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10383",
+  "name": "南牧村役場",
+  "postal_code": "370-2806",
+  "address": "南牧村大字大日向1098",
+  "phone": "0274-87-2011",
+  "official_url": "https://nanmoku.ne.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10384",
+  "name": "甘楽町役場",
+  "postal_code": "370-2292",
+  "address": "甘楽町大字小幡161－1",
+  "phone": "0274-74-3131",
+  "official_url": "https://www.town.kanra.lg.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10421",
+  "name": "中之条町役場",
+  "postal_code": "377-0494",
+  "address": "中之条町大字中之条町1091",
+  "phone": "0279-75-2111",
+  "official_url": "https://www.town.nakanojo.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10424",
+  "name": "長野原町役場",
+  "postal_code": "377-1392",
+  "address": "長野原町大字長野原1340－1",
+  "phone": "0279-82-2244",
+  "official_url": "https://www.town.naganohara.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10425",
+  "name": "嬬恋村役場",
+  "postal_code": "377-1692",
+  "address": "嬬恋村大字大前110",
+  "phone": "0279-96-0511",
+  "official_url": "https://www.vill.tsumagoi.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10426",
+  "name": "草津町役場",
+  "postal_code": "377-1792",
+  "address": "草津町大字草津28",
+  "phone": "0279-88-0001",
+  "official_url": "https://www.town.kusatsu.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10428",
+  "name": "高山村役場",
+  "postal_code": "377-0792",
+  "address": "高山村大字中山2856－1",
+  "phone": "0279-63-2111",
+  "official_url": "https://vill.takayama.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10429",
+  "name": "東吾妻町役場",
+  "postal_code": "377-0892",
+  "address": "東吾妻町大字原町1046",
+  "phone": "0279-68-2111",
+  "official_url": "https://www.town.higashiagatsuma.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10443",
+  "name": "片品村役場",
+  "postal_code": "378-0498",
+  "address": "片品村大字鎌田3967－3",
+  "phone": "0278-58-2111",
+  "official_url": "https://www.vill.katashina.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10444",
+  "name": "川場村役場",
+  "postal_code": "378-0101",
+  "address": "川場村大字谷地3200番地",
+  "phone": "0278-52-2111",
+  "official_url": "https://www.vill.kawaba.gunma.jp",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10448",
+  "name": "昭和村役場",
+  "postal_code": "379-1298",
+  "address": "昭和村大字糸井388",
+  "phone": "0278-24-5111",
+  "official_url": "https://www.vill.showa.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10449",
+  "name": "みなかみ町役場",
+  "postal_code": "379-1393",
+  "address": "みなかみ町後閑318",
+  "phone": "0278-62-2111",
+  "official_url": "https://www.town.minakami.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10464",
+  "name": "玉村町役場",
+  "postal_code": "370-1192",
+  "address": "玉村町大字下新田201",
+  "phone": "0270-65-2511",
+  "official_url": "https://www.town.tamamura.lg.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10521",
+  "name": "板倉町役場",
+  "postal_code": "374-0192",
+  "address": "板倉町大字板倉2682－1",
+  "phone": "0276-82-1111",
+  "official_url": "https://www.town.itakura.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10522",
+  "name": "明和町役場",
+  "postal_code": "370-0795",
+  "address": "明和町新里250－1",
+  "phone": "0276-84-3111",
+  "official_url": "https://www.town.meiwa.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10523",
+  "name": "千代田町役場",
+  "postal_code": "370-0598",
+  "address": "千代田町大字赤岩1895－1",
+  "phone": "0276-86-2111",
+  "official_url": "https://www.town.chiyoda.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10524",
+  "name": "大泉町役場",
+  "postal_code": "370-0595",
+  "address": "大泉町日の出51－1",
+  "phone": "0276-63-3111",
+  "official_url": "https://www.town.oizumi.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ },
+ {
+  "city_code": "10525",
+  "name": "邑楽町役場",
+  "postal_code": "370-0692",
+  "address": "邑楽町大字中野2570－1",
+  "phone": "0276-88-5511",
+  "official_url": "https://www.town.ora.gunma.jp/",
+  "source_url": "https://www.pref.gunma.jp/page/14524.html",
+  "verified_at": "2026-07-06"
+ }
+]
