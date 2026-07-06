@@ -63,6 +63,12 @@
 
 いずれも **公式サイト(県・市町村)のみ**を情報源としています。
 
+## メンテナー
+
+[**管轄ナビ**](https://kankatsunavi.com/)(つぼうち税理士事務所)が維持しています。
+全国の税務署・都道府県税事務所・市区町村役場の管轄データを整備する過程の副産物として
+収集したものを、同じデータを探す人のために公開しています。
+
 ## ライセンス
 
 **CC0 1.0 Universal(パブリックドメイン提供)**。事実データにつき自由に利用できます。
@@ -146,6 +152,13 @@ JSON equivalents (`iwate.json` / `akita.json`) are also provided.
 
 All information comes **exclusively from official prefectural and municipal
 websites**.
+
+## Maintainer
+
+Maintained by [**KankatsuNavi**](https://kankatsunavi.com/) (Tsubouchi Tax
+Accountant Office, Japan). The data is a byproduct of building nationwide
+jurisdiction data for tax offices, prefectural tax offices, and municipal
+governments, published here for anyone looking for the same information.
 
 ## License
 
