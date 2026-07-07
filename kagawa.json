@@ -1,0 +1,172 @@
+[
+ {
+  "city_code": "37201",
+  "name": "高松市役所",
+  "postal_code": "760-8571",
+  "address": "高松市番町一丁目8番15号",
+  "phone": "087-839-2011",
+  "official_url": "http://www.city.takamatsu.kagawa.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37202",
+  "name": "丸亀市役所",
+  "postal_code": "763-8501",
+  "address": "丸亀市大手町二丁目4番21号",
+  "phone": "0877-23-2111",
+  "official_url": "https://www.city.marugame.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37203",
+  "name": "坂出市役所",
+  "postal_code": "762-8601",
+  "address": "坂出市室町二丁目3番5号",
+  "phone": "0877-46-3111",
+  "official_url": "http://www.city.sakaide.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37204",
+  "name": "善通寺市役所",
+  "postal_code": "765-8503",
+  "address": "善通寺市文京町二丁目1番1号",
+  "phone": "0877-62-2121",
+  "official_url": "http://www.city.zentsuji.kagawa.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37205",
+  "name": "観音寺市役所",
+  "postal_code": "768-8601",
+  "address": "観音寺市坂本町一丁目1番1号",
+  "phone": "0875-23-3900",
+  "official_url": "http://www.city.kanonji.kagawa.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37206",
+  "name": "さぬき市役所",
+  "postal_code": "769-2195",
+  "address": "さぬき市志度5385番地8",
+  "phone": "087-894-1111",
+  "official_url": "https://www.city.sanuki.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37207",
+  "name": "東かがわ市役所",
+  "postal_code": "769-2792",
+  "address": "東かがわ市湊1847番地1",
+  "phone": "0879-26-1214",
+  "official_url": "http://www.higashikagawa.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37208",
+  "name": "三豊市役所",
+  "postal_code": "767-8585",
+  "address": "三豊市高瀬町下勝間2373番地1",
+  "phone": "0875-73-3000",
+  "official_url": "https://www.city.mitoyo.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37322",
+  "name": "土庄町役場",
+  "postal_code": "761-4192",
+  "address": "小豆郡土庄町淵崎甲1400番地2",
+  "phone": "0879-62-7000",
+  "official_url": "http://www.town.tonosho.kagawa.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37324",
+  "name": "小豆島町役場",
+  "postal_code": "761-4492",
+  "address": "小豆郡小豆島町片城甲44番地95",
+  "phone": "0879-82-7000",
+  "official_url": "http://www.town.shodoshima.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37341",
+  "name": "三木町役場",
+  "postal_code": "761-0692",
+  "address": "木田郡三木町大字氷上310番地",
+  "phone": "087-891-3300",
+  "official_url": "http://www.town.miki.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37364",
+  "name": "直島町役場",
+  "postal_code": "761-3110",
+  "address": "香川郡直島町1122番地1",
+  "phone": "087-892-2222",
+  "official_url": "http://www.town.naoshima.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37386",
+  "name": "宇多津町役場",
+  "postal_code": "769-0292",
+  "address": "綾歌郡宇多津町1881番地",
+  "phone": "0877-49-0511",
+  "official_url": "https://www.town.utazu.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37387",
+  "name": "綾川町役場",
+  "postal_code": "761-2392",
+  "address": "綾歌郡綾川町滝宮299番地",
+  "phone": "087-876-1111",
+  "official_url": "https://www.town.ayagawa.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37403",
+  "name": "琴平町役場",
+  "postal_code": "766-8502",
+  "address": "仲多度郡琴平町榎井817番地10",
+  "phone": "0877-75-6700",
+  "official_url": "http://www.town.kotohira.kagawa.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37404",
+  "name": "多度津町役場",
+  "postal_code": "764-8501",
+  "address": "仲多度郡多度津町栄町三丁目3番95号",
+  "phone": "0877-33-1110",
+  "official_url": "http://www.town.tadotsu.kagawa.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "37406",
+  "name": "まんのう町役場",
+  "postal_code": "766-8503",
+  "address": "仲多度郡まんのう町吉野下430番地",
+  "phone": "0877-73-0100",
+  "official_url": "https://www.town.manno.lg.jp/",
+  "source_url": "https://www.pref.kagawa.lg.jp/kocho/shokai/profile/w3cz95150312151105.html (市町公式リンク集) + 各市町公式サイト",
+  "verified_at": "2026-07-07"
+ }
+]

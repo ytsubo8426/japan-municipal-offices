@@ -1,0 +1,192 @@
+[
+ {
+  "city_code": "31201",
+  "name": "鳥取市役所",
+  "postal_code": "680-8571",
+  "address": "鳥取市幸町71番地",
+  "phone": "0857-22-8111",
+  "official_url": "https://www.city.tottori.lg.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31202",
+  "name": "米子市役所",
+  "postal_code": "683-8686",
+  "address": "米子市加茂町一丁目1番地",
+  "phone": "0859-22-7111",
+  "official_url": "https://www.city.yonago.lg.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31203",
+  "name": "倉吉市役所",
+  "postal_code": "682-8611",
+  "address": "倉吉市葵町722番地",
+  "phone": "0858-22-8111",
+  "official_url": "https://www.city.kurayoshi.lg.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31204",
+  "name": "境港市役所",
+  "postal_code": "684-8501",
+  "address": "境港市上道町3000番地",
+  "phone": "0859-44-2111",
+  "official_url": "https://www.city.sakaiminato.lg.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31302",
+  "name": "岩美町役場",
+  "postal_code": "681-8501",
+  "address": "岩美郡岩美町浦富675番地1",
+  "phone": "0857-73-1411",
+  "official_url": "http://www.iwami.gr.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31325",
+  "name": "若桜町役場",
+  "postal_code": "680-0792",
+  "address": "八頭郡若桜町大字若桜801番地5",
+  "phone": "0858-82-2211",
+  "official_url": "http://www.town.wakasa.tottori.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31328",
+  "name": "智頭町役場",
+  "postal_code": "689-1402",
+  "address": "八頭郡智頭町大字智頭2072番地1",
+  "phone": "0858-75-4111",
+  "official_url": "http://www1.town.chizu.tottori.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31329",
+  "name": "八頭町役場",
+  "postal_code": "680-0493",
+  "address": "八頭郡八頭町郡家493番地",
+  "phone": "0858-76-0201",
+  "official_url": "http://www.town.yazu.tottori.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31364",
+  "name": "三朝町役場",
+  "postal_code": "682-0195",
+  "address": "東伯郡三朝町大字大瀬999番地2",
+  "phone": "0858-43-1111",
+  "official_url": "http://www.town.misasa.tottori.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31370",
+  "name": "湯梨浜町役場",
+  "postal_code": "682-0723",
+  "address": "東伯郡湯梨浜町大字久留19番地1",
+  "phone": "0858-35-3111",
+  "official_url": "https://www.yurihama.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31371",
+  "name": "琴浦町役場",
+  "postal_code": "689-2392",
+  "address": "東伯郡琴浦町大字徳万591番地2",
+  "phone": "0858-52-2111",
+  "official_url": "https://www.town.kotoura.tottori.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31372",
+  "name": "北栄町役場",
+  "postal_code": "689-2292",
+  "address": "東伯郡北栄町由良宿423番地1",
+  "phone": "0858-37-3111",
+  "official_url": "http://www.e-hokuei.net/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31384",
+  "name": "日吉津村役場",
+  "postal_code": "689-3553",
+  "address": "西伯郡日吉津村大字日吉津872番地15",
+  "phone": "0859-27-0211",
+  "official_url": "http://www.hiezu.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31386",
+  "name": "大山町役場",
+  "postal_code": "689-3211",
+  "address": "西伯郡大山町御来屋328番地",
+  "phone": "0859-54-3111",
+  "official_url": "https://www.daisen.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31389",
+  "name": "南部町役場",
+  "postal_code": "683-0351",
+  "address": "西伯郡南部町法勝寺377番地1",
+  "phone": "0859-66-3112",
+  "official_url": "https://www.town.nanbu.tottori.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31390",
+  "name": "伯耆町役場",
+  "postal_code": "689-4133",
+  "address": "西伯郡伯耆町吉長37番地3",
+  "phone": "0859-68-3111",
+  "official_url": "http://www.houki-town.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31401",
+  "name": "日南町役場",
+  "postal_code": "689-5292",
+  "address": "日野郡日南町霞800番地",
+  "phone": "0859-82-1111",
+  "official_url": "http://www.town.nichinan.lg.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31402",
+  "name": "日野町役場",
+  "postal_code": "689-4503",
+  "address": "日野郡日野町根雨101番地",
+  "phone": "0859-72-0331",
+  "official_url": "https://www.town.hino.tottori.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "31403",
+  "name": "江府町役場",
+  "postal_code": "689-4401",
+  "address": "日野郡江府町大字江尾1717番地1",
+  "phone": "0859-75-2211",
+  "official_url": "https://www.town-kofu.jp/",
+  "source_url": "https://www.pref.tottori.lg.jp/12510.htm , https://www.pref.tottori.lg.jp/9577.htm",
+  "verified_at": "2026-07-07"
+ }
+]

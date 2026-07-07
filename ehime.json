@@ -1,0 +1,202 @@
+[
+ {
+  "city_code": "38201",
+  "name": "松山市役所",
+  "postal_code": "790-8571",
+  "address": "松山市二番町四丁目7番地2",
+  "phone": "089-948-6688",
+  "official_url": "https://www.city.matsuyama.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38202",
+  "name": "今治市役所",
+  "postal_code": "794-8511",
+  "address": "今治市別宮町1丁目4番地1",
+  "phone": "0898-32-5200",
+  "official_url": "http://www.city.imabari.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38203",
+  "name": "宇和島市役所",
+  "postal_code": "798-8601",
+  "address": "宇和島市曙町1番地",
+  "phone": "0895-24-1111",
+  "official_url": "https://www.city.uwajima.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38204",
+  "name": "八幡浜市役所",
+  "postal_code": "796-8501",
+  "address": "八幡浜市北浜一丁目1番1号",
+  "phone": "0894-22-3111",
+  "official_url": "http://www.city.yawatahama.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38205",
+  "name": "新居浜市役所",
+  "postal_code": "792-8585",
+  "address": "新居浜市一宮町一丁目5番1号",
+  "phone": "0897-65-1234",
+  "official_url": "https://www.city.niihama.lg.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38206",
+  "name": "西条市役所",
+  "postal_code": "793-8601",
+  "address": "西条市明屋敷164番地",
+  "phone": "0897-56-5151",
+  "official_url": "https://www.city.saijo.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38207",
+  "name": "大洲市役所",
+  "postal_code": "795-8601",
+  "address": "大洲市大洲690番地",
+  "phone": "0893-24-2111",
+  "official_url": "https://www.city.ozu.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38210",
+  "name": "伊予市役所",
+  "postal_code": "799-3193",
+  "address": "伊予市米湊820番地",
+  "phone": "089-982-1111",
+  "official_url": "https://www.city.iyo.lg.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38213",
+  "name": "四国中央市役所",
+  "postal_code": "799-0497",
+  "address": "四国中央市三島宮川4丁目6番55号",
+  "phone": "0896-28-6000",
+  "official_url": "https://www.city.shikokuchuo.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38214",
+  "name": "西予市役所",
+  "postal_code": "797-8501",
+  "address": "西予市宇和町卯之町三丁目434番地1",
+  "phone": "0894-62-1111",
+  "official_url": "https://www.city.seiyo.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38215",
+  "name": "東温市役所",
+  "postal_code": "791-0292",
+  "address": "東温市見奈良530番地1",
+  "phone": "089-964-2001",
+  "official_url": "https://www.city.toon.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38356",
+  "name": "上島町役場",
+  "postal_code": "794-2592",
+  "address": "越智郡上島町弓削下弓削210",
+  "phone": "0897-77-2500",
+  "official_url": "https://www.town.kamijima.lg.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38386",
+  "name": "久万高原町役場",
+  "postal_code": "791-1201",
+  "address": "上浮穴郡久万高原町久万212",
+  "phone": "0892-21-1111",
+  "official_url": "https://www.kumakogen.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38401",
+  "name": "松前町役場",
+  "postal_code": "791-3192",
+  "address": "伊予郡松前町大字筒井631番地",
+  "phone": "089-985-2111",
+  "official_url": "https://www.town.masaki.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38402",
+  "name": "砥部町役場",
+  "postal_code": "791-2195",
+  "address": "伊予郡砥部町宮内1392番地",
+  "phone": "089-962-2323",
+  "official_url": "https://www.town.tobe.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38422",
+  "name": "内子町役場",
+  "postal_code": "795-0392",
+  "address": "喜多郡内子町平岡甲168番地",
+  "phone": "0893-44-2111",
+  "official_url": "https://www.town.uchiko.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38442",
+  "name": "伊方町役場",
+  "postal_code": "796-0301",
+  "address": "西宇和郡伊方町湊浦1993番地1",
+  "phone": "0894-38-0211",
+  "official_url": "https://www.town.ikata.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38484",
+  "name": "松野町役場",
+  "postal_code": "798-2192",
+  "address": "北宇和郡松野町大字松丸343",
+  "phone": "0895-42-1111",
+  "official_url": "https://www.town.matsuno.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38488",
+  "name": "鬼北町役場",
+  "postal_code": "798-1395",
+  "address": "北宇和郡鬼北町大字近永800番地1",
+  "phone": "0895-45-1111",
+  "official_url": "https://www.town.kihoku.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "38506",
+  "name": "愛南町役場",
+  "postal_code": "798-4196",
+  "address": "南宇和郡愛南町城辺甲2420番地",
+  "phone": "0895-72-1211",
+  "official_url": "https://www.town.ainan.ehime.jp/",
+  "source_url": "https://www.pref.ehime.jp/page/14990.html",
+  "verified_at": "2026-07-07"
+ }
+]

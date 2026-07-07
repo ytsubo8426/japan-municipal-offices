@@ -1,0 +1,312 @@
+[
+ {
+  "city_code": "34100",
+  "name": "広島市役所",
+  "postal_code": "730-8586",
+  "address": "広島市中区国泰寺町一丁目6番34号",
+  "phone": "082-245-2111",
+  "official_url": "https://www.city.hiroshima.lg.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34101",
+  "name": "広島市中区役所",
+  "postal_code": "730-8587",
+  "address": "広島市中区国泰寺町一丁目4番21号",
+  "phone": "082-504-2543",
+  "official_url": "https://www.city.hiroshima.lg.jp/nakaku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34102",
+  "name": "広島市東区役所",
+  "postal_code": "732-8510",
+  "address": "広島市東区東蟹屋町9番38号",
+  "phone": "082-568-7703",
+  "official_url": "https://www.city.hiroshima.lg.jp/higashiku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34103",
+  "name": "広島市南区役所",
+  "postal_code": "734-8522",
+  "address": "広島市南区皆実町一丁目5番44号",
+  "phone": "082-250-8933",
+  "official_url": "https://www.city.hiroshima.lg.jp/minamiku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34104",
+  "name": "広島市西区役所",
+  "postal_code": "733-8530",
+  "address": "広島市西区福島町二丁目2番1号",
+  "phone": "082-532-0925",
+  "official_url": "https://www.city.hiroshima.lg.jp/nishiku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34105",
+  "name": "広島市安佐南区役所",
+  "postal_code": "731-0193",
+  "address": "広島市安佐南区古市一丁目33番14号",
+  "phone": "082-831-4925",
+  "official_url": "https://www.city.hiroshima.lg.jp/asaminamiku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34106",
+  "name": "広島市安佐北区役所",
+  "postal_code": "731-0292",
+  "address": "広島市安佐北区可部四丁目13番13号",
+  "phone": "082-819-3903",
+  "official_url": "https://www.city.hiroshima.lg.jp/asakitaku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34107",
+  "name": "広島市安芸区役所",
+  "postal_code": "736-8501",
+  "address": "広島市安芸区船越南三丁目4番36号",
+  "phone": "082-821-4903",
+  "official_url": "https://www.city.hiroshima.lg.jp/akiku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34108",
+  "name": "広島市佐伯区役所",
+  "postal_code": "731-5195",
+  "address": "広島市佐伯区海老園二丁目5番28号",
+  "phone": "082-943-9703",
+  "official_url": "https://www.city.hiroshima.lg.jp/saekiku/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34202",
+  "name": "呉市役所",
+  "postal_code": "737-8501",
+  "address": "呉市中央四丁目1番6号",
+  "phone": "0823-25-3100",
+  "official_url": "https://www.city.kure.lg.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34203",
+  "name": "竹原市役所",
+  "postal_code": "725-8666",
+  "address": "竹原市中央五丁目6番28号",
+  "phone": "0846-22-7719",
+  "official_url": "https://www.city.takehara.lg.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34204",
+  "name": "三原市役所",
+  "postal_code": "723-8601",
+  "address": "三原市港町三丁目5番1号",
+  "phone": "0848-64-2111",
+  "official_url": "https://www.city.mihara.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34205",
+  "name": "尾道市役所",
+  "postal_code": "722-8501",
+  "address": "尾道市久保一丁目15番1号",
+  "phone": "0848-38-9111",
+  "official_url": "https://www.city.onomichi.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34207",
+  "name": "福山市役所",
+  "postal_code": "720-8501",
+  "address": "福山市東桜町3番5号",
+  "phone": "084-921-2111",
+  "official_url": "https://www.city.fukuyama.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34208",
+  "name": "府中市役所",
+  "postal_code": "726-8601",
+  "address": "府中市府川町315番地",
+  "phone": "0847-44-9099",
+  "official_url": "https://www.city.fuchu.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34209",
+  "name": "三次市役所",
+  "postal_code": "728-8501",
+  "address": "三次市十日市中二丁目8番1号",
+  "phone": "0824-62-6111",
+  "official_url": "https://www.city.miyoshi.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34210",
+  "name": "庄原市役所",
+  "postal_code": "727-8501",
+  "address": "庄原市中本町一丁目10番1号",
+  "phone": "0824-73-1111",
+  "official_url": "https://www.city.shobara.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34211",
+  "name": "大竹市役所",
+  "postal_code": "739-0692",
+  "address": "大竹市小方一丁目11番1号",
+  "phone": "0827-59-2111",
+  "official_url": "https://www.city.otake.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34212",
+  "name": "東広島市役所",
+  "postal_code": "739-8601",
+  "address": "東広島市西条栄町8番29号",
+  "phone": "082-422-2111",
+  "official_url": "https://www.city.higashihiroshima.lg.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34213",
+  "name": "廿日市市役所",
+  "postal_code": "738-8501",
+  "address": "廿日市市下平良一丁目11番1号",
+  "phone": "0829-20-0001",
+  "official_url": "https://www.city.hatsukaichi.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34214",
+  "name": "安芸高田市役所",
+  "postal_code": "731-0592",
+  "address": "安芸高田市吉田町吉田791番地",
+  "phone": "0826-42-2111",
+  "official_url": "https://www.akitakata.jp/ja/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34215",
+  "name": "江田島市役所",
+  "postal_code": "737-2297",
+  "address": "江田島市大柿町大原505番地",
+  "phone": "0823-43-1111",
+  "official_url": "https://www.city.etajima.hiroshima.jp/cms/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34302",
+  "name": "府中町役場",
+  "postal_code": "735-8686",
+  "address": "安芸郡府中町大通三丁目5番1号",
+  "phone": "082-286-3111",
+  "official_url": "https://www.town.fuchu.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34304",
+  "name": "海田町役場",
+  "postal_code": "736-8601",
+  "address": "安芸郡海田町南昭和町14番17号",
+  "phone": "082-822-2121",
+  "official_url": "https://www.town.kaita.lg.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34307",
+  "name": "熊野町役場",
+  "postal_code": "731-4292",
+  "address": "安芸郡熊野町中溝一丁目1番1号",
+  "phone": "082-820-5600",
+  "official_url": "https://www.town.kumano.hiroshima.jp/www/index.html",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34309",
+  "name": "坂町役場",
+  "postal_code": "731-4393",
+  "address": "安芸郡坂町平成ヶ浜一丁目1番1号",
+  "phone": "082-820-1500",
+  "official_url": "https://www.town.saka.lg.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34368",
+  "name": "安芸太田町役場",
+  "postal_code": "731-3810",
+  "address": "山県郡安芸太田町大字戸河内784番地1",
+  "phone": "0826-28-2111",
+  "official_url": "https://www.akiota.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34369",
+  "name": "北広島町役場",
+  "postal_code": "731-1595",
+  "address": "山県郡北広島町有田1234番地",
+  "phone": "0826-72-2111",
+  "official_url": "https://www.town.kitahiroshima.lg.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34431",
+  "name": "大崎上島町役場",
+  "postal_code": "725-0231",
+  "address": "豊田郡大崎上島町東野6625番地1",
+  "phone": "0846-65-3111",
+  "official_url": "https://www.town.osakikamijima.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34462",
+  "name": "世羅町役場",
+  "postal_code": "722-1192",
+  "address": "世羅郡世羅町大字西上原123番地1",
+  "phone": "0847-22-1111",
+  "official_url": "https://www.town.sera.hiroshima.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "34545",
+  "name": "神石高原町役場",
+  "postal_code": "720-1522",
+  "address": "神石郡神石高原町小畠1701番地",
+  "phone": "0847-89-3330",
+  "official_url": "https://www.jinsekigun.jp/",
+  "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/634047.pdf (市区町一覧) , https://www.pref.hiroshima.lg.jp/site/kankeikikanlink/1172556346224.html (市町リンク集) , https://www.city.hiroshima.lg.jp/shisei/ku_yakusho/index.html (広島市区役所)",
+  "verified_at": "2026-07-07"
+ }
+]

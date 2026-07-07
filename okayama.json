@@ -1,0 +1,312 @@
+[
+ {
+  "city_code": "33100",
+  "name": "岡山市役所",
+  "postal_code": "700-8544",
+  "address": "岡山市北区大供1-1-1",
+  "phone": "086-803-1000",
+  "official_url": "http://www.city.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33101",
+  "name": "岡山市北区役所",
+  "postal_code": "700-8544",
+  "address": "岡山市北区大供1-1-1",
+  "phone": "086-803-1000",
+  "official_url": "https://www.city.okayama.jp/kitaku/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33102",
+  "name": "岡山市中区役所",
+  "postal_code": "703-8544",
+  "address": "岡山市中区浜3-7-15",
+  "phone": "086-803-1000",
+  "official_url": "https://www.city.okayama.jp/nakaku/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33103",
+  "name": "岡山市東区役所",
+  "postal_code": "704-8555",
+  "address": "岡山市東区西大寺南1-2-4",
+  "phone": "086-803-1000",
+  "official_url": "https://www.city.okayama.jp/higashiku/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33104",
+  "name": "岡山市南区役所",
+  "postal_code": "702-8544",
+  "address": "岡山市南区浦安南町495-5",
+  "phone": "086-803-1000",
+  "official_url": "https://www.city.okayama.jp/minamiku/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33202",
+  "name": "倉敷市役所",
+  "postal_code": "710-8565",
+  "address": "倉敷市西中新田640",
+  "phone": "086-426-3030",
+  "official_url": "http://www.city.kurashiki.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33203",
+  "name": "津山市役所",
+  "postal_code": "708-8501",
+  "address": "津山市山北520",
+  "phone": "0868-23-2111",
+  "official_url": "https://www.city.tsuyama.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33204",
+  "name": "玉野市役所",
+  "postal_code": "706-8510",
+  "address": "玉野市宇野1-27-1",
+  "phone": "0863-32-5588",
+  "official_url": "http://www.city.tamano.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33205",
+  "name": "笠岡市役所",
+  "postal_code": "714-8601",
+  "address": "笠岡市中央町1-1",
+  "phone": "0865-69-2121",
+  "official_url": "http://www.city.kasaoka.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33207",
+  "name": "井原市役所",
+  "postal_code": "715-8601",
+  "address": "井原市井原町311-1",
+  "phone": "0866-62-9500",
+  "official_url": "https://www.city.ibara.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33208",
+  "name": "総社市役所",
+  "postal_code": "719-1192",
+  "address": "総社市中央1-1-1",
+  "phone": "0866-92-8200",
+  "official_url": "http://www.city.soja.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33209",
+  "name": "高梁市役所",
+  "postal_code": "716-8501",
+  "address": "高梁市松原通2043",
+  "phone": "0866-21-0200",
+  "official_url": "https://www.city.takahashi.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33210",
+  "name": "新見市役所",
+  "postal_code": "718-8501",
+  "address": "新見市新見310-3",
+  "phone": "0867-72-6111",
+  "official_url": "http://www.city.niimi.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33211",
+  "name": "備前市役所",
+  "postal_code": "705-8602",
+  "address": "備前市東片上126",
+  "phone": "0869-64-3301",
+  "official_url": "http://www.city.bizen.okayama.jp/index.html",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33212",
+  "name": "瀬戸内市役所",
+  "postal_code": "701-4292",
+  "address": "瀬戸内市邑久町尾張300-1",
+  "phone": "0869-22-1111",
+  "official_url": "http://www.city.setouchi.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33213",
+  "name": "赤磐市役所",
+  "postal_code": "709-0898",
+  "address": "赤磐市下市344",
+  "phone": "086-955-1111",
+  "official_url": "http://www.city.akaiwa.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33214",
+  "name": "真庭市役所",
+  "postal_code": "719-3292",
+  "address": "真庭市久世2927-2",
+  "phone": "0867-42-1111",
+  "official_url": "https://www.city.maniwa.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33215",
+  "name": "美作市役所",
+  "postal_code": "707-8501",
+  "address": "美作市美来1番地",
+  "phone": "0868-72-1111",
+  "official_url": "http://www.city.mimasaka.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33216",
+  "name": "浅口市役所",
+  "postal_code": "719-0295",
+  "address": "浅口市鴨方町六条院中3050",
+  "phone": "0865-44-7000",
+  "official_url": "http://www.city.asakuchi.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33346",
+  "name": "和気町役場",
+  "postal_code": "709-0495",
+  "address": "和気郡和気町尺所555",
+  "phone": "0869-93-1121",
+  "official_url": "https://www.town.wake.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33423",
+  "name": "早島町役場",
+  "postal_code": "701-0303",
+  "address": "都窪郡早島町前潟360-1",
+  "phone": "086-482-0611",
+  "official_url": "http://www.town.hayashima.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33445",
+  "name": "里庄町役場",
+  "postal_code": "719-0398",
+  "address": "浅口郡里庄町大字里見1107-2",
+  "phone": "0865-64-3111",
+  "official_url": "http://www.town.satosho.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33461",
+  "name": "矢掛町役場",
+  "postal_code": "714-1297",
+  "address": "小田郡矢掛町矢掛3018",
+  "phone": "0866-82-1010",
+  "official_url": "http://www.town.yakage.okayama.jp/index.html",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33586",
+  "name": "新庄村役場",
+  "postal_code": "717-0201",
+  "address": "真庭郡新庄村2008-1",
+  "phone": "0867-56-2626",
+  "official_url": "http://www.vill.shinjo.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33606",
+  "name": "鏡野町役場",
+  "postal_code": "708-0392",
+  "address": "苫田郡鏡野町竹田660",
+  "phone": "0868-54-2111",
+  "official_url": "http://www.town.kagamino.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33622",
+  "name": "勝央町役場",
+  "postal_code": "709-4316",
+  "address": "勝田郡勝央町勝間田201",
+  "phone": "0868-38-3111",
+  "official_url": "http://www.town.shoo.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33623",
+  "name": "奈義町役場",
+  "postal_code": "708-1392",
+  "address": "勝田郡奈義町豊沢306-1",
+  "phone": "0868-36-4111",
+  "official_url": "http://www.town.nagi.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33643",
+  "name": "西粟倉村役場",
+  "postal_code": "707-0503",
+  "address": "英田郡西粟倉村大字影石33-1",
+  "phone": "0868-79-2111",
+  "official_url": "http://www.vill.nishiawakura.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33663",
+  "name": "久米南町役場",
+  "postal_code": "709-3614",
+  "address": "久米郡久米南町下弓削502-1",
+  "phone": "086-728-2111",
+  "official_url": "https://www.town.kumenan.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33666",
+  "name": "美咲町役場",
+  "postal_code": "709-3717",
+  "address": "久米郡美咲町原田2144-1",
+  "phone": "0868-66-1111",
+  "official_url": "http://www.town.misaki.okayama.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "33681",
+  "name": "吉備中央町役場",
+  "postal_code": "716-1192",
+  "address": "加賀郡吉備中央町豊野1-2",
+  "phone": "0866-54-1313",
+  "official_url": "http://www.town.kibichuo.lg.jp/",
+  "source_url": "https://www.pref.okayama.jp/page/965881.html,https://www.pref.okayama.jp/uploaded/attachment/396315.pdf,https://www.pref.okayama.jp/page/1000.html",
+  "verified_at": "2026-07-07"
+ }
+]

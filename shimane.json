@@ -1,0 +1,192 @@
+[
+ {
+  "city_code": "32201",
+  "name": "松江市役所",
+  "postal_code": "690-8540",
+  "address": "松江市末次町86",
+  "phone": "0852-55-5555",
+  "official_url": "https://www.city.matsue.lg.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32202",
+  "name": "浜田市役所",
+  "postal_code": "697-8501",
+  "address": "浜田市殿町1",
+  "phone": "0855-22-2612",
+  "official_url": "https://www.city.hamada.shimane.jp/www/index.html",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32203",
+  "name": "出雲市役所",
+  "postal_code": "693-8530",
+  "address": "出雲市今市町70",
+  "phone": "0853-21-2211",
+  "official_url": "https://www.city.izumo.shimane.jp/www/index.html",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32204",
+  "name": "益田市役所",
+  "postal_code": "698-8650",
+  "address": "益田市常盤町1-1",
+  "phone": "0856-31-0100",
+  "official_url": "https://www.city.masuda.lg.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32205",
+  "name": "大田市役所",
+  "postal_code": "694-0064",
+  "address": "大田市大田町大田ロ1111",
+  "phone": "0854-82-1600",
+  "official_url": "https://www.city.oda.lg.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32206",
+  "name": "安来市役所",
+  "postal_code": "692-8686",
+  "address": "安来市安来町878-2",
+  "phone": "0854-23-3000",
+  "official_url": "https://www.city.yasugi.shimane.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32207",
+  "name": "江津市役所",
+  "postal_code": "695-8501",
+  "address": "江津市江津町1016-4",
+  "phone": "0855-52-2501",
+  "official_url": "https://www.city.gotsu.lg.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32209",
+  "name": "雲南市役所",
+  "postal_code": "699-1392",
+  "address": "雲南市木次町里方521-1",
+  "phone": "0854-40-1000",
+  "official_url": "http://www.city.unnan.shimane.jp/unnan/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32343",
+  "name": "奥出雲町役場",
+  "postal_code": "699-1592",
+  "address": "仁多郡奥出雲町三成358-1",
+  "phone": "0854-54-1221",
+  "official_url": "https://www.town.okuizumo.shimane.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32386",
+  "name": "飯南町役場",
+  "postal_code": "690-3513",
+  "address": "飯石郡飯南町下赤名880",
+  "phone": "0854-76-2211",
+  "official_url": "https://www.iinan.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32441",
+  "name": "川本町役場",
+  "postal_code": "696-8501",
+  "address": "邑智郡川本町大字川本271-3",
+  "phone": "0855-72-0631",
+  "official_url": "https://www.town.shimane-kawamoto.lg.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32448",
+  "name": "美郷町役場",
+  "postal_code": "699-4692",
+  "address": "邑智郡美郷町粕渕168",
+  "phone": "0855-75-1211",
+  "official_url": "https://www.town.shimane-misato.lg.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32449",
+  "name": "邑南町役場",
+  "postal_code": "696-0192",
+  "address": "邑智郡邑南町矢上6000",
+  "phone": "0855-95-1111",
+  "official_url": "https://www.town.ohnan.lg.jp/www/index.html",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32501",
+  "name": "津和野町役場",
+  "postal_code": "699-5292",
+  "address": "鹿足郡津和野町枕瀬218-18",
+  "phone": "0856-74-0021",
+  "official_url": "https://www.town.tsuwano.lg.jp/www/index.html",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32505",
+  "name": "吉賀町役場",
+  "postal_code": "699-5513",
+  "address": "鹿足郡吉賀町六日市750",
+  "phone": "0856-77-1111",
+  "official_url": "https://www.town.yoshika.lg.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32525",
+  "name": "海士町役場",
+  "postal_code": "684-0403",
+  "address": "隠岐郡海士町大字海士1490",
+  "phone": "08514-2-0111",
+  "official_url": "http://www.town.ama.shimane.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32526",
+  "name": "西ノ島町役場",
+  "postal_code": "684-0303",
+  "address": "隠岐郡西ノ島町大字美田600-4",
+  "phone": "08514-6-0101",
+  "official_url": "https://www.town.nishinoshima.shimane.jp/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32527",
+  "name": "知夫村役場",
+  "postal_code": "684-0102",
+  "address": "隠岐郡知夫村1065",
+  "phone": "08514-8-2211",
+  "official_url": "http://www.vill.chibu.lg.jp/gyosei/",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "32528",
+  "name": "隠岐の島町役場",
+  "postal_code": "685-8585",
+  "address": "隠岐郡隠岐の島町下西78-2",
+  "phone": "08512-2-2111",
+  "official_url": "https://www.town.okinoshima.shimane.jp/www/index.html",
+  "source_url": "https://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/yakubajushoR3.7.26.pdf,https://www.pref.shimane.lg.jp/link01.html",
+  "verified_at": "2026-07-07"
+ }
+]

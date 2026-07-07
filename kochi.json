@@ -1,0 +1,342 @@
+[
+ {
+  "city_code": "39201",
+  "name": "高知市役所",
+  "postal_code": "780-8571",
+  "address": "高知市本町5-1-45",
+  "phone": "088-822-8111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39202",
+  "name": "室戸市役所",
+  "postal_code": "781-7185",
+  "address": "室戸市浮津25-1",
+  "phone": "0887-22-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39203",
+  "name": "安芸市役所",
+  "postal_code": "784-8501",
+  "address": "安芸市土居82-1",
+  "phone": "0887-34-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39204",
+  "name": "南国市役所",
+  "postal_code": "783-8501",
+  "address": "南国市大埇甲2301",
+  "phone": "088-863-2111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39205",
+  "name": "土佐市役所",
+  "postal_code": "781-1192",
+  "address": "土佐市高岡町甲2017-1",
+  "phone": "088-852-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39206",
+  "name": "須崎市役所",
+  "postal_code": "785-8601",
+  "address": "須崎市山手町1-7",
+  "phone": "0889-42-2311",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39208",
+  "name": "宿毛市役所",
+  "postal_code": "788-8686",
+  "address": "宿毛市希望ヶ丘1",
+  "phone": "0880-62-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39209",
+  "name": "土佐清水市役所",
+  "postal_code": "787-0392",
+  "address": "土佐清水市天神町11-2",
+  "phone": "0880-82-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39210",
+  "name": "四万十市役所",
+  "postal_code": "787-8501",
+  "address": "四万十市中村大橋通4-10",
+  "phone": "0880-34-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39211",
+  "name": "香南市役所",
+  "postal_code": "781-5292",
+  "address": "香南市野市町西野2706",
+  "phone": "0887-56-0511",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39212",
+  "name": "香美市役所",
+  "postal_code": "782-8501",
+  "address": "香美市土佐山田町宝町1-2-1",
+  "phone": "0887-53-3111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39301",
+  "name": "東洋町役場",
+  "postal_code": "781-7414",
+  "address": "安芸郡東洋町生見758-3",
+  "phone": "0887-29-3111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39302",
+  "name": "奈半利町役場",
+  "postal_code": "781-6402",
+  "address": "安芸郡奈半利町乙1659-1",
+  "phone": "0887-38-4011",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39303",
+  "name": "田野町役場",
+  "postal_code": "781-6410",
+  "address": "安芸郡田野町1828-5",
+  "phone": "0887-38-2811",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39304",
+  "name": "安田町役場",
+  "postal_code": "781-6421",
+  "address": "安芸郡安田町安田1850",
+  "phone": "0887-38-6711",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39305",
+  "name": "北川村役場",
+  "postal_code": "781-6441",
+  "address": "安芸郡北川村野友甲1530",
+  "phone": "0887-32-1212",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39306",
+  "name": "馬路村役場",
+  "postal_code": "781-6201",
+  "address": "安芸郡馬路村馬路443",
+  "phone": "0887-44-2111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39307",
+  "name": "芸西村役場",
+  "postal_code": "781-5792",
+  "address": "安芸郡芸西村和食甲1262",
+  "phone": "0887-33-2111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39341",
+  "name": "本山町役場",
+  "postal_code": "781-3692",
+  "address": "長岡郡本山町本山636",
+  "phone": "0887-76-2223",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39344",
+  "name": "大豊町役場",
+  "postal_code": "789-0392",
+  "address": "長岡郡大豊町津家1626",
+  "phone": "0887-72-0450",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39363",
+  "name": "土佐町役場",
+  "postal_code": "781-3492",
+  "address": "土佐郡土佐町土居194",
+  "phone": "0887-82-0480",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39364",
+  "name": "大川村役場",
+  "postal_code": "781-3703",
+  "address": "土佐郡大川村小松27-1",
+  "phone": "0887-84-2211",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39386",
+  "name": "いの町役場",
+  "postal_code": "781-2192",
+  "address": "吾川郡いの町1700-1",
+  "phone": "088-893-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39387",
+  "name": "仁淀川町役場",
+  "postal_code": "781-1592",
+  "address": "吾川郡仁淀川町大崎200",
+  "phone": "0889-35-0111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39401",
+  "name": "中土佐町役場",
+  "postal_code": "789-1301",
+  "address": "高岡郡中土佐町久礼6663-1",
+  "phone": "0889-52-2211",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39402",
+  "name": "佐川町役場",
+  "postal_code": "789-1292",
+  "address": "高岡郡佐川町甲1650-2",
+  "phone": "0889-22-7700",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39403",
+  "name": "越知町役場",
+  "postal_code": "781-1301",
+  "address": "高岡郡越知町越知甲1970",
+  "phone": "0889-26-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39405",
+  "name": "檮原町役場",
+  "postal_code": "785-0695",
+  "address": "高岡郡檮原町梼原1444-1",
+  "phone": "0889-65-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39410",
+  "name": "日高村役場",
+  "postal_code": "781-2194",
+  "address": "高岡郡日高村本郷61-1",
+  "phone": "0889-24-5111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39411",
+  "name": "津野町役場",
+  "postal_code": "785-0201",
+  "address": "高岡郡津野町永野225-1",
+  "phone": "0889-55-2311",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39412",
+  "name": "四万十町役場",
+  "postal_code": "786-8501",
+  "address": "高岡郡四万十町琴平町16-17",
+  "phone": "0880-22-3111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39424",
+  "name": "大月町役場",
+  "postal_code": "788-0302",
+  "address": "幡多郡大月町弘見2230",
+  "phone": "0880-73-1111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39427",
+  "name": "三原村役場",
+  "postal_code": "787-0892",
+  "address": "幡多郡三原村来栖野346",
+  "phone": "0880-46-2111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "39428",
+  "name": "黒潮町役場",
+  "postal_code": "789-1992",
+  "address": "幡多郡黒潮町入野5893",
+  "phone": "0880-43-2111",
+  "official_url": null,
+  "source_url": "https://www.pref.kochi.lg.jp/doc/shozaichi-2/ (PDF: 高知県内市町村所在地等一覧 令和7年5月7日現在)",
+  "verified_at": "2026-07-07"
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "city_code": "36201",
+  "name": "徳島市役所",
+  "postal_code": "770-8571",
+  "address": "徳島市幸町2-5",
+  "phone": "088-621-5111",
+  "official_url": "https://www.city.tokushima.tokushima.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36202",
+  "name": "鳴門市役所",
+  "postal_code": "772-8501",
+  "address": "鳴門市撫養町南浜字東浜170",
+  "phone": "088-684-1111",
+  "official_url": "https://www.city.naruto.tokushima.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36203",
+  "name": "小松島市役所",
+  "postal_code": "773-8501",
+  "address": "小松島市横須町1-1",
+  "phone": "0885-32-2111",
+  "official_url": "https://www.city.komatsushima.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36204",
+  "name": "阿南市役所",
+  "postal_code": "774-8501",
+  "address": "阿南市富岡町トノ町12-3",
+  "phone": "0884-22-1111",
+  "official_url": "https://www.city.anan.tokushima.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36205",
+  "name": "吉野川市役所",
+  "postal_code": "776-8611",
+  "address": "吉野川市鴨島町鴨島115-1",
+  "phone": "0883-22-2222",
+  "official_url": "https://www.city.yoshinogawa.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36206",
+  "name": "阿波市役所",
+  "postal_code": "771-1695",
+  "address": "阿波市市場町切幡字古田201番地1",
+  "phone": "0883-36-8700",
+  "official_url": "https://www.city.awa.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36207",
+  "name": "美馬市役所",
+  "postal_code": "777-8577",
+  "address": "美馬市穴吹町穴吹字九反地5",
+  "phone": "0883-52-1212",
+  "official_url": "https://www.city.mima.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36208",
+  "name": "三好市役所",
+  "postal_code": "778-8501",
+  "address": "三好市池田町サラダ1610番地1",
+  "phone": "0883-72-7600",
+  "official_url": "https://www.miyoshi.i-tokushima.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36301",
+  "name": "勝浦町役場",
+  "postal_code": "771-4395",
+  "address": "勝浦郡勝浦町大字久国字久保田3",
+  "phone": "0885-42-2511",
+  "official_url": "http://www.town.katsuura.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36302",
+  "name": "上勝町役場",
+  "postal_code": "771-4501",
+  "address": "勝浦郡上勝町大字福原字下横峯3-1",
+  "phone": "0885-46-0111",
+  "official_url": "http://www.kamikatsu.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36321",
+  "name": "佐那河内村役場",
+  "postal_code": "771-4195",
+  "address": "名東郡佐那河内村下字西ノハナ31番地",
+  "phone": "088-679-2111",
+  "official_url": "https://www.vill.sanagochi.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36341",
+  "name": "石井町役場",
+  "postal_code": "779-3295",
+  "address": "名西郡石井町高川原字高川原121-1",
+  "phone": "088-674-1111",
+  "official_url": "https://www.town.ishii.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36342",
+  "name": "神山町役場",
+  "postal_code": "771-3395",
+  "address": "名西郡神山町神領字本野間100",
+  "phone": "088-676-1111",
+  "official_url": "https://www.town.kamiyama.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36368",
+  "name": "那賀町役場",
+  "postal_code": "771-5295",
+  "address": "那賀郡那賀町和食郷字南川104-1",
+  "phone": "0884-62-1121",
+  "official_url": "https://www.town.tokushima-naka.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36383",
+  "name": "牟岐町役場",
+  "postal_code": "775-8570",
+  "address": "海部郡牟岐町大字中村字本村7-4",
+  "phone": "0884-72-1111",
+  "official_url": "https://www.town.tokushima-mugi.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36387",
+  "name": "美波町役場",
+  "postal_code": "779-2395",
+  "address": "海部郡美波町奥河内字本村18-1",
+  "phone": "0884-77-1111",
+  "official_url": "https://www.town.minami.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36388",
+  "name": "海陽町役場",
+  "postal_code": "775-0295",
+  "address": "海部郡海陽町大里字上中須128",
+  "phone": "0884-73-1234",
+  "official_url": "https://www.town.kaiyo.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36401",
+  "name": "松茂町役場",
+  "postal_code": "771-0295",
+  "address": "板野郡松茂町広島字東裏30",
+  "phone": "088-699-2111",
+  "official_url": "https://www.town.matsushige.tokushima.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36402",
+  "name": "北島町役場",
+  "postal_code": "771-0285",
+  "address": "板野郡北島町中村字上地23-1",
+  "phone": "088-698-9801",
+  "official_url": "https://www.town.kitajima.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36403",
+  "name": "藍住町役場",
+  "postal_code": "771-1292",
+  "address": "板野郡藍住町奥野字矢上前52-1",
+  "phone": "088-637-3111",
+  "official_url": "https://www.town.aizumi.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36404",
+  "name": "板野町役場",
+  "postal_code": "779-0192",
+  "address": "板野郡板野町吹田字町南22-2",
+  "phone": "088-672-5980",
+  "official_url": "http://www.town.itano.tokushima.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36405",
+  "name": "上板町役場",
+  "postal_code": "771-1392",
+  "address": "板野郡上板町七條字経塚42",
+  "phone": "088-694-3111",
+  "official_url": "https://www.townkamiita.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36468",
+  "name": "つるぎ町役場",
+  "postal_code": "779-4195",
+  "address": "美馬郡つるぎ町貞光字東浦1-3",
+  "phone": "0883-62-3111",
+  "official_url": "https://www.town.tokushima-tsurugi.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "36489",
+  "name": "東みよし町役場",
+  "postal_code": "779-4795",
+  "address": "三好郡東みよし町加茂3360",
+  "phone": "0883-82-2100",
+  "official_url": "https://www.town.higashimiyoshi.lg.jp/",
+  "source_url": "https://www.pref.tokushima.lg.jp/kenseijoho/kanrennochiiki/shichouson/",
+  "verified_at": "2026-07-07"
+ }
+]

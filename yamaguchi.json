@@ -1,0 +1,192 @@
+[
+ {
+  "city_code": "35201",
+  "name": "下関市役所",
+  "postal_code": "750-8521",
+  "address": "下関市南部町1番1号",
+  "phone": "083-231-1111",
+  "official_url": "http://www.city.shimonoseki.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35202",
+  "name": "宇部市役所",
+  "postal_code": "755-8601",
+  "address": "宇部市常盤町一丁目7番1号",
+  "phone": "0836-31-4111",
+  "official_url": "http://www.city.ube.yamaguchi.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35203",
+  "name": "山口市役所",
+  "postal_code": "753-8650",
+  "address": "山口市亀山町2番1号",
+  "phone": "083-922-4111",
+  "official_url": "http://www.city.yamaguchi.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35204",
+  "name": "萩市役所",
+  "postal_code": "758-8555",
+  "address": "萩市大字江向510番地",
+  "phone": "0838-25-3131",
+  "official_url": "http://www.city.hagi.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35206",
+  "name": "防府市役所",
+  "postal_code": "747-8501",
+  "address": "防府市寿町7番1号",
+  "phone": "0835-23-2111",
+  "official_url": "http://www.city.hofu.yamaguchi.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35207",
+  "name": "下松市役所",
+  "postal_code": "744-8585",
+  "address": "下松市大手町三丁目3番3号",
+  "phone": "0833-45-1700",
+  "official_url": "http://www.city.kudamatsu.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35208",
+  "name": "岩国市役所",
+  "postal_code": "740-8585",
+  "address": "岩国市今津町一丁目14番51号",
+  "phone": "0827-29-5000",
+  "official_url": "http://www.city.iwakuni.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35210",
+  "name": "光市役所",
+  "postal_code": "743-8501",
+  "address": "光市中央六丁目1番1号",
+  "phone": "0833-72-1400",
+  "official_url": "https://www.city.hikari.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35211",
+  "name": "長門市役所",
+  "postal_code": "759-4192",
+  "address": "長門市東深川1339番地2",
+  "phone": "0837-22-2111",
+  "official_url": "http://www.city.nagato.yamaguchi.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35212",
+  "name": "柳井市役所",
+  "postal_code": "742-8714",
+  "address": "柳井市南町一丁目10番2号",
+  "phone": "0820-22-2111",
+  "official_url": "http://www.city-yanai.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35213",
+  "name": "美祢市役所",
+  "postal_code": "759-2292",
+  "address": "美祢市大嶺町東分326番地1",
+  "phone": "0837-52-1110",
+  "official_url": "http://www2.city.mine.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35215",
+  "name": "周南市役所",
+  "postal_code": "745-8655",
+  "address": "周南市岐山通一丁目1番地",
+  "phone": "0834-22-8211",
+  "official_url": "http://www.city.shunan.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35216",
+  "name": "山陽小野田市役所",
+  "postal_code": "756-8601",
+  "address": "山陽小野田市日の出一丁目1番1号",
+  "phone": "0836-82-1111",
+  "official_url": "http://www.city.sanyo-onoda.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35305",
+  "name": "周防大島町役場",
+  "postal_code": "742-2192",
+  "address": "大島郡周防大島町小松126番地2",
+  "phone": "0820-74-1000",
+  "official_url": "http://www.town.suo-oshima.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35321",
+  "name": "和木町役場",
+  "postal_code": "740-8501",
+  "address": "玖珂郡和木町和木一丁目1番1号",
+  "phone": "0827-52-2135",
+  "official_url": "http://www.town.waki.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35341",
+  "name": "上関町役場",
+  "postal_code": "742-1402",
+  "address": "熊毛郡上関町大字長島448番地",
+  "phone": "0820-62-0311",
+  "official_url": "http://www.town.kaminoseki.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35343",
+  "name": "田布施町役場",
+  "postal_code": "742-1592",
+  "address": "熊毛郡田布施町大字下田布施3440番地1",
+  "phone": "0820-52-2111",
+  "official_url": "http://www.town.tabuse.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35344",
+  "name": "平生町役場",
+  "postal_code": "742-1195",
+  "address": "熊毛郡平生町大字平生町210番地1",
+  "phone": "0820-56-7111",
+  "official_url": "http://www.town.hirao.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "35502",
+  "name": "阿武町役場",
+  "postal_code": "759-3622",
+  "address": "阿武郡阿武町大字奈古2636番地",
+  "phone": "08388-2-3110",
+  "official_url": "http://www.town.abu.lg.jp/",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/soshiki/31/14948.html , https://www.pref.yamaguchi.lg.jp/soshiki/21/26969.html",
+  "verified_at": "2026-07-07"
+ }
+]
