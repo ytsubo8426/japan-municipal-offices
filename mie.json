@@ -1,0 +1,292 @@
+[
+ {
+  "city_code": "24201",
+  "name": "津市役所",
+  "postal_code": "514-8611",
+  "address": "津市西丸之内23番1号",
+  "phone": "059-229-3275",
+  "official_url": "http://www.info.city.tsu.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24202",
+  "name": "四日市市役所",
+  "postal_code": "510-8601",
+  "address": "四日市市諏訪町1番5号",
+  "phone": "059-354-8104",
+  "official_url": "https://www.city.yokkaichi.lg.jp/www/index.html",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24203",
+  "name": "伊勢市役所",
+  "postal_code": "516-8601",
+  "address": "伊勢市岩渕1丁目7番29号",
+  "phone": "0596-23-1111",
+  "official_url": "http://www.city.ise.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24204",
+  "name": "松阪市役所",
+  "postal_code": "515-8515",
+  "address": "松阪市殿町1340番地1",
+  "phone": "0598-53-4321",
+  "official_url": "http://www.city.matsusaka.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24205",
+  "name": "桑名市役所",
+  "postal_code": "511-8601",
+  "address": "桑名市中央町二丁目37番地",
+  "phone": "0594-24-1131",
+  "official_url": "http://www.city.kuwana.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24207",
+  "name": "鈴鹿市役所",
+  "postal_code": "513-8701",
+  "address": "鈴鹿市神戸一丁目18番18号",
+  "phone": "059-382-1100",
+  "official_url": "http://www.city.suzuka.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24208",
+  "name": "名張市役所",
+  "postal_code": "518-0492",
+  "address": "名張市鴻之台1番町1番地",
+  "phone": "0595-63-7310",
+  "official_url": "http://www.city.nabari.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24209",
+  "name": "尾鷲市役所",
+  "postal_code": "519-3696",
+  "address": "尾鷲市中央町10番43号",
+  "phone": "0597-23-8113",
+  "official_url": "http://www.city.owase.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24210",
+  "name": "亀山市役所",
+  "postal_code": "519-0195",
+  "address": "亀山市本丸町577番地",
+  "phone": "0595-82-1111",
+  "official_url": "http://www.city.kameyama.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24211",
+  "name": "鳥羽市役所",
+  "postal_code": "517-0011",
+  "address": "鳥羽市鳥羽三丁目1番1号",
+  "phone": "0599-25-1111",
+  "official_url": "http://www.city.toba.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24212",
+  "name": "熊野市役所",
+  "postal_code": "519-4392",
+  "address": "熊野市井戸町796番地",
+  "phone": "0597-89-4111",
+  "official_url": "http://www.city.kumano.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24214",
+  "name": "いなべ市役所",
+  "postal_code": "511-0498",
+  "address": "いなべ市北勢町阿下喜31番地",
+  "phone": "0594-86-7745",
+  "official_url": "http://www.city.inabe.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24215",
+  "name": "志摩市役所",
+  "postal_code": "517-0592",
+  "address": "志摩市阿児町鵜方3098番地22",
+  "phone": "0599-44-0001",
+  "official_url": "http://www.city.shima.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24216",
+  "name": "伊賀市役所",
+  "postal_code": "518-8501",
+  "address": "伊賀市四十九町3184番地",
+  "phone": "0595-22-9611",
+  "official_url": "http://www.city.iga.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24303",
+  "name": "木曽岬町役場",
+  "postal_code": "498-8503",
+  "address": "桑名郡木曽岬町大字西対海地251番地",
+  "phone": "0567-68-6100",
+  "official_url": "http://www.town.kisosaki.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24324",
+  "name": "東員町役場",
+  "postal_code": "511-0295",
+  "address": "員弁郡東員町大字山田1600番地",
+  "phone": "0594-86-2800",
+  "official_url": "http://www.town.toin.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24341",
+  "name": "菰野町役場",
+  "postal_code": "510-1292",
+  "address": "三重郡菰野町大字潤田1250番地",
+  "phone": "059-391-1111",
+  "official_url": "http://www2.town.komono.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24343",
+  "name": "朝日町役場",
+  "postal_code": "510-8522",
+  "address": "三重郡朝日町大字小向893番地",
+  "phone": "059-377-5651",
+  "official_url": "http://www2.town.asahi.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24344",
+  "name": "川越町役場",
+  "postal_code": "510-8588",
+  "address": "三重郡川越町大字豊田一色280番地",
+  "phone": "059-366-7113",
+  "official_url": "http://www.town.kawagoe.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24441",
+  "name": "多気町役場",
+  "postal_code": "519-2181",
+  "address": "多気郡多気町大字相可1600番地",
+  "phone": "0598-38-1111",
+  "official_url": "http://www.town.taki.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24442",
+  "name": "明和町役場",
+  "postal_code": "515-0332",
+  "address": "多気郡明和町大字馬之上945番地",
+  "phone": "0596-52-7111",
+  "official_url": "http://www.town.meiwa.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24443",
+  "name": "大台町役場",
+  "postal_code": "519-2404",
+  "address": "多気郡大台町佐原750番地",
+  "phone": "0598-82-3781",
+  "official_url": "http://www.odaitown.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24461",
+  "name": "玉城町役場",
+  "postal_code": "519-0495",
+  "address": "度会郡玉城町田丸114番地2",
+  "phone": "0596-58-8200",
+  "official_url": "https://kizuna.town.tamaki.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24470",
+  "name": "度会町役場",
+  "postal_code": "516-2195",
+  "address": "度会郡度会町棚橋1215番地1",
+  "phone": "0596-62-1111",
+  "official_url": "http://www.town.watarai.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24471",
+  "name": "大紀町役場",
+  "postal_code": "519-2703",
+  "address": "度会郡大紀町滝原1610番地1",
+  "phone": "0598-86-2212",
+  "official_url": "http://www.town.taiki.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24472",
+  "name": "南伊勢町役場",
+  "postal_code": "516-0194",
+  "address": "度会郡南伊勢町五ヶ所浦3057番地",
+  "phone": "0599-66-1111",
+  "official_url": "http://www.town.minamiise.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24543",
+  "name": "紀北町役場",
+  "postal_code": "519-3292",
+  "address": "北牟婁郡紀北町東長島769番地1",
+  "phone": "0597-46-3111",
+  "official_url": "http://www.town.mie-kihoku.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24561",
+  "name": "御浜町役場",
+  "postal_code": "519-5292",
+  "address": "南牟婁郡御浜町大字阿田和6120番地1",
+  "phone": "05979-3-0505",
+  "official_url": "http://www.town.mihama.mie.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "24562",
+  "name": "紀宝町役場",
+  "postal_code": "519-5701",
+  "address": "南牟婁郡紀宝町鵜殿324番地",
+  "phone": "0735-33-0333",
+  "official_url": "https://www.town.kiho.lg.jp/",
+  "source_url": "https://www.pref.mie.lg.jp/SHICHOS/HP/23057019610.htm,https://www.pref.mie.lg.jp/link/link1.htm",
+  "verified_at": "2026-07-07"
+ }
+]

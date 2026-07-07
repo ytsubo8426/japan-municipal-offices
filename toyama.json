@@ -1,0 +1,152 @@
+[
+ {
+  "city_code": "16201",
+  "name": "富山市役所",
+  "postal_code": "930-8510",
+  "address": "富山市新桜町7番38号",
+  "phone": "076-431-6111",
+  "official_url": "https://www.city.toyama.toyama.jp/",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16202",
+  "name": "高岡市役所",
+  "postal_code": "933-8601",
+  "address": "高岡市広小路7番50号",
+  "phone": "0766-20-1111",
+  "official_url": "https://www.city.takaoka.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16204",
+  "name": "魚津市役所",
+  "postal_code": "937-8555",
+  "address": "魚津市釈迦堂一丁目10番1号",
+  "phone": "0765-23-1010",
+  "official_url": "https://www.city.uozu.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16205",
+  "name": "氷見市役所",
+  "postal_code": "935-8686",
+  "address": "氷見市鞍川1060番地",
+  "phone": "0766-74-8100",
+  "official_url": "https://www.city.himi.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16206",
+  "name": "滑川市役所",
+  "postal_code": "936-8601",
+  "address": "滑川市寺家町104番地",
+  "phone": "076-475-2111",
+  "official_url": "https://www.city.namerikawa.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16207",
+  "name": "黒部市役所",
+  "postal_code": "938-8555",
+  "address": "黒部市三日市1301番地",
+  "phone": "0765-54-2111",
+  "official_url": "https://www.city.kurobe.toyama.jp/",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16208",
+  "name": "砺波市役所",
+  "postal_code": "939-1398",
+  "address": "砺波市栄町7番3号",
+  "phone": "0763-33-1111",
+  "official_url": "https://www.city.tonami.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16209",
+  "name": "小矢部市役所",
+  "postal_code": "932-8611",
+  "address": "小矢部市本町1番1号",
+  "phone": "0766-67-1760",
+  "official_url": "https://www.city.oyabe.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16210",
+  "name": "南砺市役所",
+  "postal_code": "939-1692",
+  "address": "南砺市荒木1550番地",
+  "phone": "0763-23-2003",
+  "official_url": "https://www.city.nanto.toyama.jp/",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16211",
+  "name": "射水市役所",
+  "postal_code": "939-0294",
+  "address": "射水市新開発410番地1",
+  "phone": "0766-51-6600",
+  "official_url": "https://www.city.imizu.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16321",
+  "name": "舟橋村役場",
+  "postal_code": "930-0295",
+  "address": "中新川郡舟橋村仏生寺55番地",
+  "phone": "076-464-1121",
+  "official_url": "https://www.vill.funahashi.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16322",
+  "name": "上市町役場",
+  "postal_code": "930-0393",
+  "address": "中新川郡上市町法音寺1番地",
+  "phone": "076-472-1111",
+  "official_url": "https://www.town.kamiichi.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16323",
+  "name": "立山町役場",
+  "postal_code": "930-0292",
+  "address": "中新川郡立山町前沢2440番地",
+  "phone": "076-463-1121",
+  "official_url": "https://www.town.tateyama.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16342",
+  "name": "入善町役場",
+  "postal_code": "939-0693",
+  "address": "下新川郡入善町入膳423番地",
+  "phone": "0765-72-1100",
+  "official_url": "https://www.town.nyuzen.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "16343",
+  "name": "朝日町役場",
+  "postal_code": "939-0793",
+  "address": "下新川郡朝日町道下1133番地",
+  "phone": "0765-83-1100",
+  "official_url": "https://www.town.asahi.toyama.jp",
+  "source_url": "https://www.pref.toyama.jp/1021/kensei/kenseiunei/kensei/gaiyou/profile/city.html , https://www.pref.toyama.jp/documents/29650/youranr7.pdf",
+  "verified_at": "2026-07-07"
+ }
+]

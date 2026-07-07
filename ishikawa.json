@@ -1,0 +1,192 @@
+[
+ {
+  "city_code": "17201",
+  "name": "金沢市役所",
+  "postal_code": "920-8577",
+  "address": "金沢市広坂1-1-1",
+  "phone": "076-220-2111",
+  "official_url": "https://www4.city.kanazawa.lg.jp/index.html",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17202",
+  "name": "七尾市役所",
+  "postal_code": "926-8611",
+  "address": "七尾市袖ヶ江町イ部25",
+  "phone": "0767-53-1111",
+  "official_url": "http://www.city.nanao.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17203",
+  "name": "小松市役所",
+  "postal_code": "923-8650",
+  "address": "小松市小馬出町91",
+  "phone": "0761-22-4111",
+  "official_url": "http://www.city.komatsu.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17204",
+  "name": "輪島市役所",
+  "postal_code": "928-8525",
+  "address": "輪島市二ツ屋2字29",
+  "phone": "0768-22-2211",
+  "official_url": "http://www.city.wajima.ishikawa.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17205",
+  "name": "珠洲市役所",
+  "postal_code": "927-1295",
+  "address": "珠洲市上戸町北方1字6-2",
+  "phone": "0768-82-2222",
+  "official_url": "https://www.city.suzu.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17206",
+  "name": "加賀市役所",
+  "postal_code": "922-8622",
+  "address": "加賀市大聖寺南町ニ41",
+  "phone": "0761-72-1111",
+  "official_url": "http://www.city.kaga.ishikawa.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17207",
+  "name": "羽咋市役所",
+  "postal_code": "925-8501",
+  "address": "羽咋市旭町ア200",
+  "phone": "0767-22-1111",
+  "official_url": "https://www.city.hakui.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17209",
+  "name": "かほく市役所",
+  "postal_code": "929-1195",
+  "address": "かほく市宇野気ニ81",
+  "phone": "076-283-1111",
+  "official_url": "http://www.city.kahoku.ishikawa.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17210",
+  "name": "白山市役所",
+  "postal_code": "924-8688",
+  "address": "白山市倉光2-1",
+  "phone": "076-276-1111",
+  "official_url": "https://www.city.hakusan.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17211",
+  "name": "能美市役所",
+  "postal_code": "923-1297",
+  "address": "能美市来丸町1110番地",
+  "phone": "0761-58-1111",
+  "official_url": "http://www.city.nomi.ishikawa.jp/index.html",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17212",
+  "name": "野々市市役所",
+  "postal_code": "921-8510",
+  "address": "野々市市三納1-1",
+  "phone": "076-227-6000",
+  "official_url": "http://www.city.nonoichi.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17324",
+  "name": "川北町役場",
+  "postal_code": "923-1295",
+  "address": "能美郡川北町壱ツ屋174",
+  "phone": "076-277-1111",
+  "official_url": "http://www.town.kawakita.ishikawa.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17361",
+  "name": "津幡町役場",
+  "postal_code": "929-0393",
+  "address": "河北郡津幡町加賀爪ニ3",
+  "phone": "076-288-2121",
+  "official_url": "http://www.town.tsubata.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17365",
+  "name": "内灘町役場",
+  "postal_code": "920-0292",
+  "address": "河北郡内灘町大学1-2-1",
+  "phone": "076-286-1111",
+  "official_url": "http://www.town.uchinada.lg.jp/webapps/www/index.jsp",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17384",
+  "name": "志賀町役場",
+  "postal_code": "925-0198",
+  "address": "羽咋郡志賀町末吉千古1-1",
+  "phone": "0767-32-1111",
+  "official_url": "http://www.town.shika.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17386",
+  "name": "宝達志水町役場",
+  "postal_code": "929-1492",
+  "address": "羽咋郡宝達志水町子浦そ18-1",
+  "phone": "0767-29-3111",
+  "official_url": "https://www.hodatsushimizu.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17407",
+  "name": "中能登町役場",
+  "postal_code": "929-1792",
+  "address": "鹿島郡中能登町末坂9部46",
+  "phone": "0767-74-1234",
+  "official_url": "https://www.town.nakanoto.ishikawa.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17461",
+  "name": "穴水町役場",
+  "postal_code": "927-8601",
+  "address": "鳳珠郡穴水町川島ラ174",
+  "phone": "0768-52-0300",
+  "official_url": "https://www.town.anamizu.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "17463",
+  "name": "能登町役場",
+  "postal_code": "927-0492",
+  "address": "鳳珠郡能登町字宇出津ト字50番地1",
+  "phone": "0768-62-1000",
+  "official_url": "http://www.town.noto.lg.jp/",
+  "source_url": "https://www.pref.ishikawa.lg.jp/sichousien/kennaiichiran2.html",
+  "verified_at": "2026-07-07"
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "city_code": "21201",
+  "name": "岐阜市役所",
+  "postal_code": "500-8701",
+  "address": "岐阜市司町40-1",
+  "phone": "058-265-4141",
+  "official_url": "http://www.city.gifu.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21202",
+  "name": "大垣市役所",
+  "postal_code": "503-8601",
+  "address": "大垣市丸の内2-29",
+  "phone": "0584-81-4111",
+  "official_url": "http://www.city.ogaki.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21203",
+  "name": "高山市役所",
+  "postal_code": "506-8555",
+  "address": "高山市花岡町2-18",
+  "phone": "0577-32-3333",
+  "official_url": "http://www.city.takayama.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21204",
+  "name": "多治見市役所",
+  "postal_code": "507-8703",
+  "address": "多治見市日ノ出町2-15",
+  "phone": "0572-22-1111",
+  "official_url": "http://www.city.tajimi.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21205",
+  "name": "関市役所",
+  "postal_code": "501-3894",
+  "address": "関市若草通3-1",
+  "phone": "0575-22-3131",
+  "official_url": "http://www.city.seki.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21206",
+  "name": "中津川市役所",
+  "postal_code": "508-8501",
+  "address": "中津川市かやの木町2-1",
+  "phone": "0573-66-1111",
+  "official_url": "http://www.city.nakatsugawa.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21207",
+  "name": "美濃市役所",
+  "postal_code": "501-3792",
+  "address": "美濃市1350",
+  "phone": "0575-33-1122",
+  "official_url": "http://www.city.mino.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21208",
+  "name": "瑞浪市役所",
+  "postal_code": "509-6195",
+  "address": "瑞浪市上平町1-1",
+  "phone": "0572-68-2111",
+  "official_url": "http://www.city.mizunami.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21209",
+  "name": "羽島市役所",
+  "postal_code": "501-6292",
+  "address": "羽島市竹鼻町55",
+  "phone": "058-392-1111",
+  "official_url": "http://www.city.hashima.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21210",
+  "name": "恵那市役所",
+  "postal_code": "509-7292",
+  "address": "恵那市長島町正家1-1-1",
+  "phone": "0573-26-2111",
+  "official_url": "http://www.city.ena.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21211",
+  "name": "美濃加茂市役所",
+  "postal_code": "505-8606",
+  "address": "美濃加茂市太田町3431-1",
+  "phone": "0574-25-2111",
+  "official_url": "https://www.city.minokamo.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21212",
+  "name": "土岐市役所",
+  "postal_code": "509-5192",
+  "address": "土岐市土岐津町土岐口2101",
+  "phone": "0572-54-1111",
+  "official_url": "http://www.city.toki.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21213",
+  "name": "各務原市役所",
+  "postal_code": "504-8555",
+  "address": "各務原市那加桜町1-69",
+  "phone": "058-383-1111",
+  "official_url": "http://www.city.kakamigahara.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21214",
+  "name": "可児市役所",
+  "postal_code": "509-0292",
+  "address": "可児市広見1-1",
+  "phone": "0574-62-1111",
+  "official_url": "http://www.city.kani.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21215",
+  "name": "山県市役所",
+  "postal_code": "501-2192",
+  "address": "山県市高木1000-1",
+  "phone": "0581-22-2111",
+  "official_url": "http://www.city.yamagata.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21216",
+  "name": "瑞穂市役所",
+  "postal_code": "501-0293",
+  "address": "瑞穂市別府1288",
+  "phone": "058-327-4111",
+  "official_url": "http://www.city.mizuho.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21217",
+  "name": "飛騨市役所",
+  "postal_code": "509-4292",
+  "address": "飛騨市古川町本町2-22",
+  "phone": "0577-73-2111",
+  "official_url": "http://www.city.hida.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21218",
+  "name": "本巣市役所",
+  "postal_code": "501-0491",
+  "address": "本巣市早野255",
+  "phone": "058-323-1155",
+  "official_url": "http://www.city.motosu.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21219",
+  "name": "郡上市役所",
+  "postal_code": "501-4297",
+  "address": "郡上市八幡町島谷228",
+  "phone": "0575-67-1121",
+  "official_url": "http://www.city.gujo.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21220",
+  "name": "下呂市役所",
+  "postal_code": "509-2295",
+  "address": "下呂市森960",
+  "phone": "0576-24-2222",
+  "official_url": "http://www.city.gero.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21221",
+  "name": "海津市役所",
+  "postal_code": "503-0695",
+  "address": "海津市海津町高須515",
+  "phone": "0584-53-1111",
+  "official_url": "https://www.city.kaizu.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21302",
+  "name": "岐南町役場",
+  "postal_code": "501-6197",
+  "address": "羽島郡岐南町八剣7-107",
+  "phone": "058-247-1331",
+  "official_url": "https://www.town.ginan.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21303",
+  "name": "笠松町役場",
+  "postal_code": "501-6181",
+  "address": "羽島郡笠松町司町1",
+  "phone": "058-388-1111",
+  "official_url": "http://www.town.kasamatsu.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21341",
+  "name": "養老町役場",
+  "postal_code": "503-1392",
+  "address": "養老郡養老町高田798",
+  "phone": "0584-32-1100",
+  "official_url": "http://www.town.yoro.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21361",
+  "name": "垂井町役場",
+  "postal_code": "503-2193",
+  "address": "不破郡垂井町宮代2957-11",
+  "phone": "0584-22-1151",
+  "official_url": "http://www.town.tarui.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21362",
+  "name": "関ケ原町役場",
+  "postal_code": "503-1592",
+  "address": "不破郡関ケ原町大字関ケ原894-58",
+  "phone": "0584-43-1111",
+  "official_url": "http://www.town.sekigahara.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21381",
+  "name": "神戸町役場",
+  "postal_code": "503-2392",
+  "address": "安八郡神戸町大字神戸1111",
+  "phone": "0584-27-3111",
+  "official_url": "http://www.town.godo.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21382",
+  "name": "輪之内町役場",
+  "postal_code": "503-0292",
+  "address": "安八郡輪之内町四郷2530-1",
+  "phone": "0584-69-3111",
+  "official_url": "http://town.wanouchi.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21383",
+  "name": "安八町役場",
+  "postal_code": "503-0198",
+  "address": "安八郡安八町氷取161",
+  "phone": "0584-64-3111",
+  "official_url": "http://www.town.anpachi.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21401",
+  "name": "揖斐川町役場",
+  "postal_code": "501-0692",
+  "address": "揖斐郡揖斐川町三輪133",
+  "phone": "0585-22-2111",
+  "official_url": "http://www.town.ibigawa.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21403",
+  "name": "大野町役場",
+  "postal_code": "501-0592",
+  "address": "揖斐郡大野町大字大野80",
+  "phone": "0585-34-1111",
+  "official_url": "https://www.town-ono.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21404",
+  "name": "池田町役場",
+  "postal_code": "503-2492",
+  "address": "揖斐郡池田町六之井1468-1",
+  "phone": "0585-45-3111",
+  "official_url": "http://www.town.ikeda.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21421",
+  "name": "北方町役場",
+  "postal_code": "501-0492",
+  "address": "本巣郡北方町長谷川1-1",
+  "phone": "058-323-1111",
+  "official_url": "http://www.town.kitagata.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21501",
+  "name": "坂祝町役場",
+  "postal_code": "505-8501",
+  "address": "加茂郡坂祝町取組46-18",
+  "phone": "0574-26-7111",
+  "official_url": "http://www.town.sakahogi.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21502",
+  "name": "富加町役場",
+  "postal_code": "501-3392",
+  "address": "加茂郡富加町滝田1511",
+  "phone": "0574-54-2111",
+  "official_url": "http://www.town.tomika.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21503",
+  "name": "川辺町役場",
+  "postal_code": "509-0393",
+  "address": "加茂郡川辺町中川辺1518-4",
+  "phone": "0574-53-2511",
+  "official_url": "http://www.kawabe-gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21504",
+  "name": "七宗町役場",
+  "postal_code": "509-0492",
+  "address": "加茂郡七宗町上麻生2442-3",
+  "phone": "0574-48-1111",
+  "official_url": "http://www.hichiso.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21505",
+  "name": "八百津町役場",
+  "postal_code": "505-0392",
+  "address": "加茂郡八百津町八百津3903-2",
+  "phone": "0574-43-2111",
+  "official_url": "https://www.town.yaotsu.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21506",
+  "name": "白川町役場",
+  "postal_code": "509-1192",
+  "address": "加茂郡白川町河岐715",
+  "phone": "0574-72-1311",
+  "official_url": "http://www.town.shirakawa.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21507",
+  "name": "東白川村役場",
+  "postal_code": "509-1392",
+  "address": "加茂郡東白川村神土548",
+  "phone": "0574-78-3111",
+  "official_url": "http://www.vill.higashishirakawa.gifu.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21521",
+  "name": "御嵩町役場",
+  "postal_code": "505-0192",
+  "address": "可児郡御嵩町御嵩1239-1",
+  "phone": "0574-67-2111",
+  "official_url": "https://www.town.mitake.lg.jp/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "21604",
+  "name": "白川村役場",
+  "postal_code": "501-5692",
+  "address": "大野郡白川村鳩谷517",
+  "phone": "05769-6-1311",
+  "official_url": "http://shirakawa-go.org/",
+  "source_url": "https://www.pref.gifu.lg.jp/page/6058.html",
+  "verified_at": "2026-07-07"
+ }
+]

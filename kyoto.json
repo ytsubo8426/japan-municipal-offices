@@ -1,0 +1,372 @@
+[
+ {
+  "city_code": "26100",
+  "name": "京都市役所",
+  "postal_code": "604-8571",
+  "address": "京都市中京区寺町通御池上る上本能寺前町488",
+  "phone": "075-222-3111",
+  "official_url": "http://www.city.kyoto.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26101",
+  "name": "京都市北区役所",
+  "postal_code": "603-8511",
+  "address": "京都市北区紫野東御所田町33-1",
+  "phone": "075-432-1181",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26102",
+  "name": "京都市上京区役所",
+  "postal_code": "602-8511",
+  "address": "京都市上京区今出川通室町西入堀出シ町285",
+  "phone": "075-441-0111",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26103",
+  "name": "京都市左京区役所",
+  "postal_code": "606-8511",
+  "address": "京都市左京区松ヶ崎堂ノ上町7-2",
+  "phone": "075-702-1000",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26104",
+  "name": "京都市中京区役所",
+  "postal_code": "604-8588",
+  "address": "京都市中京区西堀川通御池下る西三坊堀川町521",
+  "phone": "075-812-0061",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26105",
+  "name": "京都市東山区役所",
+  "postal_code": "605-8511",
+  "address": "京都市東山区清水五丁目130-6",
+  "phone": "075-561-1191",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26106",
+  "name": "京都市下京区役所",
+  "postal_code": "600-8588",
+  "address": "京都市下京区西洞院通塩小路上る東塩小路町608-8",
+  "phone": "075-371-7101",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26107",
+  "name": "京都市南区役所",
+  "postal_code": "601-8511",
+  "address": "京都市南区西九条南田町1-3",
+  "phone": "075-681-3111",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26108",
+  "name": "京都市右京区役所",
+  "postal_code": "616-8511",
+  "address": "京都市右京区太秦下刑部町12",
+  "phone": "075-861-1101",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26109",
+  "name": "京都市伏見区役所",
+  "postal_code": "612-8511",
+  "address": "京都市伏見区鷹匠町39-2",
+  "phone": "075-611-1101",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26110",
+  "name": "京都市山科区役所",
+  "postal_code": "607-8511",
+  "address": "京都市山科区椥辻池尻町14-2",
+  "phone": "075-592-3050",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26111",
+  "name": "京都市西京区役所",
+  "postal_code": "615-8522",
+  "address": "京都市西京区上桂森下町25-1",
+  "phone": "075-381-7121",
+  "official_url": null,
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26201",
+  "name": "福知山市役所",
+  "postal_code": "620-8501",
+  "address": "福知山市字内記13-1",
+  "phone": "0773-22-6111",
+  "official_url": "https://www.city.fukuchiyama.lg.jp/index2.html",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26202",
+  "name": "舞鶴市役所",
+  "postal_code": "625-8555",
+  "address": "舞鶴市字北吸1044",
+  "phone": "0773-62-2300",
+  "official_url": "http://www.city.maizuru.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26203",
+  "name": "綾部市役所",
+  "postal_code": "623-8501",
+  "address": "綾部市若竹町8-1",
+  "phone": "0773-42-3280",
+  "official_url": "http://www.city.ayabe.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26204",
+  "name": "宇治市役所",
+  "postal_code": "611-8501",
+  "address": "宇治市宇治琵琶33",
+  "phone": "0774-22-3141",
+  "official_url": "http://www.city.uji.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26205",
+  "name": "宮津市役所",
+  "postal_code": "626-8501",
+  "address": "宮津市字柳縄手345-1",
+  "phone": "0772-22-2121",
+  "official_url": "http://www.city.miyazu.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26206",
+  "name": "亀岡市役所",
+  "postal_code": "621-8501",
+  "address": "亀岡市安町野々神8",
+  "phone": "0771-22-3131",
+  "official_url": "http://www.city.kameoka.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26207",
+  "name": "城陽市役所",
+  "postal_code": "610-0195",
+  "address": "城陽市寺田東ノ口16・17",
+  "phone": "0774-52-1111",
+  "official_url": "http://www.city.joyo.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26208",
+  "name": "向日市役所",
+  "postal_code": "617-8665",
+  "address": "向日市寺戸町中野20",
+  "phone": "075-931-1111",
+  "official_url": "http://www.city.muko.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26209",
+  "name": "長岡京市役所",
+  "postal_code": "617-8501",
+  "address": "長岡京市開田1丁目1-1",
+  "phone": "075-951-2121",
+  "official_url": "http://www.city.nagaokakyo.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26210",
+  "name": "八幡市役所",
+  "postal_code": "614-8501",
+  "address": "八幡市八幡園内75",
+  "phone": "075-983-1111",
+  "official_url": "http://www.city.yawata.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26211",
+  "name": "京田辺市役所",
+  "postal_code": "610-0393",
+  "address": "京田辺市田辺80",
+  "phone": "0774-63-1122",
+  "official_url": "https://www.city.kyotanabe.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26212",
+  "name": "京丹後市役所",
+  "postal_code": "627-8567",
+  "address": "京丹後市峰山町杉谷889",
+  "phone": "0772-69-0001",
+  "official_url": "http://www.city.kyotango.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26213",
+  "name": "南丹市役所",
+  "postal_code": "622-8651",
+  "address": "南丹市園部町小桜町47",
+  "phone": "0771-68-0001",
+  "official_url": "https://www.city.nantan.kyoto.jp/www/index.html",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26214",
+  "name": "木津川市役所",
+  "postal_code": "619-0286",
+  "address": "木津川市木津南垣外110-9",
+  "phone": "0774-72-0501",
+  "official_url": "http://www.city.kizugawa.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26303",
+  "name": "大山崎町役場",
+  "postal_code": "618-8501",
+  "address": "乙訓郡大山崎町字円明寺小字夏目3",
+  "phone": "075-956-2101",
+  "official_url": "http://www.town.oyamazaki.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26322",
+  "name": "久御山町役場",
+  "postal_code": "613-8585",
+  "address": "久世郡久御山町島田ミスノ38",
+  "phone": "075-631-6111",
+  "official_url": "http://www.town.kumiyama.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26343",
+  "name": "井手町役場",
+  "postal_code": "610-0302",
+  "address": "綴喜郡井手町大字井手小字東高月8",
+  "phone": "0774-82-2001",
+  "official_url": "http://www.town.ide.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26344",
+  "name": "宇治田原町役場",
+  "postal_code": "610-0289",
+  "address": "綴喜郡宇治田原町大字立川小字坂口18-1",
+  "phone": "0774-88-2250",
+  "official_url": "http://www.town.ujitawara.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26364",
+  "name": "笠置町役場",
+  "postal_code": "619-1393",
+  "address": "相楽郡笠置町大字笠置小字西通90-1",
+  "phone": "0743-95-2301",
+  "official_url": "http://www.town.kasagi.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26365",
+  "name": "和束町役場",
+  "postal_code": "619-1295",
+  "address": "相楽郡和束町大字釜塚小字生水14-2",
+  "phone": "0774-78-3001",
+  "official_url": "https://www.town.wazuka.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26366",
+  "name": "精華町役場",
+  "postal_code": "619-0285",
+  "address": "相楽郡精華町大字南稲八妻小字北尻70",
+  "phone": "0774-94-2004",
+  "official_url": "http://www.town.seika.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26367",
+  "name": "南山城村役場",
+  "postal_code": "619-1411",
+  "address": "相楽郡南山城村北大河原小字久保14-1",
+  "phone": "0743-93-0104",
+  "official_url": "http://www.vill.minamiyamashiro.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26407",
+  "name": "京丹波町役場",
+  "postal_code": "622-0292",
+  "address": "船井郡京丹波町蒲生蒲生野487-1",
+  "phone": "0771-82-0200",
+  "official_url": "http://www.town.kyotamba.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26463",
+  "name": "伊根町役場",
+  "postal_code": "626-0493",
+  "address": "与謝郡伊根町字日出651",
+  "phone": "0772-32-0501",
+  "official_url": "http://www.town.ine.kyoto.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "26465",
+  "name": "与謝野町役場",
+  "postal_code": "629-2292",
+  "address": "与謝郡与謝野町字岩滝1798-1",
+  "phone": "0772-43-9000",
+  "official_url": "https://www.town.yosano.lg.jp/",
+  "source_url": "https://www.pref.kyoto.jp/kourei-engo/13900025.html, https://www.pref.kyoto.jp/link.html",
+  "verified_at": "2026-07-07"
+ }
+]

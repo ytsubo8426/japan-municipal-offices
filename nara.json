@@ -1,0 +1,392 @@
+[
+ {
+  "city_code": "29201",
+  "name": "奈良市役所",
+  "postal_code": "630-8580",
+  "address": "奈良市二条大路南一丁目1番1号",
+  "phone": "0742-34-1111",
+  "official_url": "http://www.city.nara.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29202",
+  "name": "大和高田市役所",
+  "postal_code": "635-8511",
+  "address": "大和高田市大字大中98番地4",
+  "phone": "0745-22-1101",
+  "official_url": "http://www.city.yamatotakada.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29203",
+  "name": "大和郡山市役所",
+  "postal_code": "639-1198",
+  "address": "大和郡山市北郡山町248-4",
+  "phone": "0743-53-1151",
+  "official_url": "http://www.city.yamatokoriyama.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29204",
+  "name": "天理市役所",
+  "postal_code": "632-8555",
+  "address": "天理市川原城町605",
+  "phone": "0743-63-1001",
+  "official_url": "http://www.city.tenri.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29205",
+  "name": "橿原市役所",
+  "postal_code": "634-8586",
+  "address": "橿原市八木町1-1-18",
+  "phone": "0744-22-4001",
+  "official_url": "https://www.city.kashihara.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29206",
+  "name": "桜井市役所",
+  "postal_code": "633-8585",
+  "address": "桜井市大字粟殿432-1",
+  "phone": "0744-42-9111",
+  "official_url": "http://www.city.sakurai.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29207",
+  "name": "五條市役所",
+  "postal_code": "637-8501",
+  "address": "五條市岡口1丁目3番1号",
+  "phone": "0747-22-4001",
+  "official_url": "http://www.city.gojo.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29208",
+  "name": "御所市役所",
+  "postal_code": "639-2298",
+  "address": "御所市1番地の3",
+  "phone": "0745-62-3001",
+  "official_url": "http://www.city.gose.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29209",
+  "name": "生駒市役所",
+  "postal_code": "630-0288",
+  "address": "生駒市東新町8番38号",
+  "phone": "0743-74-1111",
+  "official_url": "http://www.city.ikoma.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29210",
+  "name": "香芝市役所",
+  "postal_code": "639-0292",
+  "address": "香芝市本町1397番地",
+  "phone": "0745-76-2001",
+  "official_url": "http://www.city.kashiba.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29211",
+  "name": "葛城市役所",
+  "postal_code": "639-2195",
+  "address": "[新庄庁舎] 葛城市柿本166番地",
+  "phone": "0745-69-3001",
+  "official_url": "http://www.city.katsuragi.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29212",
+  "name": "宇陀市役所",
+  "postal_code": "633-0292",
+  "address": "宇陀市榛原下井足17番地の3",
+  "phone": "0745-82-8000",
+  "official_url": "http://www.city.uda.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29322",
+  "name": "山添村役場",
+  "postal_code": "630-2344",
+  "address": "山辺郡山添村大字大西151番地",
+  "phone": "0743-85-0041",
+  "official_url": "http://www.vill.yamazoe.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29342",
+  "name": "平群町役場",
+  "postal_code": "636-8585",
+  "address": "生駒郡平群町吉新1-1-1",
+  "phone": "0745-45-1001",
+  "official_url": "http://www.town.heguri.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29343",
+  "name": "三郷町役場",
+  "postal_code": "636-8535",
+  "address": "生駒郡三郷町勢野西1-1-1",
+  "phone": "0745-73-2101",
+  "official_url": "http://www.town.sango.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29344",
+  "name": "斑鳩町役場",
+  "postal_code": "636-0198",
+  "address": "生駒郡斑鳩町法隆寺西3丁目7番12号",
+  "phone": "0745-74-1001",
+  "official_url": "http://www.town.ikaruga.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29345",
+  "name": "安堵町役場",
+  "postal_code": "639-1095",
+  "address": "生駒郡安堵町大字東安堵958番地",
+  "phone": "0743-57-1511",
+  "official_url": "http://www.town.ando.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29361",
+  "name": "川西町役場",
+  "postal_code": "636-0202",
+  "address": "磯城郡川西町大字結崎28番地の1",
+  "phone": "0745-44-2211",
+  "official_url": "http://www.town.nara-kawanishi.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29362",
+  "name": "三宅町役場",
+  "postal_code": "636-0213",
+  "address": "磯城郡三宅町大字伴堂689番地",
+  "phone": "0745-44-2001",
+  "official_url": "http://www.town.miyake.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29363",
+  "name": "田原本町役場",
+  "postal_code": "636-0392",
+  "address": "磯城郡田原本町890-1",
+  "phone": "0744-32-2901",
+  "official_url": "http://www.town.tawaramoto.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29385",
+  "name": "曽爾村役場",
+  "postal_code": "633-1212",
+  "address": "宇陀郡曽爾村今井495-1",
+  "phone": "0745-94-2101",
+  "official_url": "http://www.vill.soni.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29386",
+  "name": "御杖村役場",
+  "postal_code": "633-1302",
+  "address": "宇陀郡御杖村大字菅野368",
+  "phone": "0745-95-2001",
+  "official_url": "http://www.vill.mitsue.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29401",
+  "name": "高取町役場",
+  "postal_code": "635-0154",
+  "address": "高市郡高取町観覚寺990-1",
+  "phone": "0744-52-3334",
+  "official_url": "http://www.town.takatori.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29402",
+  "name": "明日香村役場",
+  "postal_code": "634-0142",
+  "address": "高市郡明日香村大字橘21番地",
+  "phone": "0744-54-2001",
+  "official_url": "https://asukamura.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29424",
+  "name": "上牧町役場",
+  "postal_code": "639-0293",
+  "address": "北葛城郡上牧町大字上牧3350",
+  "phone": "0745-76-1001",
+  "official_url": "http://www.town.kanmaki.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29425",
+  "name": "王寺町役場",
+  "postal_code": "636-8511",
+  "address": "北葛城郡王寺町王寺2丁目1-23",
+  "phone": "0745-73-2001",
+  "official_url": "http://www.town.oji.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29426",
+  "name": "広陵町役場",
+  "postal_code": "635-8515",
+  "address": "北葛城郡広陵町大字南郷583番地1",
+  "phone": "0745-55-1001",
+  "official_url": "http://www.town.koryo.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29427",
+  "name": "河合町役場",
+  "postal_code": "636-8501",
+  "address": "北葛城郡河合町池部1丁目1番1号",
+  "phone": "0745-57-0200",
+  "official_url": "http://www.town.kawai.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29441",
+  "name": "吉野町役場",
+  "postal_code": "639-3192",
+  "address": "吉野郡吉野町大字上市80番地の1",
+  "phone": "0746-32-3081",
+  "official_url": "http://www.town.yoshino.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29442",
+  "name": "大淀町役場",
+  "postal_code": "638-8501",
+  "address": "吉野郡大淀町大字桧垣本2090番地",
+  "phone": "0747-52-5501",
+  "official_url": "http://www.town.oyodo.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29443",
+  "name": "下市町役場",
+  "postal_code": "638-8510",
+  "address": "吉野郡下市町大字下市1960",
+  "phone": "0747-52-0001",
+  "official_url": "http://www.town.shimoichi.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29444",
+  "name": "黒滝村役場",
+  "postal_code": "638-0292",
+  "address": "吉野郡黒滝村大字寺戸77番地",
+  "phone": "0747-62-2031",
+  "official_url": "http://www.vill.kurotaki.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29446",
+  "name": "天川村役場",
+  "postal_code": "638-0392",
+  "address": "吉野郡天川村大字沢谷60番地",
+  "phone": "0747-63-0321",
+  "official_url": "http://www.vill.tenkawa.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29447",
+  "name": "野迫川村役場",
+  "postal_code": "648-0392",
+  "address": "吉野郡野迫川村大字北股84番地",
+  "phone": "0747-37-2101",
+  "official_url": "http://www.vill.nosegawa.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29449",
+  "name": "十津川村役場",
+  "postal_code": "637-1333",
+  "address": "吉野郡十津川村大字小原225-1",
+  "phone": "0746-62-0001",
+  "official_url": "http://www.vill.totsukawa.lg.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29450",
+  "name": "下北山村役場",
+  "postal_code": "639-3803",
+  "address": "吉野郡下北山村大字寺垣内1002",
+  "phone": "07468-6-0001",
+  "official_url": "http://www.vill.shimokitayama.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29451",
+  "name": "上北山村役場",
+  "postal_code": "639-3701",
+  "address": "吉野郡上北山村大字河合330",
+  "phone": "07468-2-0001",
+  "official_url": "http://vill.kamikitayama.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29452",
+  "name": "川上村役場",
+  "postal_code": "639-3594",
+  "address": "吉野郡川上村大字迫1335番地の7",
+  "phone": "0746-52-0111",
+  "official_url": "http://www.vill.kawakami.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "29453",
+  "name": "東吉野村役場",
+  "postal_code": "633-2492",
+  "address": "吉野郡東吉野村大字小川99番地",
+  "phone": "0746-42-0441",
+  "official_url": "http://www.vill.higashiyoshino.nara.jp/",
+  "source_url": "https://www.pref.nara.jp/9686.htm,https://www.pref.nara.lg.jp/n002/1232.html",
+  "verified_at": "2026-07-07"
+ }
+]

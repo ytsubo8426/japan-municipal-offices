@@ -1,0 +1,702 @@
+[
+ {
+  "city_code": "23100",
+  "name": "名古屋市役所",
+  "postal_code": "460-8508",
+  "address": "名古屋市中区三の丸3-1-1",
+  "phone": "052-961-1111",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23101",
+  "name": "名古屋市千種区役所",
+  "postal_code": "464-8644",
+  "address": "名古屋市千種区星が丘山手103",
+  "phone": "052-762-3111",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23102",
+  "name": "名古屋市東区役所",
+  "postal_code": "461-8640",
+  "address": "名古屋市東区筒井1-7-74",
+  "phone": "052-935-2271",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23103",
+  "name": "名古屋市北区役所",
+  "postal_code": "462-8511",
+  "address": "名古屋市北区清水4-17-1",
+  "phone": "052-911-3131",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23104",
+  "name": "名古屋市西区役所",
+  "postal_code": "451-8508",
+  "address": "名古屋市西区花の木2-18-1",
+  "phone": "052-521-5311",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23105",
+  "name": "名古屋市中村区役所",
+  "postal_code": "453-8501",
+  "address": "名古屋市中村区松原町1-23-1",
+  "phone": "052-483-8161",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23106",
+  "name": "名古屋市中区役所",
+  "postal_code": "460-8447",
+  "address": "名古屋市中区栄4-1-8",
+  "phone": "052-241-3601",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23107",
+  "name": "名古屋市昭和区役所",
+  "postal_code": "466-8585",
+  "address": "名古屋市昭和区阿由知通3-19",
+  "phone": "052-731-1511",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23108",
+  "name": "名古屋市瑞穂区役所",
+  "postal_code": "467-8531",
+  "address": "名古屋市瑞穂区瑞穂通3-32",
+  "phone": "052-841-1521",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23109",
+  "name": "名古屋市熱田区役所",
+  "postal_code": "456-8501",
+  "address": "名古屋市熱田区神宮3-1-15",
+  "phone": "052-681-1431",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23110",
+  "name": "名古屋市中川区役所",
+  "postal_code": "454-8501",
+  "address": "名古屋市中川区高畑1-223",
+  "phone": "052-362-1111",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23111",
+  "name": "名古屋市港区役所",
+  "postal_code": "455-8520",
+  "address": "名古屋市港区港明1-12-20",
+  "phone": "052-651-3251",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23112",
+  "name": "名古屋市南区役所",
+  "postal_code": "457-8508",
+  "address": "名古屋市南区前浜通3-10",
+  "phone": "052-811-5161",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23113",
+  "name": "名古屋市守山区役所",
+  "postal_code": "463-8510",
+  "address": "名古屋市守山区小幡1-3-1",
+  "phone": "052-793-3434",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23114",
+  "name": "名古屋市緑区役所",
+  "postal_code": "458-8585",
+  "address": "名古屋市緑区青山2-15",
+  "phone": "052-621-2111",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23115",
+  "name": "名古屋市名東区役所",
+  "postal_code": "465-8508",
+  "address": "名古屋市名東区上社2-50",
+  "phone": "052-773-1111",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23116",
+  "name": "名古屋市天白区役所",
+  "postal_code": "468-8510",
+  "address": "名古屋市天白区島田2-201",
+  "phone": "052-803-1111",
+  "official_url": "https://www.city.nagoya.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23201",
+  "name": "豊橋市役所",
+  "postal_code": "440-8501",
+  "address": "豊橋市今橋町1",
+  "phone": "0532-51-2111",
+  "official_url": "https://www.city.toyohashi.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23202",
+  "name": "岡崎市役所",
+  "postal_code": "444-8601",
+  "address": "岡崎市十王町2-9",
+  "phone": "0564-23-6000",
+  "official_url": "https://www.city.okazaki.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23203",
+  "name": "一宮市役所",
+  "postal_code": "491-8501",
+  "address": "一宮市本町2-5-6",
+  "phone": "0586-28-8100",
+  "official_url": "https://www.city.ichinomiya.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23204",
+  "name": "瀬戸市役所",
+  "postal_code": "489-8701",
+  "address": "瀬戸市追分町64-1",
+  "phone": "0561-82-7111",
+  "official_url": "http://www.city.seto.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23205",
+  "name": "半田市役所",
+  "postal_code": "475-8666",
+  "address": "半田市東洋町2-1",
+  "phone": "0569-21-3111",
+  "official_url": "https://www.city.handa.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23206",
+  "name": "春日井市役所",
+  "postal_code": "486-8686",
+  "address": "春日井市鳥居松町5-44",
+  "phone": "0568-81-5111",
+  "official_url": "https://www.city.kasugai.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23207",
+  "name": "豊川市役所",
+  "postal_code": "442-8601",
+  "address": "豊川市諏訪1-1",
+  "phone": "0533-89-2111",
+  "official_url": "https://www.city.toyokawa.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23208",
+  "name": "津島市役所",
+  "postal_code": "496-8686",
+  "address": "津島市立込町2-21",
+  "phone": "0567-24-1111",
+  "official_url": "https://www.city.tsushima.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23209",
+  "name": "碧南市役所",
+  "postal_code": "447-8601",
+  "address": "碧南市松本町28",
+  "phone": "0566-41-3311",
+  "official_url": "https://www.city.hekinan.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23210",
+  "name": "刈谷市役所",
+  "postal_code": "448-8501",
+  "address": "刈谷市東陽町1-1",
+  "phone": "0566-23-1111",
+  "official_url": "http://www.city.kariya.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23211",
+  "name": "豊田市役所",
+  "postal_code": "471-8501",
+  "address": "豊田市西町3-60",
+  "phone": "0565-31-1212",
+  "official_url": "https://www.city.toyota.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23212",
+  "name": "安城市役所",
+  "postal_code": "446-8501",
+  "address": "安城市桜町18-23",
+  "phone": "0566-76-1111",
+  "official_url": "https://www.city.anjo.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23213",
+  "name": "西尾市役所",
+  "postal_code": "445-8501",
+  "address": "西尾市寄住町下田22",
+  "phone": "0563-56-2111",
+  "official_url": "https://www.city.nishio.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23214",
+  "name": "蒲郡市役所",
+  "postal_code": "443-8601",
+  "address": "蒲郡市旭町17-1",
+  "phone": "0533-66-1111",
+  "official_url": "https://www.city.gamagori.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23215",
+  "name": "犬山市役所",
+  "postal_code": "484-8501",
+  "address": "犬山市大字犬山字東畑36",
+  "phone": "0568-61-1800",
+  "official_url": "https://www.city.inuyama.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23216",
+  "name": "常滑市役所",
+  "postal_code": "479-8610",
+  "address": "常滑市飛香台3-3-5",
+  "phone": "0569-35-5111",
+  "official_url": "http://www.city.tokoname.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23217",
+  "name": "江南市役所",
+  "postal_code": "483-8701",
+  "address": "江南市赤童子町大堀90",
+  "phone": "0587-54-1111",
+  "official_url": "https://www.city.konan.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23219",
+  "name": "小牧市役所",
+  "postal_code": "485-8650",
+  "address": "小牧市堀の内3-1",
+  "phone": "0568-72-2101",
+  "official_url": "https://www.city.komaki.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23220",
+  "name": "稲沢市役所",
+  "postal_code": "492-8269",
+  "address": "稲沢市稲府町1",
+  "phone": "0587-32-1111",
+  "official_url": "http://www.city.inazawa.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23221",
+  "name": "新城市役所",
+  "postal_code": "441-1392",
+  "address": "新城市字東入船115",
+  "phone": "0536-23-1111",
+  "official_url": "https://www.city.shinshiro.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23222",
+  "name": "東海市役所",
+  "postal_code": "476-8601",
+  "address": "東海市中央町1-1",
+  "phone": "052-603-2211",
+  "official_url": "http://www.city.tokai.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23223",
+  "name": "大府市役所",
+  "postal_code": "474-8701",
+  "address": "大府市中央町5-70",
+  "phone": "0562-47-2111",
+  "official_url": "https://www.city.obu.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23224",
+  "name": "知多市役所",
+  "postal_code": "478-8601",
+  "address": "知多市緑町1",
+  "phone": "0562-33-3151",
+  "official_url": "https://www.city.chita.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23225",
+  "name": "知立市役所",
+  "postal_code": "472-8666",
+  "address": "知立市広見3-1",
+  "phone": "0566-83-1111",
+  "official_url": "https://www.city.chiryu.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23226",
+  "name": "尾張旭市役所",
+  "postal_code": "488-8666",
+  "address": "尾張旭市東大道町原田2600-1",
+  "phone": "0561-53-2111",
+  "official_url": "https://www.city.owariasahi.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23227",
+  "name": "高浜市役所",
+  "postal_code": "444-1398",
+  "address": "高浜市青木町4-1-2",
+  "phone": "0566-52-1111",
+  "official_url": "https://www.city.takahama.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23228",
+  "name": "岩倉市役所",
+  "postal_code": "482-8686",
+  "address": "岩倉市栄町1-66",
+  "phone": "0587-66-1111",
+  "official_url": "https://www.city.iwakura.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23229",
+  "name": "豊明市役所",
+  "postal_code": "470-1195",
+  "address": "豊明市新田町子持松1-1",
+  "phone": "0562-92-1111",
+  "official_url": "https://www.city.toyoake.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23230",
+  "name": "日進市役所",
+  "postal_code": "470-0192",
+  "address": "日進市蟹甲町池下268",
+  "phone": "0561-73-7111",
+  "official_url": "https://www.city.nisshin.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23231",
+  "name": "田原市役所",
+  "postal_code": "441-3492",
+  "address": "田原市田原町南番場30-1",
+  "phone": "0531-22-1111",
+  "official_url": "http://www.city.tahara.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23232",
+  "name": "愛西市役所",
+  "postal_code": "496-8555",
+  "address": "愛西市稲葉町米野308",
+  "phone": "0567-26-8111",
+  "official_url": "https://www.city.aisai.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23233",
+  "name": "清須市役所",
+  "postal_code": "452-8569",
+  "address": "清須市須ケ口1238",
+  "phone": "052-400-2911",
+  "official_url": "https://www.city.kiyosu.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23234",
+  "name": "北名古屋市役所",
+  "postal_code": "481-8531",
+  "address": "北名古屋市西之保清水田15",
+  "phone": "0568-22-1111",
+  "official_url": "https://www.city.kitanagoya.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23235",
+  "name": "弥富市役所",
+  "postal_code": "498-8501",
+  "address": "弥富市前ケ須町南本田335",
+  "phone": "0567-65-1111",
+  "official_url": "https://www.city.yatomi.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23236",
+  "name": "みよし市役所",
+  "postal_code": "470-0295",
+  "address": "みよし市三好町小坂50",
+  "phone": "0561-32-2111",
+  "official_url": "https://www.city.aichi-miyoshi.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23237",
+  "name": "あま市役所",
+  "postal_code": "497-8602",
+  "address": "あま市七宝町沖之島深坪1",
+  "phone": "052-444-1001",
+  "official_url": "https://www.city.ama.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23238",
+  "name": "長久手市役所",
+  "postal_code": "480-1196",
+  "address": "長久手市岩作城の内60-1",
+  "phone": "0561-63-1111",
+  "official_url": "https://www.city.nagakute.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23302",
+  "name": "東郷町役場",
+  "postal_code": "470-0198",
+  "address": "愛知郡東郷町大字春木字羽根穴1",
+  "phone": "0561-38-3111",
+  "official_url": "https://www.town.aichi-togo.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23342",
+  "name": "豊山町役場",
+  "postal_code": "480-0292",
+  "address": "西春日井郡豊山町大字豊場字新栄260",
+  "phone": "0568-28-0001",
+  "official_url": "https://www.town.toyoyama.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23361",
+  "name": "大口町役場",
+  "postal_code": "480-0144",
+  "address": "丹羽郡大口町下小口7-155",
+  "phone": "0587-95-1111",
+  "official_url": "https://www.town.oguchi.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23362",
+  "name": "扶桑町役場",
+  "postal_code": "480-0102",
+  "address": "丹羽郡扶桑町大字高雄字天道330",
+  "phone": "0587-93-1111",
+  "official_url": "https://www.town.fuso.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23424",
+  "name": "大治町役場",
+  "postal_code": "490-1192",
+  "address": "海部郡大治町大字馬島字大門西1-1",
+  "phone": "052-444-2711",
+  "official_url": "https://www.town.oharu.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23425",
+  "name": "蟹江町役場",
+  "postal_code": "497-8601",
+  "address": "海部郡蟹江町学戸3-1",
+  "phone": "0567-95-1111",
+  "official_url": "https://www.town.kanie.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23427",
+  "name": "飛島村役場",
+  "postal_code": "490-1436",
+  "address": "海部郡飛島村竹之郷3-1",
+  "phone": "0567-52-1231",
+  "official_url": "https://www.vill.tobishima.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23441",
+  "name": "阿久比町役場",
+  "postal_code": "470-2292",
+  "address": "知多郡阿久比町大字卯坂字殿越50",
+  "phone": "0569-48-1111",
+  "official_url": "https://www.town.agui.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23442",
+  "name": "東浦町役場",
+  "postal_code": "470-2192",
+  "address": "知多郡東浦町大字緒川字政所20",
+  "phone": "0562-83-3111",
+  "official_url": "https://www.town.aichi-higashiura.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23445",
+  "name": "南知多町役場",
+  "postal_code": "470-3495",
+  "address": "知多郡南知多町大字豊浜字貝ヶ坪18",
+  "phone": "0569-65-0711",
+  "official_url": "https://www.town.minamichita.lg.jp/main/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23446",
+  "name": "美浜町役場",
+  "postal_code": "470-2492",
+  "address": "知多郡美浜町大字河和字北田面106",
+  "phone": "0569-82-1111",
+  "official_url": "https://www.town.aichi-mihama.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23447",
+  "name": "武豊町役場",
+  "postal_code": "470-2392",
+  "address": "知多郡武豊町字長尾山2",
+  "phone": "0569-72-1111",
+  "official_url": "https://www.town.taketoyo.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23501",
+  "name": "幸田町役場",
+  "postal_code": "444-0192",
+  "address": "額田郡幸田町大字菱池字元林1-1",
+  "phone": "0564-62-1111",
+  "official_url": "https://www.town.kota.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23561",
+  "name": "設楽町役場",
+  "postal_code": "441-2301",
+  "address": "北設楽郡設楽町田口字辻前14",
+  "phone": "0536-62-0511",
+  "official_url": "https://www.town.shitara.lg.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23562",
+  "name": "東栄町役場",
+  "postal_code": "449-0292",
+  "address": "北設楽郡東栄町大字本郷字上前畑25",
+  "phone": "0536-76-0501",
+  "official_url": "http://www.town.toei.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "23563",
+  "name": "豊根村役場",
+  "postal_code": "449-0403",
+  "address": "北設楽郡豊根村下黒川字蕨平2",
+  "phone": "0536-85-1311",
+  "official_url": "http://www.vill.toyone.aichi.jp/",
+  "source_url": "https://www.pref.aichi.jp/soshiki/shichoson/0000000276.html,https://www.pref.aichi.jp/site/userguide/link-citytown.html",
+  "verified_at": "2026-07-07"
+ }
+]

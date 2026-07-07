@@ -1,0 +1,502 @@
+[
+ {
+  "city_code": "28100",
+  "name": "神戸市役所",
+  "postal_code": "650-8570",
+  "address": "神戸市中央区加納町6-5-1",
+  "phone": "078-333-3330",
+  "official_url": "https://www.city.kobe.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28101",
+  "name": "神戸市東灘区役所",
+  "postal_code": "658-8570",
+  "address": "神戸市東灘区住吉東町5-2-1",
+  "phone": "078-841-4131",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28102",
+  "name": "神戸市灘区役所",
+  "postal_code": "657-8570",
+  "address": "神戸市灘区桜口町4-2-1",
+  "phone": "078-843-7001",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28105",
+  "name": "神戸市兵庫区役所",
+  "postal_code": "652-8570",
+  "address": "神戸市兵庫区荒田町1-21-1",
+  "phone": "078-511-2111",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28106",
+  "name": "神戸市長田区役所",
+  "postal_code": "653-8570",
+  "address": "神戸市長田区北町3-4-3",
+  "phone": "078-579-2311",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28107",
+  "name": "神戸市須磨区役所",
+  "postal_code": "654-8570",
+  "address": "神戸市須磨区大黒町4-1-1",
+  "phone": "078-731-4341",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28108",
+  "name": "神戸市垂水区役所",
+  "postal_code": "655-8570",
+  "address": "神戸市垂水区日向1-5-1",
+  "phone": "078-708-5151",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28109",
+  "name": "神戸市北区役所",
+  "postal_code": "651-1195",
+  "address": "神戸市北区鈴蘭台北町1-9-1",
+  "phone": "078-593-1111",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28110",
+  "name": "神戸市中央区役所",
+  "postal_code": "651-8570",
+  "address": "神戸市中央区東町115",
+  "phone": "078-335-7511",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28111",
+  "name": "神戸市西区役所",
+  "postal_code": "651-2295",
+  "address": "神戸市西区糀台5-4-1",
+  "phone": "078-940-9501",
+  "official_url": "https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28201",
+  "name": "姫路市役所",
+  "postal_code": "670-8501",
+  "address": "姫路市安田四丁目1番地",
+  "phone": "079-221-2111",
+  "official_url": "https://www.city.himeji.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28202",
+  "name": "尼崎市役所",
+  "postal_code": "660-8501",
+  "address": "尼崎市東七松町1丁目23番1号",
+  "phone": "06-6375-5639",
+  "official_url": "https://www.city.amagasaki.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28203",
+  "name": "明石市役所",
+  "postal_code": "673-8686",
+  "address": "明石市中崎1丁目5-1",
+  "phone": "078-912-1111",
+  "official_url": "https://www.city.akashi.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28204",
+  "name": "西宮市役所",
+  "postal_code": "662-8567",
+  "address": "西宮市六湛寺町10番3号(本庁舎)",
+  "phone": "0798-36-5000",
+  "official_url": "https://www.nishi.or.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28205",
+  "name": "洲本市役所",
+  "postal_code": "656-8686",
+  "address": "洲本市本町三丁目4番10号",
+  "phone": "0799-22-3321",
+  "official_url": "https://www.city.sumoto.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28206",
+  "name": "芦屋市役所",
+  "postal_code": "659-8501",
+  "address": "芦屋市精道町7番6号",
+  "phone": "0797-31-2121",
+  "official_url": "https://www.city.ashiya.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28207",
+  "name": "伊丹市役所",
+  "postal_code": "664-8503",
+  "address": "伊丹市千僧1-1",
+  "phone": "072-783-1234",
+  "official_url": "https://www.city.itami.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28208",
+  "name": "相生市役所",
+  "postal_code": "678-8585",
+  "address": "相生市旭1丁目1番3号",
+  "phone": "0791-23-7111",
+  "official_url": "https://www.city.aioi.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28209",
+  "name": "豊岡市役所",
+  "postal_code": "668-8666",
+  "address": "豊岡市中央町2番4号",
+  "phone": "0796-23-1111",
+  "official_url": "https://www.city.toyooka.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28210",
+  "name": "加古川市役所",
+  "postal_code": "675-8501",
+  "address": "加古川市加古川町北在家2000",
+  "phone": "079-421-2000",
+  "official_url": "https://www.city.kakogawa.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28212",
+  "name": "赤穂市役所",
+  "postal_code": "678-0292",
+  "address": "赤穂市加里屋81番地",
+  "phone": "0791-43-3201",
+  "official_url": "https://www.city.ako.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28213",
+  "name": "西脇市役所",
+  "postal_code": "677-8511",
+  "address": "西脇市下戸田128番地の1",
+  "phone": "0795-22-3111",
+  "official_url": "https://www.city.nishiwaki.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28214",
+  "name": "宝塚市役所",
+  "postal_code": "665-8665",
+  "address": "宝塚市東洋町1番1号",
+  "phone": "0797-71-1141",
+  "official_url": "https://www.city.takarazuka.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28215",
+  "name": "三木市役所",
+  "postal_code": "673-0492",
+  "address": "三木市上の丸町10番30号",
+  "phone": "0794-82-2000",
+  "official_url": "https://www.city.miki.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28216",
+  "name": "高砂市役所",
+  "postal_code": "676-8501",
+  "address": "高砂市荒井町千鳥1丁目1番1号",
+  "phone": "079-442-2101",
+  "official_url": "https://www.city.takasago.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28217",
+  "name": "川西市役所",
+  "postal_code": "666-8501",
+  "address": "川西市中央町12番1号",
+  "phone": "072-740-1111",
+  "official_url": "https://www.city.kawanishi.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28218",
+  "name": "小野市役所",
+  "postal_code": "675-1380",
+  "address": "小野市中島町531",
+  "phone": "0794-63-1000",
+  "official_url": "https://www.city.ono.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28219",
+  "name": "三田市役所",
+  "postal_code": "669-1595",
+  "address": "三田市三輪2丁目1番1号",
+  "phone": "079-563-1111",
+  "official_url": "https://www.city.sanda.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28220",
+  "name": "加西市役所",
+  "postal_code": "675-2395",
+  "address": "加西市北条町横尾1000番地",
+  "phone": "0790-42-1110",
+  "official_url": "https://www.city.kasai.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28221",
+  "name": "丹波篠山市役所",
+  "postal_code": "669-2397",
+  "address": "丹波篠山市北新町41",
+  "phone": "079-552-1111",
+  "official_url": "https://www.city.tambasasayama.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28222",
+  "name": "養父市役所",
+  "postal_code": "667-8651",
+  "address": "養父市八鹿町八鹿1675",
+  "phone": "079-662-3161",
+  "official_url": "https://www.city.yabu.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28223",
+  "name": "丹波市役所",
+  "postal_code": "669-3692",
+  "address": "丹波市氷上町成松字甲賀1番地",
+  "phone": "0795-82-1001",
+  "official_url": "https://www.city.tamba.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28224",
+  "name": "南あわじ市役所",
+  "postal_code": "656-0492",
+  "address": "南あわじ市市善光寺22番地1",
+  "phone": "0799-43-5001",
+  "official_url": "https://www.city.minamiawaji.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28225",
+  "name": "朝来市役所",
+  "postal_code": "669-5292",
+  "address": "朝来市和田山町東谷213番地1",
+  "phone": "079-672-3301",
+  "official_url": "https://www.city.asago.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28226",
+  "name": "淡路市役所",
+  "postal_code": "656-2292",
+  "address": "淡路市生穂新島8番地",
+  "phone": "0799-64-0001",
+  "official_url": "https://www.city.awaji.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28227",
+  "name": "宍粟市役所",
+  "postal_code": "671-2593",
+  "address": "宍粟市山崎町中広瀬133番地6",
+  "phone": "0790-63-3000",
+  "official_url": "https://www.city.shiso.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28228",
+  "name": "加東市役所",
+  "postal_code": "673-1493",
+  "address": "加東市社50番地",
+  "phone": "0795-42-3301",
+  "official_url": "https://www.city.kato.lg.jp/index.html",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28229",
+  "name": "たつの市役所",
+  "postal_code": "679-4192",
+  "address": "たつの市龍野町富永1005-1",
+  "phone": "0791-64-3131",
+  "official_url": "https://www.city.tatsuno.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28301",
+  "name": "猪名川町役場",
+  "postal_code": "666-0292",
+  "address": "川辺郡猪名川町上野字北畑11-1",
+  "phone": "072-766-0001",
+  "official_url": "https://www.town.inagawa.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28365",
+  "name": "多可町役場",
+  "postal_code": "679-1192",
+  "address": "多可郡多可町中区中村町123番地",
+  "phone": "0795-32-2380",
+  "official_url": "https://www.town.taka.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28381",
+  "name": "稲美町役場",
+  "postal_code": "675-1115",
+  "address": "加古郡稲美町国岡1-1",
+  "phone": "079-492-1212",
+  "official_url": "https://www.town.hyogo-inami.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28382",
+  "name": "播磨町役場",
+  "postal_code": "675-0182",
+  "address": "加古郡播磨町東本荘1丁目5番30号",
+  "phone": "079-435-0355",
+  "official_url": "https://www.town.harima.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28442",
+  "name": "市川町役場",
+  "postal_code": "679-2392",
+  "address": "神崎郡市川町西川辺165-3",
+  "phone": "0790-26-1010",
+  "official_url": "https://www.town.ichikawa.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28443",
+  "name": "福崎町役場",
+  "postal_code": "679-2280",
+  "address": "神崎郡福崎町南田原3116-1",
+  "phone": "0790-22-0560",
+  "official_url": "https://www.town.fukusaki.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28446",
+  "name": "神河町役場",
+  "postal_code": "679-3116",
+  "address": "神崎郡神河町寺前64番地",
+  "phone": "0790-34-0001",
+  "official_url": "https://www.town.kamikawa.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28464",
+  "name": "太子町役場",
+  "postal_code": "671-1592",
+  "address": "揖保郡太子町鵤280番地1",
+  "phone": "079-277-1010",
+  "official_url": "https://www.town.hyogo-taishi.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28481",
+  "name": "上郡町役場",
+  "postal_code": "678-1292",
+  "address": "赤穂郡上郡町大持278番地",
+  "phone": "0791-52-1111",
+  "official_url": "https://www.town.kamigori.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28501",
+  "name": "佐用町役場",
+  "postal_code": "679-5380",
+  "address": "佐用郡佐用町佐用2611番地1",
+  "phone": "0790-82-2521",
+  "official_url": "https://www.town.sayo.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28585",
+  "name": "香美町役場",
+  "postal_code": "669-6592",
+  "address": "美方郡香美町香住区香住870-1",
+  "phone": "0796-36-1111",
+  "official_url": "https://www.town.mikata-kami.lg.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "28586",
+  "name": "新温泉町役場",
+  "postal_code": "669-6792",
+  "address": "美方郡新温泉町浜坂2673-1",
+  "phone": "0796-82-3111",
+  "official_url": "https://www.town.shinonsen.hyogo.jp/",
+  "source_url": "https://web.pref.hyogo.lg.jp/link/pref.html , https://www.city.kobe.lg.jp/a84453/shise/institution/kuyakusho.html",
+  "verified_at": "2026-07-07"
+ }
+]

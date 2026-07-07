@@ -1,0 +1,192 @@
+[
+ {
+  "city_code": "25201",
+  "name": "大津市役所",
+  "postal_code": "520-8575",
+  "address": "大津市御陵町3-1",
+  "phone": "077-523-1234",
+  "official_url": "http://www.city.otsu.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25202",
+  "name": "彦根市役所",
+  "postal_code": "522-8501",
+  "address": "彦根市元町4-2",
+  "phone": "0749-22-1411",
+  "official_url": "https://www.city.hikone.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25203",
+  "name": "長浜市役所",
+  "postal_code": "526-8501",
+  "address": "長浜市八幡東町632",
+  "phone": "0749-62-4111",
+  "official_url": "https://www.city.nagahama.lg.jp",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25204",
+  "name": "近江八幡市役所",
+  "postal_code": "523-8501",
+  "address": "近江八幡市桜宮町236",
+  "phone": "0748-33-3111",
+  "official_url": "https://www.city.omihachiman.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25206",
+  "name": "草津市役所",
+  "postal_code": "525-8588",
+  "address": "草津市草津三丁目13-30",
+  "phone": "077-563-1234",
+  "official_url": "http://www.city.kusatsu.shiga.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25207",
+  "name": "守山市役所",
+  "postal_code": "524-8585",
+  "address": "守山市吉身二丁目5-22",
+  "phone": "077-583-2525",
+  "official_url": "http://www.city.moriyama.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25208",
+  "name": "栗東市役所",
+  "postal_code": "520-3088",
+  "address": "栗東市安養寺一丁目13-33",
+  "phone": "077-553-1234",
+  "official_url": "http://www.city.ritto.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25209",
+  "name": "甲賀市役所",
+  "postal_code": "528-8502",
+  "address": "甲賀市水口町水口6053",
+  "phone": "0748-65-0650",
+  "official_url": "https://www.city.koka.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25210",
+  "name": "野洲市役所",
+  "postal_code": "520-2395",
+  "address": "野洲市小篠原2100-1",
+  "phone": "077-587-1121",
+  "official_url": "http://www.city.yasu.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25211",
+  "name": "湖南市役所",
+  "postal_code": "520-3288",
+  "address": "湖南市中央一丁目1",
+  "phone": "0748-72-1290",
+  "official_url": "http://www.city.konan.shiga.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25212",
+  "name": "高島市役所",
+  "postal_code": "520-1592",
+  "address": "高島市新旭町北畑565",
+  "phone": "0740-25-8000",
+  "official_url": "https://www.city.takashima.lg.jp/index.html",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25213",
+  "name": "東近江市役所",
+  "postal_code": "527-8527",
+  "address": "東近江市八日市緑町10-5",
+  "phone": "0748-24-1234",
+  "official_url": "http://www.city.higashiomi.shiga.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25214",
+  "name": "米原市役所",
+  "postal_code": "521-8501",
+  "address": "米原市米原1016",
+  "phone": "0749-53-5100",
+  "official_url": "http://www.city.maibara.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25383",
+  "name": "日野町役場",
+  "postal_code": "529-1698",
+  "address": "蒲生郡日野町河原1-1",
+  "phone": "0748-52-1211",
+  "official_url": "http://www.town.shiga-hino.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25384",
+  "name": "竜王町役場",
+  "postal_code": "520-2592",
+  "address": "蒲生郡竜王町小口3",
+  "phone": "0748-58-3700",
+  "official_url": "http://www.town.ryuoh.shiga.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25425",
+  "name": "愛荘町役場",
+  "postal_code": "529-1380",
+  "address": "愛知郡愛荘町愛知川72",
+  "phone": "0749-42-4111",
+  "official_url": "http://www.town.aisho.shiga.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25441",
+  "name": "豊郷町役場",
+  "postal_code": "529-1169",
+  "address": "犬上郡豊郷町石畑375",
+  "phone": "0749-35-8111",
+  "official_url": "http://www.town.toyosato.shiga.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25442",
+  "name": "甲良町役場",
+  "postal_code": "522-0244",
+  "address": "犬上郡甲良町在士353-1",
+  "phone": "0749-38-3311",
+  "official_url": "http://www.kouratown.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "25443",
+  "name": "多賀町役場",
+  "postal_code": "522-0341",
+  "address": "犬上郡多賀町多賀324",
+  "phone": "0749-48-8111",
+  "official_url": "http://www.town.taga.lg.jp/",
+  "source_url": "https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/320154.html,https://www.pref.shiga.lg.jp/kensei/gaiyou/shicyou/20959.html",
+  "verified_at": "2026-07-07"
+ }
+]

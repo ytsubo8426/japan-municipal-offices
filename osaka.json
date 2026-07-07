@@ -1,0 +1,742 @@
+[
+ {
+  "city_code": "27100",
+  "name": "大阪市役所",
+  "postal_code": "530-8201",
+  "address": "大阪市北区中之島1丁目3番20号",
+  "phone": "06-6208-8181",
+  "official_url": "https://www.city.osaka.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27102",
+  "name": "大阪市都島区役所",
+  "postal_code": "534-8501",
+  "address": "大阪市都島区中野町2-16-20",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/miyakojima/page/0000016183.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27103",
+  "name": "大阪市福島区役所",
+  "postal_code": "553-8501",
+  "address": "大阪市福島区大開1-8-1",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/fukushima/page/0000001415.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27104",
+  "name": "大阪市此花区役所",
+  "postal_code": "554-8501",
+  "address": "大阪市此花区春日出北1-8-4",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/konohana/page/0000000976.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27106",
+  "name": "大阪市西区役所",
+  "postal_code": "550-8501",
+  "address": "大阪市西区新町4-5-14",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/nishi/page/0000000998.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27107",
+  "name": "大阪市港区役所",
+  "postal_code": "552-8510",
+  "address": "大阪市港区市岡1-15-25",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/minato/page/0000320362.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27108",
+  "name": "大阪市大正区役所",
+  "postal_code": "551-8501",
+  "address": "大阪市大正区千島2-7-95",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/taisho/page/0000077091.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27109",
+  "name": "大阪市天王寺区役所",
+  "postal_code": "543-8501",
+  "address": "大阪市天王寺区真法院町20-33",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/tennoji/category/3202-1-1-0-0-0-0-0-0-0.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27111",
+  "name": "大阪市浪速区役所",
+  "postal_code": "556-8501",
+  "address": "大阪市浪速区敷津東1-4-20",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/naniwa/page/0000000179.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27113",
+  "name": "大阪市西淀川区役所",
+  "postal_code": "555-8501",
+  "address": "大阪市西淀川区御幣島1-2-10",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/nishiyodogawa/page/0000029225.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27114",
+  "name": "大阪市東淀川区役所",
+  "postal_code": "533-8501",
+  "address": "大阪市東淀川区豊新2-1-4",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/higashiyodogawa/page/0000000457.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27115",
+  "name": "大阪市東成区役所",
+  "postal_code": "537-8501",
+  "address": "大阪市東成区大今里西2-8-4",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/higashinari/page/0000182755.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27116",
+  "name": "大阪市生野区役所",
+  "postal_code": "544-8501",
+  "address": "大阪市生野区勝山南3-1-19",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/ikuno/page/0000000473.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27117",
+  "name": "大阪市旭区役所",
+  "postal_code": "535-8501",
+  "address": "大阪市旭区大宮1-1-17",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/asahi/category/3381-1-0-0-0-0-0-0-0-0.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27118",
+  "name": "大阪市城東区役所",
+  "postal_code": "536-8510",
+  "address": "大阪市城東区中央3-5-45",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/joto/page/0000142043.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27119",
+  "name": "大阪市阿倍野区役所",
+  "postal_code": "545-8501",
+  "address": "大阪市阿倍野区文の里1-1-40",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/abeno/page/0000001174.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27120",
+  "name": "大阪市住吉区役所",
+  "postal_code": "558-8501",
+  "address": "大阪市住吉区南住吉3-15-55",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/sumiyoshi/page/0000158918.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27121",
+  "name": "大阪市東住吉区役所",
+  "postal_code": "546-8501",
+  "address": "大阪市東住吉区東田辺1-13-4",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000626425.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27122",
+  "name": "大阪市西成区役所",
+  "postal_code": "557-8501",
+  "address": "大阪市西成区岸里1-5-20",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/nishinari/page/0000000670.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27123",
+  "name": "大阪市淀川区役所",
+  "postal_code": "532-8501",
+  "address": "大阪市淀川区十三東2-3-3",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/yodogawa/page/0000037856.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27124",
+  "name": "大阪市鶴見区役所",
+  "postal_code": "538-8510",
+  "address": "大阪市鶴見区横堤5-4-19",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/tsurumi/page/0000384917.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27125",
+  "name": "大阪市住之江区役所",
+  "postal_code": "559-8601",
+  "address": "大阪市住之江区御崎3-1-17",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/suminoe/page/0000001831.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27126",
+  "name": "大阪市平野区役所",
+  "postal_code": "547-8580",
+  "address": "大阪市平野区背戸口3-8-19",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/hirano/category/3473-14-0-0-0-0-0-0-0-0.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27127",
+  "name": "大阪市北区役所",
+  "postal_code": "530-8401",
+  "address": "大阪市北区扇町2-1-27",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/kita/page/0000215984.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27128",
+  "name": "大阪市中央区役所",
+  "postal_code": "541-8518",
+  "address": "大阪市中央区久太郎町1-2-27",
+  "phone": null,
+  "official_url": "https://www.city.osaka.lg.jp/chuo/category/4037-0-0-0-0-0-0-0-0-0.html",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27140",
+  "name": "堺市役所",
+  "postal_code": "590-0078",
+  "address": "堺市堺区南瓦町3番1号",
+  "phone": "072-233-1101",
+  "official_url": "https://www.city.sakai.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27141",
+  "name": "堺市堺区役所",
+  "postal_code": "590-0078",
+  "address": "堺市堺区南瓦町3番1号",
+  "phone": null,
+  "official_url": "https://www.city.sakai.lg.jp/sakai/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27142",
+  "name": "堺市中区役所",
+  "postal_code": "599-8236",
+  "address": "堺市中区深井沢町2470番地7",
+  "phone": null,
+  "official_url": "https://www.city.sakai.lg.jp/naka/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27143",
+  "name": "堺市東区役所",
+  "postal_code": "599-8112",
+  "address": "堺市東区日置荘原寺町195番地1",
+  "phone": null,
+  "official_url": "https://www.city.sakai.lg.jp/higashi/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27144",
+  "name": "堺市西区役所",
+  "postal_code": "593-8324",
+  "address": "堺市西区鳳東町6丁600番地",
+  "phone": null,
+  "official_url": "https://www.city.sakai.lg.jp/nishi/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27145",
+  "name": "堺市南区役所",
+  "postal_code": "590-0141",
+  "address": "堺市南区桃山台1丁1番1号",
+  "phone": null,
+  "official_url": "https://www.city.sakai.lg.jp/minami/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27146",
+  "name": "堺市北区役所",
+  "postal_code": "591-8021",
+  "address": "堺市北区新金岡町5丁1番4号",
+  "phone": null,
+  "official_url": "https://www.city.sakai.lg.jp/kita/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27147",
+  "name": "堺市美原区役所",
+  "postal_code": "587-8585",
+  "address": "堺市美原区黒山167番地1",
+  "phone": null,
+  "official_url": "https://www.city.sakai.lg.jp/mihara/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27202",
+  "name": "岸和田市役所",
+  "postal_code": "596-8510",
+  "address": "岸和田市岸城町7番1号",
+  "phone": "072-423-2121",
+  "official_url": "https://www.city.kishiwada.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27203",
+  "name": "豊中市役所",
+  "postal_code": "561-8501",
+  "address": "豊中市中桜塚3丁目1番1号",
+  "phone": "06-6858-5050",
+  "official_url": "http://www.city.toyonaka.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27204",
+  "name": "池田市役所",
+  "postal_code": "563-8666",
+  "address": "池田市城南1-1-1",
+  "phone": "072-752-1111",
+  "official_url": "http://www.city.ikeda.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27205",
+  "name": "吹田市役所",
+  "postal_code": "564-8550",
+  "address": "吹田市泉町1丁目3番40号",
+  "phone": "06-6384-1231",
+  "official_url": "http://www.city.suita.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27206",
+  "name": "泉大津市役所",
+  "postal_code": "595-8686",
+  "address": "泉大津市東雲町9番12号",
+  "phone": "0725-33-1131",
+  "official_url": "http://www.city.izumiotsu.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27207",
+  "name": "高槻市役所",
+  "postal_code": "569-0067",
+  "address": "高槻市桃園町2番1号",
+  "phone": "072-674-7111",
+  "official_url": "http://www.city.takatsuki.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27208",
+  "name": "貝塚市役所",
+  "postal_code": "597-8585",
+  "address": "貝塚市畠中1丁目17番1号",
+  "phone": "072-423-2151",
+  "official_url": "http://www.city.kaizuka.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27209",
+  "name": "守口市役所",
+  "postal_code": "570-8666",
+  "address": "守口市京阪本通 2丁目5番5号",
+  "phone": "06-6992-1221",
+  "official_url": "http://www.city.moriguchi.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27210",
+  "name": "枚方市役所",
+  "postal_code": "573-8666",
+  "address": "枚方市大垣内町2丁目1番20号",
+  "phone": "072-841-1221",
+  "official_url": "https://www.city.hirakata.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27211",
+  "name": "茨木市役所",
+  "postal_code": "567-8505",
+  "address": "茨木市駅前三丁目8番13号",
+  "phone": "072-622-8121",
+  "official_url": "http://www.city.ibaraki.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27212",
+  "name": "八尾市役所",
+  "postal_code": "581-0003",
+  "address": "八尾市本町一丁目1番1号",
+  "phone": "072-991-3881",
+  "official_url": "http://www.city.yao.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27213",
+  "name": "泉佐野市役所",
+  "postal_code": "598-8550",
+  "address": "泉佐野市市場東1丁目1番1号",
+  "phone": "072-463-1212",
+  "official_url": "http://www.city.izumisano.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27214",
+  "name": "富田林市役所",
+  "postal_code": "584-8511",
+  "address": "富田林市常盤町1-1",
+  "phone": "0721-25-1000",
+  "official_url": "https://www.city.tondabayashi.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27215",
+  "name": "寝屋川市役所",
+  "postal_code": "572-8555",
+  "address": "寝屋川市本町1番1号",
+  "phone": "072-824-1181",
+  "official_url": "http://www.city.neyagawa.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27216",
+  "name": "河内長野市役所",
+  "postal_code": "586-8501",
+  "address": "河内長野市原町一丁目1番1号",
+  "phone": "0721-53-1111",
+  "official_url": "http://www.city.kawachinagano.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27217",
+  "name": "松原市役所",
+  "postal_code": "580-8501",
+  "address": "松原市阿保1丁目1番1号",
+  "phone": "072-334-1550",
+  "official_url": "https://www.city.matsubara.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27218",
+  "name": "大東市役所",
+  "postal_code": "574-8555",
+  "address": "大東市谷川1丁目1番1号",
+  "phone": "072-872-2181",
+  "official_url": "http://www.city.daito.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27219",
+  "name": "和泉市役所",
+  "postal_code": "594-8501",
+  "address": "和泉市府中町二丁目7番5号",
+  "phone": "0725-41-1551",
+  "official_url": "http://www.city.osaka-izumi.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27220",
+  "name": "箕面市役所",
+  "postal_code": "562-0003",
+  "address": "箕面市西小路4丁目6番1号",
+  "phone": "072-723-2121",
+  "official_url": "http://www.city.minoh.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27221",
+  "name": "柏原市役所",
+  "postal_code": "582-8555",
+  "address": "柏原市安堂町1番55号",
+  "phone": "072-972-1501",
+  "official_url": "http://www.city.kashiwara.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27222",
+  "name": "羽曳野市役所",
+  "postal_code": "583-8585",
+  "address": "羽曳野市誉田4-1-1",
+  "phone": "072-958-1111",
+  "official_url": "http://www.city.habikino.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27223",
+  "name": "門真市役所",
+  "postal_code": "571-8585",
+  "address": "門真市中町1-1",
+  "phone": "06-6902-1231",
+  "official_url": "http://www.city.kadoma.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27224",
+  "name": "摂津市役所",
+  "postal_code": "566-8555",
+  "address": "摂津市三島1丁目1番1号",
+  "phone": "06-6383-1111",
+  "official_url": "http://www.city.settsu.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27225",
+  "name": "高石市役所",
+  "postal_code": "592-8585",
+  "address": "高石市加茂4丁目1番1号",
+  "phone": "072-265-1001",
+  "official_url": "http://www.city.takaishi.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27226",
+  "name": "藤井寺市役所",
+  "postal_code": "583-8583",
+  "address": "藤井寺市岡1丁目1番1号",
+  "phone": "072-939-1111",
+  "official_url": "http://www.city.fujiidera.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27227",
+  "name": "東大阪市役所",
+  "postal_code": "577-8521",
+  "address": "東大阪市荒本北一丁目1番1号",
+  "phone": "06-4309-3000",
+  "official_url": "http://www.city.higashiosaka.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27228",
+  "name": "泉南市役所",
+  "postal_code": "590-0592",
+  "address": "泉南市樽井一丁目1番1号",
+  "phone": "072-483-0001",
+  "official_url": "https://www.city.sennan.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27229",
+  "name": "四條畷市役所",
+  "postal_code": "575-8501",
+  "address": "四條畷市中野本町1番1号",
+  "phone": "072-877-2121",
+  "official_url": "http://www.city.shijonawate.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27230",
+  "name": "交野市役所",
+  "postal_code": "576-8501",
+  "address": "交野市私部1丁目1番1号",
+  "phone": "072-892-0121",
+  "official_url": "http://www.city.katano.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27231",
+  "name": "大阪狭山市役所",
+  "postal_code": "589-8501",
+  "address": "大阪狭山市狭山一丁目2384番地の1",
+  "phone": "072-366-0011",
+  "official_url": "http://www.city.osakasayama.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27232",
+  "name": "阪南市役所",
+  "postal_code": "599-0292",
+  "address": "阪南市尾崎町35番地の1",
+  "phone": "072-471-5678",
+  "official_url": "http://www.city.hannan.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27301",
+  "name": "島本町役場",
+  "postal_code": "618-8570",
+  "address": "三島郡島本町桜井二丁目1番1号",
+  "phone": "075-961-5151",
+  "official_url": "https://www.town.shimamoto.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27321",
+  "name": "豊能町役場",
+  "postal_code": "563-0292",
+  "address": "豊能郡豊能町余野414番地の1",
+  "phone": "072-739-0001",
+  "official_url": "http://www.town.toyono.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27322",
+  "name": "能勢町役場",
+  "postal_code": "563-0392",
+  "address": "豊能郡能勢町宿野28",
+  "phone": "072-734-0001",
+  "official_url": "http://www.town.nose.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27341",
+  "name": "忠岡町役場",
+  "postal_code": "595-0805",
+  "address": "泉北郡忠岡町忠岡東1丁目34番1号",
+  "phone": "0725-22-1122",
+  "official_url": "http://www.town.tadaoka.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27361",
+  "name": "熊取町役場",
+  "postal_code": "590-0495",
+  "address": "泉南郡熊取町野田1丁目1番1号",
+  "phone": "072-452-1001",
+  "official_url": "http://www.town.kumatori.lg.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27362",
+  "name": "田尻町役場",
+  "postal_code": "598-8588",
+  "address": "泉南郡田尻町嘉祥寺375番地1",
+  "phone": "072-466-1000",
+  "official_url": "http://www.town.tajiri.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27366",
+  "name": "岬町役場",
+  "postal_code": "599-0392",
+  "address": "泉南郡岬町深日2000-1",
+  "phone": "072-492-2001",
+  "official_url": "http://www.town.misaki.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27381",
+  "name": "太子町役場",
+  "postal_code": "583-8580",
+  "address": "南河内郡太子町大字山田88番地",
+  "phone": "0721-98-0300",
+  "official_url": "http://www.town.taishi.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27382",
+  "name": "河南町役場",
+  "postal_code": "585-8585",
+  "address": "南河内郡河南町大字白木1359番地の6",
+  "phone": "0721-93-2500",
+  "official_url": "http://www.town.kanan.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "27383",
+  "name": "千早赤阪村役場",
+  "postal_code": "585-8501",
+  "address": "南河内郡千早赤阪村大字水分180番地",
+  "phone": "0721-72-0081",
+  "official_url": "http://www.vill.chihayaakasaka.osaka.jp/",
+  "source_url": "https://www.pref.osaka.lg.jp/o070050/koho/links/city.html,https://www.city.osaka.lg.jp/fukushi/page/0000371237.html,https://www.city.sakai.lg.jp/shisei/gaiyo/shozaichi.html",
+  "verified_at": "2026-07-07"
+ }
+]

@@ -1,0 +1,412 @@
+[
+ {
+  "city_code": "22100",
+  "name": "静岡市役所",
+  "postal_code": "420-8602",
+  "address": "静岡市葵区追手町5番1号",
+  "phone": "054-254-2111",
+  "official_url": "https://www.city.shizuoka.lg.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22101",
+  "name": "静岡市葵区役所",
+  "postal_code": "420-8602",
+  "address": "静岡市葵区追手町5番1号",
+  "phone": "054-254-2111",
+  "official_url": "https://www.city.shizuoka.lg.jp/p018649.html",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22102",
+  "name": "静岡市駿河区役所",
+  "postal_code": "422-8550",
+  "address": "静岡市駿河区南八幡町10番40号",
+  "phone": "054-202-5811",
+  "official_url": "https://www.city.shizuoka.lg.jp/p018650.html",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22103",
+  "name": "静岡市清水区役所",
+  "postal_code": "424-0822",
+  "address": "静岡市清水区旭町6番8号",
+  "phone": "054-354-2023",
+  "official_url": "https://www.city.shizuoka.lg.jp/p018651.html",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22130",
+  "name": "浜松市役所",
+  "postal_code": "430-8652",
+  "address": "浜松市中央区元城町103番地の2",
+  "phone": "053-457-2111",
+  "official_url": "https://www.city.hamamatsu.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22138",
+  "name": "浜松市中央区役所",
+  "postal_code": "430-8652",
+  "address": "浜松市中央区元城町103番地の2",
+  "phone": "053-457-2111",
+  "official_url": "https://www.city.hamamatsu.shizuoka.jp/maps/c-ward.html",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22139",
+  "name": "浜松市浜名区役所",
+  "postal_code": "434-8550",
+  "address": "浜松市浜名区貴布祢3000番地",
+  "phone": "053-587-3111",
+  "official_url": "https://www.city.hamamatsu.shizuoka.jp/maps/hk-ward.html",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22140",
+  "name": "浜松市天竜区役所",
+  "postal_code": "431-3392",
+  "address": "浜松市天竜区二俣町二俣481番地",
+  "phone": "053-926-1111",
+  "official_url": "https://www.city.hamamatsu.shizuoka.jp/maps/t-ward.html",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22203",
+  "name": "沼津市役所",
+  "postal_code": "410-8601",
+  "address": "沼津市御幸町16番1号",
+  "phone": "055-931-2500",
+  "official_url": "http://www.city.numazu.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22205",
+  "name": "熱海市役所",
+  "postal_code": "413-8550",
+  "address": "熱海市中央町1-1",
+  "phone": "0557-86-6000",
+  "official_url": "https://www.city.atami.lg.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22206",
+  "name": "三島市役所",
+  "postal_code": "411-8666",
+  "address": "三島市北田町4-47",
+  "phone": "055-975-3111",
+  "official_url": "https://www.city.mishima.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22207",
+  "name": "富士宮市役所",
+  "postal_code": "418-8601",
+  "address": "富士宮市弓沢町150番地",
+  "phone": "0544-22-1111",
+  "official_url": "http://www.city.fujinomiya.lg.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22208",
+  "name": "伊東市役所",
+  "postal_code": "414-8555",
+  "address": "伊東市大原二丁目1番1号",
+  "phone": "0557-36-0111",
+  "official_url": "http://www.city.ito.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22209",
+  "name": "島田市役所",
+  "postal_code": "427-8501",
+  "address": "島田市中央町1番の1",
+  "phone": "0547-37-5111",
+  "official_url": "http://www.city.shimada.shizuoka.jp/index.html",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22210",
+  "name": "富士市役所",
+  "postal_code": "417-8601",
+  "address": "富士市永田町1丁目100番地",
+  "phone": "0545-51-0123",
+  "official_url": "http://www.city.fuji.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22211",
+  "name": "磐田市役所",
+  "postal_code": "438-8650",
+  "address": "磐田市国府台3番地1",
+  "phone": "0538-37-2111",
+  "official_url": "http://www.city.iwata.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22212",
+  "name": "焼津市役所",
+  "postal_code": "425-8502",
+  "address": "焼津市本町2丁目16番32号",
+  "phone": "054-626-1111",
+  "official_url": "https://www.city.yaizu.lg.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22213",
+  "name": "掛川市役所",
+  "postal_code": "436-8650",
+  "address": "掛川市長谷一丁目1番地の1",
+  "phone": "0537-21-1111",
+  "official_url": "http://www.city.kakegawa.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22214",
+  "name": "藤枝市役所",
+  "postal_code": "426-8722",
+  "address": "藤枝市岡出山一丁目11番1号",
+  "phone": "054-643-3111",
+  "official_url": "http://www.city.fujieda.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22215",
+  "name": "御殿場市役所",
+  "postal_code": "412-8601",
+  "address": "御殿場市萩原483番地",
+  "phone": "0550-83-1212",
+  "official_url": "https://www.city.gotemba.lg.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22216",
+  "name": "袋井市役所",
+  "postal_code": "437-8666",
+  "address": "袋井市新屋一丁目1番地の1",
+  "phone": "0538-43-2111",
+  "official_url": "http://www.city.fukuroi.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22219",
+  "name": "下田市役所",
+  "postal_code": "415-8501",
+  "address": "下田市東本郷一丁目5-18",
+  "phone": "0558-22-2211",
+  "official_url": "http://www.city.shimoda.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22220",
+  "name": "裾野市役所",
+  "postal_code": "410-1192",
+  "address": "裾野市佐野1059",
+  "phone": "055-992-1111",
+  "official_url": "http://www.city.susono.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22221",
+  "name": "湖西市役所",
+  "postal_code": "431-0492",
+  "address": "湖西市吉美3268番地",
+  "phone": "053-576-1111",
+  "official_url": "http://www.city.kosai.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22222",
+  "name": "伊豆市役所",
+  "postal_code": "410-2413",
+  "address": "伊豆市小立野38-2",
+  "phone": "0558-72-1111",
+  "official_url": "http://www.city.izu.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22223",
+  "name": "御前崎市役所",
+  "postal_code": "437-1692",
+  "address": "御前崎市池新田5585",
+  "phone": "0537-85-1111",
+  "official_url": "http://www.city.omaezaki.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22224",
+  "name": "菊川市役所",
+  "postal_code": "439-8650",
+  "address": "菊川市堀之内61",
+  "phone": "0537-35-2111",
+  "official_url": "http://www.city.kikugawa.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22225",
+  "name": "伊豆の国市役所",
+  "postal_code": "410-2292",
+  "address": "伊豆の国市長岡340-1",
+  "phone": "055-948-1411",
+  "official_url": "http://www.city.izunokuni.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22226",
+  "name": "牧之原市役所",
+  "postal_code": "421-0495",
+  "address": "牧之原市静波447番地1",
+  "phone": "0548-23-0001",
+  "official_url": "http://www.city.makinohara.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22301",
+  "name": "東伊豆町役場",
+  "postal_code": "413-0411",
+  "address": "賀茂郡東伊豆町稲取3354",
+  "phone": "0557-95-1100",
+  "official_url": "https://www.town.higashiizu.lg.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22302",
+  "name": "河津町役場",
+  "postal_code": "413-0595",
+  "address": "賀茂郡河津町田中212-2",
+  "phone": "0558-34-1111",
+  "official_url": "http://www.town.kawazu.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22304",
+  "name": "南伊豆町役場",
+  "postal_code": "415-0392",
+  "address": "賀茂郡南伊豆町下賀茂315番地の1",
+  "phone": "0558-62-1111",
+  "official_url": "http://www.town.minamiizu.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22305",
+  "name": "松崎町役場",
+  "postal_code": "410-3696",
+  "address": "賀茂郡松崎町宮内301番地の1",
+  "phone": "0558-42-1111",
+  "official_url": "http://www.town.matsuzaki.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22306",
+  "name": "西伊豆町役場",
+  "postal_code": "410-3514",
+  "address": "賀茂郡西伊豆町仁科401番地の1",
+  "phone": "0558-52-1111",
+  "official_url": "http://www.town.nishiizu.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22325",
+  "name": "函南町役場",
+  "postal_code": "419-0192",
+  "address": "田方郡函南町平井717-13",
+  "phone": "055-978-2250",
+  "official_url": "http://www.town.kannami.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22341",
+  "name": "清水町役場",
+  "postal_code": "411-8650",
+  "address": "駿東郡清水町堂庭210番地の1",
+  "phone": "055-973-1111",
+  "official_url": "http://www.town.shimizu.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22342",
+  "name": "長泉町役場",
+  "postal_code": "411-8668",
+  "address": "駿東郡長泉町中土狩828番地",
+  "phone": "055-986-2131",
+  "official_url": "http://www.town.nagaizumi.lg.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22344",
+  "name": "小山町役場",
+  "postal_code": "410-1395",
+  "address": "駿東郡小山町藤曲57-2",
+  "phone": "0550-76-1111",
+  "official_url": "http://www.fuji-oyama.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22424",
+  "name": "吉田町役場",
+  "postal_code": "421-0395",
+  "address": "榛原郡吉田町住吉87番地",
+  "phone": "0548-33-1111",
+  "official_url": "http://www.town.yoshida.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22429",
+  "name": "川根本町役場",
+  "postal_code": "428-0313",
+  "address": "榛原郡川根本町上長尾627番地",
+  "phone": "0547-56-1111",
+  "official_url": "http://www.town.kawanehon.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "22461",
+  "name": "森町役場",
+  "postal_code": "437-0293",
+  "address": "周智郡森町森2101-1",
+  "phone": "0538-85-2111",
+  "official_url": "http://www.town.morimachi.shizuoka.jp/",
+  "source_url": "https://www.pref.shizuoka.jp/kensei/shichozaisei/1044883/1012124.html,https://www.pref.shizuoka.jp/kensei/link/1007806.html,https://www.city.shizuoka.lg.jp/p018649.html,https://www.city.hamamatsu.shizuoka.jp/shisetsu-annai/shiyakusho/",
+  "verified_at": "2026-07-07"
+ }
+]

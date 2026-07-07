@@ -1,0 +1,302 @@
+[
+ {
+  "city_code": "30201",
+  "name": "和歌山市役所",
+  "postal_code": "640-8511",
+  "address": "和歌山市七番丁23番地",
+  "phone": "073-432-0001",
+  "official_url": "http://www.city.wakayama.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30202",
+  "name": "海南市役所",
+  "postal_code": "642-8501",
+  "address": "海南市南赤阪11番地",
+  "phone": "073-482-4111",
+  "official_url": "https://www.city.kainan.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30203",
+  "name": "橋本市役所",
+  "postal_code": "648-8585",
+  "address": "橋本市東家一丁目1番地1",
+  "phone": "0736-33-1111",
+  "official_url": "https://www.city.hashimoto.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30204",
+  "name": "有田市役所",
+  "postal_code": "649-0392",
+  "address": "有田市箕島50番地",
+  "phone": "0737-83-1111",
+  "official_url": "https://www.city.arida.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30205",
+  "name": "御坊市役所",
+  "postal_code": "644-8686",
+  "address": "御坊市薗350番地2",
+  "phone": "0738-22-4111",
+  "official_url": "https://www.city.gobo.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30206",
+  "name": "田辺市役所",
+  "postal_code": "646-8545",
+  "address": "田辺市東山一丁目5番地1",
+  "phone": "0739-22-5300",
+  "official_url": "https://www.city.tanabe.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30207",
+  "name": "新宮市役所",
+  "postal_code": "647-8555",
+  "address": "新宮市春日1番1号",
+  "phone": "0735-23-3333",
+  "official_url": "https://www.city.shingu.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30208",
+  "name": "紀の川市役所",
+  "postal_code": "649-6492",
+  "address": "紀の川市西大井338番地",
+  "phone": "0736-77-2511",
+  "official_url": "https://www.city.kinokawa.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30209",
+  "name": "岩出市役所",
+  "postal_code": "649-6292",
+  "address": "岩出市西野209番地",
+  "phone": "0736-62-2141",
+  "official_url": "https://www.city.iwade.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30304",
+  "name": "紀美野町役場",
+  "postal_code": "640-1192",
+  "address": "紀美野町動木287番地",
+  "phone": "073-489-2430",
+  "official_url": "https://www.town.kimino.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30341",
+  "name": "かつらぎ町役場",
+  "postal_code": "649-7192",
+  "address": "かつらぎ町丁ノ町2160番地",
+  "phone": "0736-22-0300",
+  "official_url": "https://www.town.katsuragi.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30343",
+  "name": "九度山町役場",
+  "postal_code": "648-0198",
+  "address": "九度山町九度山1190番地",
+  "phone": "0736-54-2019",
+  "official_url": "https://www.town.kudoyama.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30344",
+  "name": "高野町役場",
+  "postal_code": "648-0281",
+  "address": "高野町高野山636番地",
+  "phone": "0736-56-3000",
+  "official_url": "https://www.town.koya.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30361",
+  "name": "湯浅町役場",
+  "postal_code": "643-0002",
+  "address": "湯浅町青木668番地1",
+  "phone": "0737-63-2525",
+  "official_url": "https://www.town.yuasa.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30362",
+  "name": "広川町役場",
+  "postal_code": "643-0071",
+  "address": "広川町広1500番地",
+  "phone": "0737-63-1122",
+  "official_url": "https://www.town.hirogawa.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30366",
+  "name": "有田川町役場",
+  "postal_code": "643-0021",
+  "address": "有田川町下津野2018番地4",
+  "phone": "0737-52-2111",
+  "official_url": "https://www.town.aridagawa.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30381",
+  "name": "美浜町役場",
+  "postal_code": "644-0044",
+  "address": "美浜町和田1138番地278",
+  "phone": "0738-22-4123",
+  "official_url": "http://www.town.mihama.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30382",
+  "name": "日高町役場",
+  "postal_code": "649-1213",
+  "address": "日高町高家626番地",
+  "phone": "0738-63-2051",
+  "official_url": "http://www.town.wakayama-hidaka.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30383",
+  "name": "由良町役場",
+  "postal_code": "649-1111",
+  "address": "由良町里1220番地1",
+  "phone": "0738-65-0200",
+  "official_url": "http://www.town.yura.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30390",
+  "name": "印南町役場",
+  "postal_code": "649-1534",
+  "address": "印南町印南2570",
+  "phone": "0738-42-0120",
+  "official_url": "https://www.town.wakayama-inami.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30391",
+  "name": "みなべ町役場",
+  "postal_code": "645-0002",
+  "address": "みなべ町芝742番地",
+  "phone": "0739-72-2015",
+  "official_url": "http://www.town.minabe.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30392",
+  "name": "日高川町役場",
+  "postal_code": "649-1324",
+  "address": "日高川町土生160番地",
+  "phone": "0738-22-1700",
+  "official_url": "https://www.town.hidakagawa.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30401",
+  "name": "白浜町役場",
+  "postal_code": "649-2211",
+  "address": "白浜町1600番地",
+  "phone": "0739-43-5555",
+  "official_url": "http://www.town.shirahama.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30404",
+  "name": "上富田町役場",
+  "postal_code": "649-2192",
+  "address": "上富田町朝来763番地",
+  "phone": "0739-47-0550",
+  "official_url": "http://www.town.kamitonda.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30406",
+  "name": "すさみ町役場",
+  "postal_code": "649-2621",
+  "address": "すさみ町周参見4089番地",
+  "phone": "0739-55-2004",
+  "official_url": "http://www.town.susami.lg.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30421",
+  "name": "那智勝浦町役場",
+  "postal_code": "649-5392",
+  "address": "那智勝浦町築地七丁目1番地1",
+  "phone": "0735-52-0555",
+  "official_url": "https://www.town.nachikatsuura.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30422",
+  "name": "太地町役場",
+  "postal_code": "649-5171",
+  "address": "太地町太地3767番地1",
+  "phone": "0735-59-2335",
+  "official_url": "https://www.town.taiji.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30424",
+  "name": "古座川町役場",
+  "postal_code": "649-4104",
+  "address": "古座川町高池673番地2",
+  "phone": "0735-72-0180",
+  "official_url": "http://www.town.kozagawa.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30427",
+  "name": "北山村役場",
+  "postal_code": "647-1603",
+  "address": "北山村大沼42番地",
+  "phone": "0735-49-2331",
+  "official_url": "https://www.vill.kitayama.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "30428",
+  "name": "串本町役場",
+  "postal_code": "649-3592",
+  "address": "串本町サンゴ台690番地5",
+  "phone": "0735-62-0555",
+  "official_url": "https://www.town.kushimoto.wakayama.jp/",
+  "source_url": "https://www.pref.wakayama.lg.jp/prefg/010500/shichousonzei/yakubaichiran.html , https://www.pref.wakayama.lg.jp/link/shichoson.html",
+  "verified_at": "2026-07-07"
+ }
+]
