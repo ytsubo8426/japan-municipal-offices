@@ -1,0 +1,1952 @@
+[
+ {
+  "city_code": "01100",
+  "name": "札幌市役所",
+  "postal_code": "060-8611",
+  "address": "札幌市中央区北1条西2丁目",
+  "phone": "011-211-2111",
+  "official_url": "https://www.city.sapporo.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01101",
+  "name": "札幌市中央区役所",
+  "postal_code": "060-8612",
+  "address": "札幌市中央区南3条西11丁目",
+  "phone": "011-231-2400",
+  "official_url": "https://www.city.sapporo.jp/chuo/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01102",
+  "name": "札幌市北区役所",
+  "postal_code": "001-8612",
+  "address": "札幌市北区北24条西6丁目1-1",
+  "phone": "011-757-2400",
+  "official_url": "https://www.city.sapporo.jp/kitaku/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01103",
+  "name": "札幌市東区役所",
+  "postal_code": "065-8612",
+  "address": "札幌市東区北11条東7丁目1-1",
+  "phone": "011-741-2400",
+  "official_url": "https://www.city.sapporo.jp/higashi/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01104",
+  "name": "札幌市白石区役所",
+  "postal_code": "003-8612",
+  "address": "札幌市白石区南郷通1丁目南8-1",
+  "phone": "011-861-2400",
+  "official_url": "https://www.city.sapporo.jp/shiroishi/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01105",
+  "name": "札幌市豊平区役所",
+  "postal_code": "062-8612",
+  "address": "札幌市豊平区平岸6条10丁目1-1",
+  "phone": "011-822-2400",
+  "official_url": "https://www.city.sapporo.jp/toyohira/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01106",
+  "name": "札幌市南区役所",
+  "postal_code": "005-8612",
+  "address": "札幌市南区真駒内幸町2丁目2-1",
+  "phone": "011-582-2400",
+  "official_url": "https://www.city.sapporo.jp/minami/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01107",
+  "name": "札幌市西区役所",
+  "postal_code": "063-8612",
+  "address": "札幌市西区琴似2条7丁目1-1",
+  "phone": "011-641-2400",
+  "official_url": "https://www.city.sapporo.jp/nishi/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01108",
+  "name": "札幌市厚別区役所",
+  "postal_code": "004-8612",
+  "address": "札幌市厚別区厚別中央1条5丁目3-2",
+  "phone": "011-895-2400",
+  "official_url": "https://www.city.sapporo.jp/atsubetsu/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01109",
+  "name": "札幌市手稲区役所",
+  "postal_code": "006-8612",
+  "address": "札幌市手稲区前田1条11丁目1-10",
+  "phone": "011-681-2400",
+  "official_url": "https://www.city.sapporo.jp/teine/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01110",
+  "name": "札幌市清田区役所",
+  "postal_code": "004-8613",
+  "address": "札幌市清田区平岡1条1丁目2-1",
+  "phone": "011-889-2400",
+  "official_url": "https://www.city.sapporo.jp/kiyota/index.html",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01202",
+  "name": "函館市役所",
+  "postal_code": "040-8666",
+  "address": "函館市東雲町4番13号",
+  "phone": "0138-21-3111",
+  "official_url": "https://www.city.hakodate.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01203",
+  "name": "小樽市役所",
+  "postal_code": "047-8660",
+  "address": "小樽市花園2丁目12番1号",
+  "phone": "0134-32-4111",
+  "official_url": "https://www.city.otaru.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01204",
+  "name": "旭川市役所",
+  "postal_code": "070-8525",
+  "address": "旭川市7条通9丁目48番地",
+  "phone": "0166-26-1111",
+  "official_url": "https://www.city.asahikawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01205",
+  "name": "室蘭市役所",
+  "postal_code": "051-8511",
+  "address": "室蘭市幸町1番2号",
+  "phone": "0143-22-1111",
+  "official_url": "https://www.city.muroran.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01206",
+  "name": "釧路市役所",
+  "postal_code": "085-8505",
+  "address": "釧路市黒金町7丁目5番地",
+  "phone": "0154-23-5151",
+  "official_url": "https://www.city.kushiro.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01207",
+  "name": "帯広市役所",
+  "postal_code": "080-8670",
+  "address": "帯広市西5条南7丁目1番地",
+  "phone": "0155-24-4111",
+  "official_url": "https://www.city.obihiro.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01208",
+  "name": "北見市役所",
+  "postal_code": "090-8509",
+  "address": "北見市大通西3丁目1番地1",
+  "phone": "0157-23-7111",
+  "official_url": "https://www.city.kitami.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01209",
+  "name": "夕張市役所",
+  "postal_code": "068-0492",
+  "address": "夕張市本町4丁目2番地",
+  "phone": "0123-52-3131",
+  "official_url": "https://www.city.yubari.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01210",
+  "name": "岩見沢市役所",
+  "postal_code": "068-8686",
+  "address": "岩見沢市鳩が丘1丁目1番1号",
+  "phone": "0126-23-4111",
+  "official_url": "https://www.city.iwamizawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01211",
+  "name": "網走市役所",
+  "postal_code": "093-8555",
+  "address": "網走市南6条東4丁目1番地",
+  "phone": "0152-44-6111",
+  "official_url": "https://www.city.abashiri.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01212",
+  "name": "留萌市役所",
+  "postal_code": "077-8601",
+  "address": "留萌市幸町1丁目11番地",
+  "phone": "0164-42-1801",
+  "official_url": "https://www.e-rumoi.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01213",
+  "name": "苫小牧市役所",
+  "postal_code": "053-8722",
+  "address": "苫小牧市旭町4丁目5番6号",
+  "phone": "0144-32-6111",
+  "official_url": "http://www.city.tomakomai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01214",
+  "name": "稚内市役所",
+  "postal_code": "097-8686",
+  "address": "稚内市中央3丁目13番15号",
+  "phone": "0162-23-6161",
+  "official_url": "https://www.city.wakkanai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01215",
+  "name": "美唄市役所",
+  "postal_code": "072-8660",
+  "address": "美唄市西3条南1丁目1番1号",
+  "phone": "0126-62-3131",
+  "official_url": "http://www.city.bibai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01216",
+  "name": "芦別市役所",
+  "postal_code": "075-8711",
+  "address": "芦別市北1条東1丁目3番地",
+  "phone": "0124-22-2111",
+  "official_url": "https://www.city.ashibetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01217",
+  "name": "江別市役所",
+  "postal_code": "067-8674",
+  "address": "江別市高砂町6番地",
+  "phone": "011-382-4141",
+  "official_url": "https://www.city.ebetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01218",
+  "name": "赤平市役所",
+  "postal_code": "079-1192",
+  "address": "赤平市泉町4丁目1番地",
+  "phone": "0125-32-2211",
+  "official_url": "https://www.city.akabira.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01219",
+  "name": "紋別市役所",
+  "postal_code": "094-8707",
+  "address": "紋別市幸町2丁目1番18号",
+  "phone": "0158-24-2111",
+  "official_url": "https://mombetsu.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01220",
+  "name": "士別市役所",
+  "postal_code": "095-8686",
+  "address": "士別市東6条4丁目1番地",
+  "phone": "0165-23-3121",
+  "official_url": "https://www.city.shibetsu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01221",
+  "name": "名寄市役所",
+  "postal_code": "096-8686",
+  "address": "名寄市大通南1丁目1番地",
+  "phone": "01654-3-2111",
+  "official_url": "http://www.city.nayoro.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01222",
+  "name": "三笠市役所",
+  "postal_code": "068-2192",
+  "address": "三笠市幸町2番地",
+  "phone": "01267-2-3181",
+  "official_url": "https://www.city.mikasa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01223",
+  "name": "根室市役所",
+  "postal_code": "087-8711",
+  "address": "根室市常盤町2丁目27番地",
+  "phone": "0153-23-6111",
+  "official_url": "https://www.city.nemuro.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01224",
+  "name": "千歳市役所",
+  "postal_code": "066-8686",
+  "address": "千歳市東雲町2丁目34番地",
+  "phone": "0123-24-3131",
+  "official_url": "https://www.city.chitose.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01225",
+  "name": "滝川市役所",
+  "postal_code": "073-8686",
+  "address": "滝川市大町1丁目2番15号",
+  "phone": "0125-23-1234",
+  "official_url": "https://www.city.takikawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01226",
+  "name": "砂川市役所",
+  "postal_code": "073-0195",
+  "address": "砂川市西7条北2丁目1番1号",
+  "phone": "0125-54-2121",
+  "official_url": "https://www.city.sunagawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01227",
+  "name": "歌志内市役所",
+  "postal_code": "073-0492",
+  "address": "歌志内市字本町5番地",
+  "phone": "0125-42-3211",
+  "official_url": "https://www.city.utashinai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01228",
+  "name": "深川市役所",
+  "postal_code": "074-8650",
+  "address": "深川市2条17番17号",
+  "phone": "0164-26-2228",
+  "official_url": "https://www.city.fukagawa.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01229",
+  "name": "富良野市役所",
+  "postal_code": "076-8555",
+  "address": "富良野市弥生町1番1号",
+  "phone": "0167-39-2300",
+  "official_url": "http://www.city.furano.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01230",
+  "name": "登別市役所",
+  "postal_code": "059-8701",
+  "address": "登別市中央町6丁目11番地",
+  "phone": "0143-85-2111",
+  "official_url": "https://www.city.noboribetsu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01231",
+  "name": "恵庭市役所",
+  "postal_code": "061-1498",
+  "address": "恵庭市京町1番地",
+  "phone": "0123-33-3131",
+  "official_url": "https://www.city.eniwa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01233",
+  "name": "伊達市役所",
+  "postal_code": "052-0024",
+  "address": "伊達市鹿島町20番地1",
+  "phone": "0142-23-3331",
+  "official_url": "https://www.city.date.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01234",
+  "name": "北広島市役所",
+  "postal_code": "061-1192",
+  "address": "北広島市中央4丁目2番地1",
+  "phone": "011-372-3311",
+  "official_url": "https://www.city.kitahiroshima.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01235",
+  "name": "石狩市役所",
+  "postal_code": "061-3292",
+  "address": "石狩市花川北6条1丁目30番地2",
+  "phone": "0133-72-3111",
+  "official_url": "http://www.city.ishikari.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01236",
+  "name": "北斗市役所",
+  "postal_code": "049-0192",
+  "address": "北斗市中央1丁目3番10号",
+  "phone": "0138-73-3111",
+  "official_url": "https://www.city.hokuto.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01303",
+  "name": "当別町役場",
+  "postal_code": "061-0292",
+  "address": "石狩郡当別町白樺町58番地9",
+  "phone": "0133-23-2330",
+  "official_url": "https://www.town.tobetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01304",
+  "name": "新篠津村役場",
+  "postal_code": "068-1192",
+  "address": "石狩郡新篠津村第47線北13番地",
+  "phone": "0126-57-2111",
+  "official_url": "https://www.vill.shinshinotsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01331",
+  "name": "松前町役場",
+  "postal_code": "049-1592",
+  "address": "松前郡松前町字福山248番地1",
+  "phone": "0139-42-2275",
+  "official_url": "https://www.town.matsumae.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01332",
+  "name": "福島町役場",
+  "postal_code": "049-1392",
+  "address": "松前郡福島町字福島820番地",
+  "phone": "0139-47-3001",
+  "official_url": "http://www.town.fukushima.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01333",
+  "name": "知内町役場",
+  "postal_code": "049-1103",
+  "address": "上磯郡知内町字重内21番地1",
+  "phone": "01392-5-6161",
+  "official_url": "https://www.town.shiriuchi.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01334",
+  "name": "木古内町役場",
+  "postal_code": "049-0422",
+  "address": "上磯郡木古内町字本町218番地",
+  "phone": "01392-2-3131",
+  "official_url": "https://www.town.kikonai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01337",
+  "name": "七飯町役場",
+  "postal_code": "041-1192",
+  "address": "亀田郡七飯町本町6丁目1番1号",
+  "phone": "0138-65-2511",
+  "official_url": "https://www.town.nanae.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01343",
+  "name": "鹿部町役場",
+  "postal_code": "041-1498",
+  "address": "茅部郡鹿部町字鹿部252番地1",
+  "phone": "01372-7-2111",
+  "official_url": "http://www.town.shikabe.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01345",
+  "name": "森町役場",
+  "postal_code": "049-2393",
+  "address": "茅部郡森町字御幸町144番地1",
+  "phone": "01374-2-2181",
+  "official_url": "https://www.town.hokkaido-mori.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01346",
+  "name": "八雲町役場",
+  "postal_code": "049-3192",
+  "address": "二海郡八雲町住初町138番地",
+  "phone": "0137-62-2111",
+  "official_url": "https://www.town.yakumo.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01347",
+  "name": "長万部町役場",
+  "postal_code": "049-3592",
+  "address": "山越郡長万部町字長万部453番地1",
+  "phone": "01377-2-2000",
+  "official_url": "http://www.town.oshamambe.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01361",
+  "name": "江差町役場",
+  "postal_code": "043-8560",
+  "address": "檜山郡江差町字中歌町193番地1",
+  "phone": "0139-52-1020",
+  "official_url": "https://www.hokkaido-esashi.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01362",
+  "name": "上ノ国町役場",
+  "postal_code": "049-0698",
+  "address": "檜山郡上ノ国町字大留100番地",
+  "phone": "0139-55-2311",
+  "official_url": "http://www.town.kaminokuni.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01363",
+  "name": "厚沢部町役場",
+  "postal_code": "043-1113",
+  "address": "檜山郡厚沢部町新町207番地",
+  "phone": "0139-64-3311",
+  "official_url": "https://www.town.assabu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01364",
+  "name": "乙部町役場",
+  "postal_code": "043-0103",
+  "address": "爾志郡乙部町字緑町388番地",
+  "phone": "0139-62-2311",
+  "official_url": "https://www.town.otobe.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01367",
+  "name": "奥尻町役場",
+  "postal_code": "043-1498",
+  "address": "奥尻郡奥尻町字奥尻806番地",
+  "phone": "01397-2-3111",
+  "official_url": "https://www.town.okushiri.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01370",
+  "name": "今金町役場",
+  "postal_code": "049-4393",
+  "address": "瀬棚郡今金町字今金48番地の1",
+  "phone": "0137-82-0111",
+  "official_url": "https://www.town.imakane.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01371",
+  "name": "せたな町役場",
+  "postal_code": "049-4592",
+  "address": "久遠郡せたな町北檜山区徳島63番地1",
+  "phone": "0137-84-5111",
+  "official_url": "https://www.town.setana.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01391",
+  "name": "島牧村役場",
+  "postal_code": "048-0621",
+  "address": "島牧郡島牧村字泊83番地1",
+  "phone": "0136-75-6211",
+  "official_url": "https://www.vill.shimamaki.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01392",
+  "name": "寿都町役場",
+  "postal_code": "048-0406",
+  "address": "寿都郡寿都町字渡島町140番地1",
+  "phone": "0136-62-2511",
+  "official_url": "http://www.town.suttu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01393",
+  "name": "黒松内町役場",
+  "postal_code": "048-0192",
+  "address": "寿都郡黒松内町字黒松内302番地1",
+  "phone": "0136-72-3311",
+  "official_url": "http://www.kuromatsunai.com/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01394",
+  "name": "蘭越町役場",
+  "postal_code": "048-1392",
+  "address": "磯谷郡蘭越町蘭越町258番地5",
+  "phone": "0136-57-5111",
+  "official_url": "http://www.town.rankoshi.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01395",
+  "name": "ニセコ町役場",
+  "postal_code": "048-1595",
+  "address": "虻田郡ニセコ町字富士見55番地",
+  "phone": "0136-44-2121",
+  "official_url": "https://www.town.niseko.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01396",
+  "name": "真狩村役場",
+  "postal_code": "048-1631",
+  "address": "虻田郡真狩村字真狩118番地",
+  "phone": "0136-45-2121",
+  "official_url": "https://www.vill.makkari.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01397",
+  "name": "留寿都村役場",
+  "postal_code": "048-1731",
+  "address": "虻田郡留寿都村字留寿都175番地",
+  "phone": "0136-46-3131",
+  "official_url": "https://www.vill.rusutsu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01398",
+  "name": "喜茂別町役場",
+  "postal_code": "044-0292",
+  "address": "虻田郡喜茂別町字喜茂別123番地",
+  "phone": "0136-33-2211",
+  "official_url": "http://www.town.kimobetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01399",
+  "name": "京極町役場",
+  "postal_code": "044-0101",
+  "address": "虻田郡京極町字京極527番地",
+  "phone": "0136-42-2111",
+  "official_url": "http://www.town-kyogoku.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01400",
+  "name": "倶知安町役場",
+  "postal_code": "044-0001",
+  "address": "虻田郡倶知安町北1条東3丁目3",
+  "phone": "0136-22-1121",
+  "official_url": "https://www.town.kutchan.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01401",
+  "name": "共和町役場",
+  "postal_code": "048-2292",
+  "address": "岩内郡共和町南幌似38番地2",
+  "phone": "0135-73-2011",
+  "official_url": "https://www.town.kyowa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01402",
+  "name": "岩内町役場",
+  "postal_code": "045-8555",
+  "address": "岩内郡岩内町字高台134番地1",
+  "phone": "0135-62-1011",
+  "official_url": "https://www.town.iwanai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01403",
+  "name": "泊村役場",
+  "postal_code": "045-0202",
+  "address": "古宇郡泊村大字茅沼村字臼別191番地7",
+  "phone": "0135-75-2021",
+  "official_url": "http://www.vill.tomari.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01404",
+  "name": "神恵内村役場",
+  "postal_code": "045-0301",
+  "address": "古宇郡神恵内村大字神恵内村81番地20",
+  "phone": "0135-76-5011",
+  "official_url": "https://www.vill.kamoenai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01405",
+  "name": "積丹町役場",
+  "postal_code": "046-0292",
+  "address": "積丹郡積丹町大字美国町字船澗48番地5",
+  "phone": "0135-44-2111",
+  "official_url": "http://www.town.shakotan.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01406",
+  "name": "古平町役場",
+  "postal_code": "046-0192",
+  "address": "古平郡古平町大字浜町50番地",
+  "phone": "0135-42-2181",
+  "official_url": "http://www.town.furubira.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01407",
+  "name": "仁木町役場",
+  "postal_code": "048-2492",
+  "address": "余市郡仁木町西町1丁目36番地1",
+  "phone": "0135-32-2511",
+  "official_url": "http://www.town.niki.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01408",
+  "name": "余市町役場",
+  "postal_code": "046-8546",
+  "address": "余市郡余市町朝日町26番地",
+  "phone": "0135-21-2111",
+  "official_url": "https://www.town.yoichi.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01409",
+  "name": "赤井川村役場",
+  "postal_code": "046-0592",
+  "address": "余市郡赤井川村字赤井川74番地2",
+  "phone": "0135-34-6211",
+  "official_url": "https://www.akaigawa.com/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01423",
+  "name": "南幌町役場",
+  "postal_code": "069-0292",
+  "address": "空知郡南幌町栄町3丁目2番1号",
+  "phone": "011-378-2121",
+  "official_url": "http://www.town.nanporo.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01424",
+  "name": "奈井江町役場",
+  "postal_code": "079-0392",
+  "address": "空知郡奈井江町字奈井江11番地",
+  "phone": "0125-65-2111",
+  "official_url": "http://www.town.naie.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01425",
+  "name": "上砂川町役場",
+  "postal_code": "073-0292",
+  "address": "空知郡上砂川町中央北1条5丁目1-7",
+  "phone": "0125-62-2011",
+  "official_url": "http://town.kamisunagawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01427",
+  "name": "由仁町役場",
+  "postal_code": "069-1292",
+  "address": "夕張郡由仁町新光200番地",
+  "phone": "0123-83-2111",
+  "official_url": "http://www.town.yuni.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01428",
+  "name": "長沼町役場",
+  "postal_code": "069-1392",
+  "address": "夕張郡長沼町中央北1丁目1番1号",
+  "phone": "0123-88-2111",
+  "official_url": "https://www.maoi-net.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01429",
+  "name": "栗山町役場",
+  "postal_code": "069-1512",
+  "address": "夕張郡栗山町松風3丁目252番地",
+  "phone": "0123-72-1111",
+  "official_url": "http://town.kuriyama.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01430",
+  "name": "月形町役場",
+  "postal_code": "061-0592",
+  "address": "樺戸郡月形町1219番地",
+  "phone": "0126-53-2321",
+  "official_url": "https://www.town.tsukigata.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01431",
+  "name": "浦臼町役場",
+  "postal_code": "061-0692",
+  "address": "樺戸郡浦臼町字ウラウスナイ183番地の15",
+  "phone": "0125-68-2111",
+  "official_url": "https://www.town.urausu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01432",
+  "name": "新十津川町役場",
+  "postal_code": "073-1103",
+  "address": "樺戸郡新十津川町字中央301番地1",
+  "phone": "0125-76-2131",
+  "official_url": "https://www.town.shintotsukawa.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01433",
+  "name": "妹背牛町役場",
+  "postal_code": "079-0592",
+  "address": "雨竜郡妹背牛町字妹背牛5200番地",
+  "phone": "0164-32-2411",
+  "official_url": "https://www.town.moseushi.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01434",
+  "name": "秩父別町役場",
+  "postal_code": "078-2192",
+  "address": "雨竜郡秩父別町4101番地",
+  "phone": "0164-33-2111",
+  "official_url": "https://www.town.chippubetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01436",
+  "name": "雨竜町役場",
+  "postal_code": "078-2692",
+  "address": "雨竜郡雨竜町字フシコウリウ104番地",
+  "phone": "0125-77-2211",
+  "official_url": "https://www.town.uryu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01437",
+  "name": "北竜町役場",
+  "postal_code": "078-2512",
+  "address": "雨竜郡北竜町字和11番地1",
+  "phone": "0164-34-2111",
+  "official_url": "http://www.town.hokuryu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01438",
+  "name": "沼田町役場",
+  "postal_code": "078-2202",
+  "address": "雨竜郡沼田町南1条3丁目6番53号",
+  "phone": "0164-35-2111",
+  "official_url": "https://www.town.numata.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01452",
+  "name": "鷹栖町役場",
+  "postal_code": "071-1292",
+  "address": "上川郡鷹栖町南1条3丁目5番1号",
+  "phone": "0166-87-2111",
+  "official_url": "https://www.town.takasu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01453",
+  "name": "東神楽町役場",
+  "postal_code": "071-1592",
+  "address": "上川郡東神楽町南1条西1丁目3番2号",
+  "phone": "0166-83-2111",
+  "official_url": "https://www.town.higashikagura.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01454",
+  "name": "当麻町役場",
+  "postal_code": "078-1393",
+  "address": "上川郡当麻町3条東2丁目11番1号",
+  "phone": "0166-84-2111",
+  "official_url": "http://town.tohma.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01455",
+  "name": "比布町役場",
+  "postal_code": "078-0392",
+  "address": "上川郡比布町北町1丁目2番1号",
+  "phone": "0166-85-2111",
+  "official_url": "http://www.town.pippu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01456",
+  "name": "愛別町役場",
+  "postal_code": "078-1492",
+  "address": "上川郡愛別町字本町179番地",
+  "phone": "01658-6-5111",
+  "official_url": "http://www.town.aibetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01457",
+  "name": "上川町役場",
+  "postal_code": "078-1753",
+  "address": "上川郡上川町南町180番地",
+  "phone": "01658-2-1211",
+  "official_url": "https://www.town.hokkaido-kamikawa.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01458",
+  "name": "東川町役場",
+  "postal_code": "071-1492",
+  "address": "上川郡東川町東町1丁目16番1号",
+  "phone": "0166-82-2111",
+  "official_url": "https://town.higashikawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01459",
+  "name": "美瑛町役場",
+  "postal_code": "071-0292",
+  "address": "上川郡美瑛町本町4丁目6番1号",
+  "phone": "0166-92-1111",
+  "official_url": "https://town.biei.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01460",
+  "name": "上富良野町役場",
+  "postal_code": "071-0596",
+  "address": "空知郡上富良野町大町2丁目2番11号",
+  "phone": "0167-45-6400",
+  "official_url": "https://www.town.kamifurano.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01461",
+  "name": "中富良野町役場",
+  "postal_code": "071-0795",
+  "address": "空知郡中富良野町本町9番1号",
+  "phone": "0167-44-2122",
+  "official_url": "https://www.town.nakafurano.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01462",
+  "name": "南富良野町役場",
+  "postal_code": "079-2402",
+  "address": "空知郡南富良野町字幾寅867番地",
+  "phone": "0167-52-2112",
+  "official_url": "https://town.minamifurano.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01463",
+  "name": "占冠村役場",
+  "postal_code": "079-2201",
+  "address": "勇払郡占冠村字中央",
+  "phone": "0167-56-2121",
+  "official_url": "http://www.vill.shimukappu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01464",
+  "name": "和寒町役場",
+  "postal_code": "098-0192",
+  "address": "上川郡和寒町字西町120番地",
+  "phone": "0165-32-2421",
+  "official_url": "https://www.town.wassamu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01465",
+  "name": "剣淵町役場",
+  "postal_code": "098-0392",
+  "address": "上川郡剣淵町仲町37番1号",
+  "phone": "0165-26-9021",
+  "official_url": "https://www.town.kembuchi.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01468",
+  "name": "下川町役場",
+  "postal_code": "098-1206",
+  "address": "上川郡下川町幸町63番地",
+  "phone": "01655-4-2511",
+  "official_url": "https://www.town.shimokawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01469",
+  "name": "美深町役場",
+  "postal_code": "098-2252",
+  "address": "中川郡美深町字西町18番地",
+  "phone": "01656-2-1611",
+  "official_url": "http://www.town.bifuka.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01470",
+  "name": "音威子府村役場",
+  "postal_code": "098-2501",
+  "address": "中川郡音威子府村字音威子府444番地1",
+  "phone": "01656-5-3311",
+  "official_url": "https://www.vill.otoineppu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01471",
+  "name": "中川町役場",
+  "postal_code": "098-2892",
+  "address": "中川郡中川町字中川337番地",
+  "phone": "01656-7-2811",
+  "official_url": "http://www.town.nakagawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01472",
+  "name": "幌加内町役場",
+  "postal_code": "074-0492",
+  "address": "雨竜郡幌加内町字幌加内4699番地",
+  "phone": "0165-35-2121",
+  "official_url": "http://www.town.horokanai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01481",
+  "name": "増毛町役場",
+  "postal_code": "077-0292",
+  "address": "増毛郡増毛町弁天町3丁目61番地",
+  "phone": "0164-53-1111",
+  "official_url": "https://www.town.mashike.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01482",
+  "name": "小平町役場",
+  "postal_code": "078-3392",
+  "address": "留萌郡小平町字小平町216番地",
+  "phone": "0164-56-2111",
+  "official_url": "https://www.town.obira.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01483",
+  "name": "苫前町役場",
+  "postal_code": "078-3792",
+  "address": "苫前郡苫前町字旭37番地の1",
+  "phone": "0164-64-2211",
+  "official_url": "http://www.town.tomamae.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01484",
+  "name": "羽幌町役場",
+  "postal_code": "078-4198",
+  "address": "苫前郡羽幌町南町1番地の1",
+  "phone": "0164-62-1211",
+  "official_url": "https://www.town.haboro.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01485",
+  "name": "初山別村役場",
+  "postal_code": "078-4492",
+  "address": "苫前郡初山別村字初山別96番地1",
+  "phone": "0164-67-2211",
+  "official_url": "http://www.vill.shosanbetsu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01486",
+  "name": "遠別町役場",
+  "postal_code": "098-3543",
+  "address": "天塩郡遠別町字本町3丁目37番地",
+  "phone": "01632-7-2111",
+  "official_url": "http://www.town.embetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01487",
+  "name": "天塩町役場",
+  "postal_code": "098-3398",
+  "address": "天塩郡天塩町新栄通8丁目1466番地の113",
+  "phone": "01632-2-1001",
+  "official_url": "http://www.teshiotown.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01511",
+  "name": "猿払村役場",
+  "postal_code": "098-6232",
+  "address": "宗谷郡猿払村鬼志別西町172番地1",
+  "phone": "01635-2-3131",
+  "official_url": "https://www.vill.sarufutsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01512",
+  "name": "浜頓別町役場",
+  "postal_code": "098-5792",
+  "address": "枝幸郡浜頓別町中央南1番地",
+  "phone": "01634-2-2345",
+  "official_url": "http://www.town.hamatonbetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01513",
+  "name": "中頓別町役場",
+  "postal_code": "098-5595",
+  "address": "枝幸郡中頓別町字中頓別172番地6",
+  "phone": "01634-6-1111",
+  "official_url": "https://www.town.nakatombetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01514",
+  "name": "枝幸町役場",
+  "postal_code": "098-5892",
+  "address": "枝幸郡枝幸町本町916番地",
+  "phone": "0163-62-1234",
+  "official_url": "https://www.esashi.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01516",
+  "name": "豊富町役場",
+  "postal_code": "098-4110",
+  "address": "天塩郡豊富町字上サロベツ2542番地2",
+  "phone": "0162-82-1001",
+  "official_url": "https://www.town.toyotomi.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01517",
+  "name": "礼文町役場",
+  "postal_code": "097-1201",
+  "address": "礼文郡礼文町大字香深村字トンナイ558番地5",
+  "phone": "0163-86-1001",
+  "official_url": "https://www.town.rebun.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01518",
+  "name": "利尻町役場",
+  "postal_code": "097-0401",
+  "address": "利尻郡利尻町沓形字緑町14番地1",
+  "phone": "0163-84-2345",
+  "official_url": "http://www.town.rishiri.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01519",
+  "name": "利尻富士町役場",
+  "postal_code": "097-0101",
+  "address": "利尻郡利尻富士町鴛泊字富士野6番地",
+  "phone": "0163-82-1111",
+  "official_url": "https://www.town.rishirifuji.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01520",
+  "name": "幌延町役場",
+  "postal_code": "098-3207",
+  "address": "天塩郡幌延町宮園町1番地1",
+  "phone": "01632-5-1111",
+  "official_url": "https://www.town.horonobe.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01543",
+  "name": "美幌町役場",
+  "postal_code": "092-8650",
+  "address": "網走郡美幌町字東2条北2丁目25番地",
+  "phone": "0152-73-1111",
+  "official_url": "http://www.town.bihoro.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01544",
+  "name": "津別町役場",
+  "postal_code": "092-0292",
+  "address": "網走郡津別町字幸町41番地",
+  "phone": "0152-76-2151",
+  "official_url": "https://www.town.tsubetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01545",
+  "name": "斜里町役場",
+  "postal_code": "099-4192",
+  "address": "斜里郡斜里町本町12番地",
+  "phone": "0152-23-3131",
+  "official_url": "https://www.town.shari.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01546",
+  "name": "清里町役場",
+  "postal_code": "099-4492",
+  "address": "斜里郡清里町羽衣町13番地",
+  "phone": "0152-25-2131",
+  "official_url": "https://www.town.kiyosato.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01547",
+  "name": "小清水町役場",
+  "postal_code": "099-3698",
+  "address": "斜里郡小清水町元町2丁目1番1号",
+  "phone": "0152-62-2311",
+  "official_url": "https://www.town.koshimizu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01549",
+  "name": "訓子府町役場",
+  "postal_code": "099-1498",
+  "address": "常呂郡訓子府町東町398番地",
+  "phone": "0157-47-2111",
+  "official_url": "https://www.town.kunneppu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01550",
+  "name": "置戸町役場",
+  "postal_code": "099-1100",
+  "address": "常呂郡置戸町字置戸181番地",
+  "phone": "0157-52-3311",
+  "official_url": "http://www.town.oketo.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01552",
+  "name": "佐呂間町役場",
+  "postal_code": "093-0592",
+  "address": "常呂郡佐呂間町字永代町3番地の1",
+  "phone": "01587-2-1211",
+  "official_url": "https://www.town.saroma.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01555",
+  "name": "遠軽町役場",
+  "postal_code": "099-0492",
+  "address": "紋別郡遠軽町1条通北3丁目1番地1",
+  "phone": "0158-42-4811",
+  "official_url": "https://engaru.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01559",
+  "name": "湧別町役場",
+  "postal_code": "099-6592",
+  "address": "紋別郡湧別町上湧別屯田市街地318番地",
+  "phone": "01586-2-2111",
+  "official_url": "https://www.town.yubetsu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01560",
+  "name": "滝上町役場",
+  "postal_code": "099-5692",
+  "address": "紋別郡滝上町字滝ノ上市街地4条通2丁目1番地",
+  "phone": "0158-29-2111",
+  "official_url": "https://town.takinoue.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01561",
+  "name": "興部町役場",
+  "postal_code": "098-1692",
+  "address": "紋別郡興部町字興部710番地",
+  "phone": "0158-82-2131",
+  "official_url": "https://www.town.okoppe.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01562",
+  "name": "西興部村役場",
+  "postal_code": "098-1501",
+  "address": "紋別郡西興部村字西興部100番地",
+  "phone": "0158-87-2111",
+  "official_url": "https://www.vill.nishiokoppe.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01563",
+  "name": "雄武町役場",
+  "postal_code": "098-1792",
+  "address": "紋別郡雄武町字雄武700番地",
+  "phone": "0158-84-2121",
+  "official_url": "http://www.town.oumu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01564",
+  "name": "大空町役場",
+  "postal_code": "099-2392",
+  "address": "網走郡大空町女満別西3条4丁目1番1号",
+  "phone": "0152-74-2111",
+  "official_url": "http://www.town.ozora.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01571",
+  "name": "豊浦町役場",
+  "postal_code": "049-5416",
+  "address": "虻田郡豊浦町字船見町10番地",
+  "phone": "0142-83-2121",
+  "official_url": "https://www.town.toyoura.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01575",
+  "name": "壮瞥町役場",
+  "postal_code": "052-0101",
+  "address": "有珠郡壮瞥町字滝之町287番地7",
+  "phone": "0142-66-2121",
+  "official_url": "https://www.town.sobetsu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01578",
+  "name": "白老町役場",
+  "postal_code": "059-0995",
+  "address": "白老郡白老町大町1丁目1番1号",
+  "phone": "0144-82-2121",
+  "official_url": "http://www.town.shiraoi.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01581",
+  "name": "厚真町役場",
+  "postal_code": "059-1692",
+  "address": "勇払郡厚真町京町120番地",
+  "phone": "0145-27-2321",
+  "official_url": "http://www.town.atsuma.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01584",
+  "name": "洞爺湖町役場",
+  "postal_code": "049-5692",
+  "address": "虻田郡洞爺湖町栄町58番地",
+  "phone": "0142-76-2121",
+  "official_url": "http://www.town.toyako.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01585",
+  "name": "安平町役場",
+  "postal_code": "059-1595",
+  "address": "勇払郡安平町早来大町95番地",
+  "phone": "0145-22-2511",
+  "official_url": "https://www.town.abira.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01586",
+  "name": "むかわ町役場",
+  "postal_code": "054-8660",
+  "address": "勇払郡むかわ町美幸2丁目88番地",
+  "phone": "0145-42-2411",
+  "official_url": "http://www.town.mukawa.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01601",
+  "name": "日高町役場",
+  "postal_code": "059-2192",
+  "address": "沙流郡日高町門別本町210番地の1",
+  "phone": "01456-2-5131",
+  "official_url": "https://www.town.hidaka.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01602",
+  "name": "平取町役場",
+  "postal_code": "055-0192",
+  "address": "沙流郡平取町本町28番地",
+  "phone": "01457-2-2221",
+  "official_url": "http://www.town.biratori.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01604",
+  "name": "新冠町役場",
+  "postal_code": "059-2492",
+  "address": "新冠郡新冠町字北星町3番地の2",
+  "phone": "0146-47-2111",
+  "official_url": "https://www.niikappu.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01607",
+  "name": "浦河町役場",
+  "postal_code": "057-8511",
+  "address": "浦河郡浦河町築地1丁目3番1号",
+  "phone": "0146-22-2311",
+  "official_url": "https://www.town.urakawa.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01608",
+  "name": "様似町役場",
+  "postal_code": "058-8501",
+  "address": "様似郡様似町大通1丁目21番地",
+  "phone": "0146-36-2111",
+  "official_url": "http://www.samani.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01609",
+  "name": "えりも町役場",
+  "postal_code": "058-0292",
+  "address": "幌泉郡えりも町字本町206番地",
+  "phone": "01466-2-2111",
+  "official_url": "https://www.town.erimo.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01610",
+  "name": "新ひだか町役場",
+  "postal_code": "056-8650",
+  "address": "日高郡新ひだか町静内御幸町3丁目2番50号",
+  "phone": "0146-43-2111",
+  "official_url": "https://www.shinhidaka-hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01631",
+  "name": "音更町役場",
+  "postal_code": "080-0198",
+  "address": "河東郡音更町元町2番地",
+  "phone": "0155-42-2111",
+  "official_url": "https://www.town.otofuke.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01632",
+  "name": "士幌町役場",
+  "postal_code": "080-1292",
+  "address": "河東郡士幌町字士幌225番地",
+  "phone": "01564-5-2211",
+  "official_url": "https://www.shihoro.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01633",
+  "name": "上士幌町役場",
+  "postal_code": "080-1492",
+  "address": "河東郡上士幌町字上士幌東3線238番地",
+  "phone": "01564-2-2111",
+  "official_url": "https://www.kamishihoro.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01634",
+  "name": "鹿追町役場",
+  "postal_code": "081-0292",
+  "address": "河東郡鹿追町東町1丁目15番地1",
+  "phone": "0156-66-2311",
+  "official_url": "https://www.town.shikaoi.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01635",
+  "name": "新得町役場",
+  "postal_code": "081-8501",
+  "address": "上川郡新得町3条南4丁目26番地",
+  "phone": "0156-64-5111",
+  "official_url": "https://www.shintoku-town.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01636",
+  "name": "清水町役場",
+  "postal_code": "089-0192",
+  "address": "上川郡清水町南4条2丁目2番地",
+  "phone": "0156-62-2111",
+  "official_url": "http://www.town.shimizu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01637",
+  "name": "芽室町役場",
+  "postal_code": "082-8651",
+  "address": "河西郡芽室町東2条2丁目14番地",
+  "phone": "0155-62-9721",
+  "official_url": "https://www.memuro.net/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01638",
+  "name": "中札内村役場",
+  "postal_code": "089-1392",
+  "address": "河西郡中札内村東1条南1丁目2番地1",
+  "phone": "0155-67-2311",
+  "official_url": "http://www.vill.nakasatsunai.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01639",
+  "name": "更別村役場",
+  "postal_code": "089-1595",
+  "address": "河西郡更別村字更別南1線93番地",
+  "phone": "0155-52-2111",
+  "official_url": "https://www.sarabetsu.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01641",
+  "name": "大樹町役場",
+  "postal_code": "089-2195",
+  "address": "広尾郡大樹町東本通33番地",
+  "phone": "01558-6-2111",
+  "official_url": "https://www.town.taiki.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01642",
+  "name": "広尾町役場",
+  "postal_code": "089-2692",
+  "address": "広尾郡広尾町西4条7丁目1番地1",
+  "phone": "01558-2-2111",
+  "official_url": "https://www.town.hiroo.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01643",
+  "name": "幕別町役場",
+  "postal_code": "089-0692",
+  "address": "中川郡幕別町本町130番地1",
+  "phone": "0155-54-2111",
+  "official_url": "https://www.town.makubetsu.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01644",
+  "name": "池田町役場",
+  "postal_code": "083-8650",
+  "address": "中川郡池田町字西1条7丁目11番地",
+  "phone": "015-572-3111",
+  "official_url": "https://www.town.hokkaido-ikeda.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01645",
+  "name": "豊頃町役場",
+  "postal_code": "089-5392",
+  "address": "中川郡豊頃町茂岩本町125番地",
+  "phone": "015-574-2211",
+  "official_url": "http://www.toyokoro.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01646",
+  "name": "本別町役場",
+  "postal_code": "089-3392",
+  "address": "中川郡本別町北2丁目4番地1",
+  "phone": "0156-22-2141",
+  "official_url": "https://www.town.honbetsu.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01647",
+  "name": "足寄町役場",
+  "postal_code": "089-3797",
+  "address": "足寄郡足寄町北1条4丁目48番地1",
+  "phone": "0156-25-2141",
+  "official_url": "https://www.town.ashoro.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01648",
+  "name": "陸別町役場",
+  "postal_code": "089-4311",
+  "address": "足寄郡陸別町字陸別東1条3丁目1番地",
+  "phone": "0156-27-2141",
+  "official_url": "https://www.rikubetsu.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01649",
+  "name": "浦幌町役場",
+  "postal_code": "089-5692",
+  "address": "十勝郡浦幌町字桜町15番地6",
+  "phone": "015-576-2111",
+  "official_url": "https://www.urahoro.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01661",
+  "name": "釧路町役場",
+  "postal_code": "088-0692",
+  "address": "釧路郡釧路町別保1丁目1番地",
+  "phone": "0154-62-2111",
+  "official_url": "http://www.town.kushiro.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01662",
+  "name": "厚岸町役場",
+  "postal_code": "088-1192",
+  "address": "厚岸郡厚岸町真栄3丁目1番地",
+  "phone": "0153-52-3131",
+  "official_url": "https://www.akkeshi-town.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01663",
+  "name": "浜中町役場",
+  "postal_code": "088-1592",
+  "address": "厚岸郡浜中町湯沸445番地トウフツ445",
+  "phone": "0153-62-2111",
+  "official_url": "https://www.townhamanaka.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01664",
+  "name": "標茶町役場",
+  "postal_code": "088-2312",
+  "address": "川上郡標茶町川上4丁目2番地",
+  "phone": "015-485-2111",
+  "official_url": "http://www.town.shibecha.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01665",
+  "name": "弟子屈町役場",
+  "postal_code": "088-3292",
+  "address": "川上郡弟子屈町中央2丁目3番1号",
+  "phone": "015-482-2191",
+  "official_url": "https://www.town.teshikaga.hokkaido.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01667",
+  "name": "鶴居村役場",
+  "postal_code": "085-1203",
+  "address": "阿寒郡鶴居村鶴居西1丁目1番地",
+  "phone": "0154-64-2111",
+  "official_url": "https://www.vill.tsurui.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01668",
+  "name": "白糠町役場",
+  "postal_code": "088-0392",
+  "address": "白糠郡白糠町西1条南1丁目1番地1",
+  "phone": "01547-2-2171",
+  "official_url": "https://www.town.shiranuka.lg.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01691",
+  "name": "別海町役場",
+  "postal_code": "086-0205",
+  "address": "野付郡別海町別海常盤町280番地",
+  "phone": "0153-75-2111",
+  "official_url": "https://betsukai.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01692",
+  "name": "中標津町役場",
+  "postal_code": "086-1197",
+  "address": "標津郡中標津町丸山2丁目22番地",
+  "phone": "0153-73-3111",
+  "official_url": "https://www.nakashibetsu.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01693",
+  "name": "標津町役場",
+  "postal_code": "086-1632",
+  "address": "標津郡標津町北2条西1丁目1番3号",
+  "phone": "0153-82-2131",
+  "official_url": "https://www.shibetsutown.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01694",
+  "name": "羅臼町役場",
+  "postal_code": "086-1892",
+  "address": "目梨郡羅臼町栄町100番地83",
+  "phone": "0153-87-2111",
+  "official_url": "http://www.rausu-town.jp/",
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01695",
+  "name": "色丹村役場",
+  "postal_code": null,
+  "address": null,
+  "phone": null,
+  "official_url": null,
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01696",
+  "name": "泊村役場",
+  "postal_code": null,
+  "address": null,
+  "phone": null,
+  "official_url": null,
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01697",
+  "name": "留夜別村役場",
+  "postal_code": null,
+  "address": null,
+  "phone": null,
+  "official_url": null,
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01698",
+  "name": "留別村役場",
+  "postal_code": null,
+  "address": null,
+  "phone": null,
+  "official_url": null,
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01699",
+  "name": "紗那村役場",
+  "postal_code": null,
+  "address": null,
+  "phone": null,
+  "official_url": null,
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "01700",
+  "name": "蘂取村役場",
+  "postal_code": null,
+  "address": null,
+  "phone": null,
+  "official_url": null,
+  "source_url": "https://www.harp.lg.jp/opendata/dataset/2056.html (5-1本庁所在地xlsx) , https://www.pref.hokkaido.lg.jp/link/shichoson/aiueo.html (HP一覧csv) , https://www.city.sapporo.jp/org/address/ku.html (札幌区役所)",
+  "verified_at": "2026-07-07"
+ }
+]

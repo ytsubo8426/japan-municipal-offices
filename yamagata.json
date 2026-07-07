@@ -1,0 +1,352 @@
+[
+ {
+  "city_code": "06201",
+  "name": "山形市役所",
+  "postal_code": "990-8540",
+  "address": "山形市旅篭町二丁目3番25号",
+  "phone": "023-641-1212",
+  "official_url": "http://www.city.yamagata-yamagata.lg.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06202",
+  "name": "米沢市役所",
+  "postal_code": "992-8501",
+  "address": "米沢市金池五丁目2番25号",
+  "phone": "0238-22-5111",
+  "official_url": "http://www.city.yonezawa.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06203",
+  "name": "鶴岡市役所",
+  "postal_code": "997-8601",
+  "address": "鶴岡市馬場町9番25号",
+  "phone": "0235-25-2111",
+  "official_url": "http://www.city.tsuruoka.lg.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06204",
+  "name": "酒田市役所",
+  "postal_code": "998-8540",
+  "address": "酒田市本町二丁目2番45号",
+  "phone": "0234-22-5111",
+  "official_url": "http://www.city.sakata.lg.jp",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06205",
+  "name": "新庄市役所",
+  "postal_code": "996-8501",
+  "address": "新庄市沖の町10番37号",
+  "phone": "0233-22-2111",
+  "official_url": "http://www.city.shinjo.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06206",
+  "name": "寒河江市役所",
+  "postal_code": "991-8601",
+  "address": "寒河江市中央一丁目9番45号",
+  "phone": "0237-86-2111",
+  "official_url": "http://www.city.sagae.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06207",
+  "name": "上山市役所",
+  "postal_code": "999-3192",
+  "address": "上山市河崎一丁目1番10号",
+  "phone": "023-672-1111",
+  "official_url": "http://www.city.kaminoyama.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06208",
+  "name": "村山市役所",
+  "postal_code": "995-8666",
+  "address": "村山市中央一丁目3番6号",
+  "phone": "0237-55-2111",
+  "official_url": "http://www.city.murayama.lg.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06209",
+  "name": "長井市役所",
+  "postal_code": "993-8601",
+  "address": "長井市栄町1番1号",
+  "phone": "0238-84-2111",
+  "official_url": "http://www.city.nagai.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06210",
+  "name": "天童市役所",
+  "postal_code": "994-8510",
+  "address": "天童市老野森一丁目1番1号",
+  "phone": "023-654-1111",
+  "official_url": "http://www.city.tendo.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06211",
+  "name": "東根市役所",
+  "postal_code": "999-3795",
+  "address": "東根市中央一丁目1番1号",
+  "phone": "0237-42-1111",
+  "official_url": "http://www.city.higashine.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06212",
+  "name": "尾花沢市役所",
+  "postal_code": "999-4292",
+  "address": "尾花沢市若葉町一丁目2番3号",
+  "phone": "0237-22-1111",
+  "official_url": "http://www.city.obanazawa.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06213",
+  "name": "南陽市役所",
+  "postal_code": "999-2292",
+  "address": "南陽市三間通436番地の1",
+  "phone": "0238-40-3211",
+  "official_url": "http://www.city.nanyo.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06301",
+  "name": "山辺町役場",
+  "postal_code": "990-0392",
+  "address": "東村山郡山辺町緑ヶ丘5番地",
+  "phone": "023-667-1111",
+  "official_url": "http://www.town.yamanobe.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06302",
+  "name": "中山町役場",
+  "postal_code": "990-0492",
+  "address": "東村山郡中山町大字長崎120番地",
+  "phone": "023-662-2111",
+  "official_url": "http://www.town.nakayama.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06321",
+  "name": "河北町役場",
+  "postal_code": "999-3511",
+  "address": "西村山郡河北町谷地戊81番地",
+  "phone": "0237-73-2111",
+  "official_url": "http://www.town.kahoku.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06322",
+  "name": "西川町役場",
+  "postal_code": "990-0792",
+  "address": "西村山郡西川町大字海味510番地",
+  "phone": "0237-74-2111",
+  "official_url": "http://www.town.nishikawa.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06323",
+  "name": "朝日町役場",
+  "postal_code": "990-1442",
+  "address": "西村山郡朝日町大字宮宿1115番地",
+  "phone": "0237-67-2111",
+  "official_url": "http://www.town.asahi.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06324",
+  "name": "大江町役場",
+  "postal_code": "990-1101",
+  "address": "西村山郡大江町大字左沢882番地の1",
+  "phone": "0237-62-2111",
+  "official_url": "http://www.town.oe.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06341",
+  "name": "大石田町役場",
+  "postal_code": "999-4112",
+  "address": "北村山郡大石田町緑町1番地",
+  "phone": "0237-35-2111",
+  "official_url": "http://www.town.oishida.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06361",
+  "name": "金山町役場",
+  "postal_code": "999-5402",
+  "address": "最上郡金山町大字金山324番地の1",
+  "phone": "0233-52-2111",
+  "official_url": "http://www.town.kaneyama.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06362",
+  "name": "最上町役場",
+  "postal_code": "999-6101",
+  "address": "最上郡最上町大字向町644番地",
+  "phone": "0233-43-2111",
+  "official_url": "http://town.mogami.lg.jp",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06363",
+  "name": "舟形町役場",
+  "postal_code": "999-4601",
+  "address": "最上郡舟形町舟形263番地",
+  "phone": "0233-32-2111",
+  "official_url": "http://www.town.funagata.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06364",
+  "name": "真室川町役場",
+  "postal_code": "999-5312",
+  "address": "最上郡真室川町大字新町124番地の4",
+  "phone": "0233-62-2111",
+  "official_url": "https://www.town.mamurogawa.yamagata.jp/index.html",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06365",
+  "name": "大蔵村役場",
+  "postal_code": "996-0212",
+  "address": "最上郡大蔵村大字清水2528番地",
+  "phone": "0233-75-2111",
+  "official_url": "http://www.vill.ohkura.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06366",
+  "name": "鮭川村役場",
+  "postal_code": "999-5292",
+  "address": "最上郡鮭川村大字佐渡2003番地の7",
+  "phone": "0233-55-2111",
+  "official_url": "http://www.vill.sakegawa.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06367",
+  "name": "戸沢村役場",
+  "postal_code": "999-6401",
+  "address": "最上郡戸沢村大字古口270番地",
+  "phone": "0233-72-2111",
+  "official_url": "http://www.vill.tozawa.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06381",
+  "name": "高畠町役場",
+  "postal_code": "992-0392",
+  "address": "東置賜郡高畠町大字高畠436番地",
+  "phone": "0238-52-1111",
+  "official_url": "http://www.town.takahata.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06382",
+  "name": "川西町役場",
+  "postal_code": "999-0193",
+  "address": "東置賜郡川西町大字上小松977番地1",
+  "phone": "0238-42-2111",
+  "official_url": "http://www.town.kawanishi.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06401",
+  "name": "小国町役場",
+  "postal_code": "999-1363",
+  "address": "西置賜郡小国町大字小国小坂町二丁目70番地",
+  "phone": "0238-62-2111",
+  "official_url": "http://www.town.oguni.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06402",
+  "name": "白鷹町役場",
+  "postal_code": "992-0892",
+  "address": "西置賜郡白鷹町大字荒砥甲833番地",
+  "phone": "0238-85-2111",
+  "official_url": "http://www.town.shirataka.lg.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06403",
+  "name": "飯豊町役場",
+  "postal_code": "999-0696",
+  "address": "西置賜郡飯豊町大字椿2888番地",
+  "phone": "0238-72-2111",
+  "official_url": "http://www.town.iide.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06426",
+  "name": "三川町役場",
+  "postal_code": "997-1301",
+  "address": "東田川郡三川町大字横山字西田85番地",
+  "phone": "0235-66-3111",
+  "official_url": "http://www.town.mikawa.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06428",
+  "name": "庄内町役場",
+  "postal_code": "999-7781",
+  "address": "東田川郡庄内町余目字町132番地の1",
+  "phone": "0234-43-2211",
+  "official_url": "http://www.town.shonai.lg.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "06461",
+  "name": "遊佐町役場",
+  "postal_code": "999-8301",
+  "address": "飽海郡遊佐町遊佐字舞鶴202番地",
+  "phone": "0234-72-3311",
+  "official_url": "http://www.town.yuza.yamagata.jp/",
+  "source_url": "https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html",
+  "verified_at": "2026-07-07"
+ }
+]

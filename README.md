@@ -60,6 +60,10 @@
 同内容のJSON(`aomori.json` / `iwate.json` など)もあります。
 並び順は `city_code` 昇順です。
 
+欠損の扱い: 公式に公表が無い項目は推測せず空欄にしています(例: 大阪市24区・堺市7区の
+区役所電話、京都市11区の個別URL)。北方領土6村(hokkaido.csv の 01695〜01700)は
+行政機能がなく所在地・電話・URLが存在しないため、役所名のみ収録しています。
+
 **政令指定都市の注記**: 政令市は**市役所(市全体コード。例: 14100 横浜市役所)と
 各区役所(区コード。例: 14101 横浜市鶴見区役所)の両方**を収録しています。
 市だけ・区だけを使いたい場合は `city_code` でフィルタしてください
@@ -167,6 +171,11 @@ and filled in as they are verified.
 | `verified_at` | Date verified (YYYY-MM-DD) |
 
 JSON equivalents (`aomori.json` / `iwate.json`, etc.) are also provided.
+
+Missing values: fields not officially published are left blank rather than guessed
+(e.g. ward-office phone numbers in Osaka/Sakai, per-ward URLs in Kyoto). The six
+Northern Territories villages (01695-01700 in hokkaido.csv) have no functioning
+offices, so only their names are recorded.
 Rows are sorted by `city_code` ascending.
 
 **Note on designated cities** (政令指定都市): each designated city appears

@@ -1,10 +1,10 @@
 pref_code,pref_name,official_list_url,format,machine_readable,notes,verified_at,dataset
-01,北海道,,,,未調査(道の市町村リンク集はあるが所在地一覧は未確認),,
+01,北海道,https://www.harp.lg.jp/opendata/dataset/2056.html,Excel,yes,道オープンデータ「市町村の本庁所在地」(CC BY・xlsx。札幌市の区は市サイトで補完。北方領土6村は所在地なし),2026-07-07,hokkaido.csv
 02,青森県,https://www.pref.aomori.lg.jp/soshiki/soumu/shichoson/sityouson-handbook.html,PDF,yes,青森県市町村ハンドブック(市町村課)。PDFだがテキスト抽出可,2026-07-06,aomori.csv
 03,岩手県,,,,県公式の集約一覧なし(市町村プロフィールに住所・電話の記載なし),2026-07-06,iwate.csv
 04,宮城県,https://www.pref.miyagi.jp/soshiki/sichouson/syozaiti.html,HTML,yes,市区役所・町村役場の所在地(市町村コード付き),2026-07-06,miyagi.csv
 05,秋田県,https://www.pref.akita.lg.jp/pages/archive/91662,PDF,no,市町村要覧はあるがPDFの埋め込みフォントにToUnicodeが無くテキスト抽出不能,2026-07-06,akita.csv
-06,山形県,,,,未調査,,
+06,山形県,https://www.pref.yamagata.jp/020024/kensei/information/gaiyo/murayama/index.html,HTML,yes,市町村概要(地域別ページ。所在地・電話),2026-07-07,yamagata.csv
 07,福島県,https://www.pref.fukushima.lg.jp/sec/01145a/yakuba.html,HTML,yes,市役所・町村役場一覧,2026-07-06,fukushima.csv
 08,茨城県,https://www.pref.ibaraki.jp/towns/,HTML,yes,市町村ページ(所在地・電話・リンク),2026-07-06,ibaraki.csv
 09,栃木県,https://www.pref.tochigi.lg.jp/c05/intro/tochigi/link/lkshityouson.html,HTML,yes,市町一覧(所在地・電話・リンク),2026-07-06,tochigi.csv
