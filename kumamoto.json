@@ -1,0 +1,502 @@
+[
+ {
+  "city_code": "43100",
+  "name": "熊本市役所",
+  "postal_code": "860-8601",
+  "address": "熊本市中央区手取本町1番1号",
+  "phone": "096-328-2111",
+  "official_url": "https://www.city.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43101",
+  "name": "熊本市中央区役所",
+  "postal_code": "860-8618",
+  "address": "熊本市中央区手取本町1番1号",
+  "phone": "096-328-2555",
+  "official_url": "https://www.city.kumamoto.jp/chuo/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43102",
+  "name": "熊本市東区役所",
+  "postal_code": "862-8555",
+  "address": "熊本市東区東本町16-30",
+  "phone": "096-367-9111",
+  "official_url": "https://www.city.kumamoto.jp/higashi/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43103",
+  "name": "熊本市西区役所",
+  "postal_code": "861-5292",
+  "address": "熊本市西区小島2丁目7-1",
+  "phone": "096-329-1111",
+  "official_url": "https://www.city.kumamoto.jp/nishi/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43104",
+  "name": "熊本市南区役所",
+  "postal_code": "861-4189",
+  "address": "熊本市南区富合町清藤405-3",
+  "phone": "096-357-4111",
+  "official_url": "https://www.city.kumamoto.jp/minami/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43105",
+  "name": "熊本市北区役所",
+  "postal_code": "861-0195",
+  "address": "熊本市北区植木町岩野238-1",
+  "phone": "096-272-1111",
+  "official_url": "https://www.city.kumamoto.jp/kita/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43202",
+  "name": "八代市役所",
+  "postal_code": "866-8601",
+  "address": "八代市松江城町1-25",
+  "phone": "0965-33-4111",
+  "official_url": "https://www.city.yatsushiro.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43203",
+  "name": "人吉市役所",
+  "postal_code": "868-8601",
+  "address": "人吉市西間下町7番地1",
+  "phone": "0966-22-2111",
+  "official_url": "https://www.city.hitoyoshi.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43204",
+  "name": "荒尾市役所",
+  "postal_code": "864-8686",
+  "address": "荒尾市宮内出目390番地",
+  "phone": "0968-63-1111",
+  "official_url": "https://www.city.arao.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43205",
+  "name": "水俣市役所",
+  "postal_code": "867-8555",
+  "address": "水俣市陣内一丁目1番1号",
+  "phone": "0966-63-1111",
+  "official_url": "https://www.city.minamata.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43206",
+  "name": "玉名市役所",
+  "postal_code": "865-8501",
+  "address": "玉名市岩崎163",
+  "phone": "0968-75-1111",
+  "official_url": "https://www.city.tamana.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43208",
+  "name": "山鹿市役所",
+  "postal_code": "861-0592",
+  "address": "山鹿市山鹿987-3",
+  "phone": "0968-43-1117",
+  "official_url": "https://www.city.yamaga.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43210",
+  "name": "菊池市役所",
+  "postal_code": "861-1392",
+  "address": "菊池市隈府888",
+  "phone": "0968-25-7111",
+  "official_url": "https://www.city.kikuchi.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43211",
+  "name": "宇土市役所",
+  "postal_code": "869-0492",
+  "address": "宇土市浦田町51",
+  "phone": "0964-22-1111",
+  "official_url": "https://www.city.uto.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43212",
+  "name": "上天草市役所",
+  "postal_code": "869-3692",
+  "address": "上天草市大矢野町上1514番地",
+  "phone": "0964-56-1111",
+  "official_url": "https://www.city.kamiamakusa.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43213",
+  "name": "宇城市役所",
+  "postal_code": "869-0592",
+  "address": "宇城市松橋町大野85番地",
+  "phone": "0964-32-1111",
+  "official_url": "https://www.city.uki.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43214",
+  "name": "阿蘇市役所",
+  "postal_code": "869-2695",
+  "address": "阿蘇市一の宮町宮地504番地1",
+  "phone": "0967-22-3111",
+  "official_url": "https://www.city.aso.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43215",
+  "name": "天草市役所",
+  "postal_code": "863-8631",
+  "address": "天草市東浜町8番1",
+  "phone": "0969-23-1111",
+  "official_url": "https://www.city.amakusa.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43216",
+  "name": "合志市役所",
+  "postal_code": "861-1195",
+  "address": "合志市竹迫2140番地",
+  "phone": "096-248-1111",
+  "official_url": "https://www.city.koshi.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43348",
+  "name": "美里町役場",
+  "postal_code": "861-4492",
+  "address": "下益城郡美里町馬場1100番地",
+  "phone": "0964-46-2111",
+  "official_url": "https://www.town.kumamoto-misato.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43364",
+  "name": "玉東町役場",
+  "postal_code": "869-0303",
+  "address": "玉名郡玉東町木葉759",
+  "phone": "0968-85-3111",
+  "official_url": "https://www.town.gyokuto.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43367",
+  "name": "南関町役場",
+  "postal_code": "861-0898",
+  "address": "玉名郡南関町大字関町64",
+  "phone": "0968-53-1111",
+  "official_url": "https://www.town.nankan.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43368",
+  "name": "長洲町役場",
+  "postal_code": "869-0198",
+  "address": "玉名郡長洲町大字長洲2766番地",
+  "phone": "0968-78-3111",
+  "official_url": "https://www.town.nagasu.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43369",
+  "name": "和水町役場",
+  "postal_code": "865-0192",
+  "address": "玉名郡和水町江田3886",
+  "phone": "0968-86-3111",
+  "official_url": "https://www.town.nagomi.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43403",
+  "name": "大津町役場",
+  "postal_code": "869-1292",
+  "address": "菊池郡大津町大字大津1233",
+  "phone": "096-293-3111",
+  "official_url": "https://www.town.ozu.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43404",
+  "name": "菊陽町役場",
+  "postal_code": "869-1192",
+  "address": "菊池郡菊陽町大字久保田2800番地",
+  "phone": "096-232-2111",
+  "official_url": "https://www.town.kikuyo.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43423",
+  "name": "南小国町役場",
+  "postal_code": "869-2492",
+  "address": "阿蘇郡南小国町大字赤馬場143",
+  "phone": "0967-42-1111",
+  "official_url": "https://www.town.minamioguni.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43424",
+  "name": "小国町役場",
+  "postal_code": "869-2592",
+  "address": "阿蘇郡小国町宮原1567-1",
+  "phone": "0967-46-2111",
+  "official_url": "https://www.town.kumamoto-oguni.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43425",
+  "name": "産山村役場",
+  "postal_code": "869-2703",
+  "address": "阿蘇郡産山村山鹿488番地3",
+  "phone": "0967-25-2211",
+  "official_url": "https://www.ubuyama-v.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43428",
+  "name": "高森町役場",
+  "postal_code": "869-1602",
+  "address": "阿蘇郡高森町大字高森2168番地",
+  "phone": "0967-62-1111",
+  "official_url": "https://www.town.takamori.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43432",
+  "name": "西原村役場",
+  "postal_code": "861-2492",
+  "address": "阿蘇郡西原村大字小森3259",
+  "phone": "096-279-3111",
+  "official_url": "https://www.vill.nishihara.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43433",
+  "name": "南阿蘇村役場",
+  "postal_code": "869-1404",
+  "address": "阿蘇郡南阿蘇村大字河陽1705番地1",
+  "phone": "0967-67-1111",
+  "official_url": "https://www.vill.minamiaso.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43441",
+  "name": "御船町役場",
+  "postal_code": "861-3296",
+  "address": "上益城郡御船町大字御船995-1",
+  "phone": "096-282-1111",
+  "official_url": "https://www.town.mifune.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43442",
+  "name": "嘉島町役場",
+  "postal_code": "861-3192",
+  "address": "上益城郡嘉島町上島530番地",
+  "phone": "096-237-1111",
+  "official_url": "https://www.town.kashima.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43443",
+  "name": "益城町役場",
+  "postal_code": "861-2295",
+  "address": "上益城郡益城町大字宮園702",
+  "phone": "096-286-3111",
+  "official_url": "https://www.town.mashiki.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43444",
+  "name": "甲佐町役場",
+  "postal_code": "861-4696",
+  "address": "上益城郡甲佐町大字豊内719番地4",
+  "phone": "096-234-1111",
+  "official_url": "https://www.town.kosa.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43447",
+  "name": "山都町役場",
+  "postal_code": "861-3592",
+  "address": "上益城郡山都町浜町6番地",
+  "phone": "0967-72-1111",
+  "official_url": "https://www.town.kumamoto-yamato.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43468",
+  "name": "氷川町役場",
+  "postal_code": "869-4814",
+  "address": "八代郡氷川町島地642番地",
+  "phone": "0965-52-7111",
+  "official_url": "https://www.town.hikawa.kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43482",
+  "name": "芦北町役場",
+  "postal_code": "869-5498",
+  "address": "葦北郡芦北町大字芦北2015",
+  "phone": "0966-82-2511",
+  "official_url": "https://www.town.ashikita.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43484",
+  "name": "津奈木町役場",
+  "postal_code": "869-5692",
+  "address": "葦北郡津奈木町大字小津奈木2123番地",
+  "phone": "0966-78-3111",
+  "official_url": "https://www.town.tsunagi.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43501",
+  "name": "錦町役場",
+  "postal_code": "868-0392",
+  "address": "球磨郡錦町大字一武1587番地",
+  "phone": "0966-38-1111",
+  "official_url": "https://www.town.kumamoto-nishiki.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43505",
+  "name": "多良木町役場",
+  "postal_code": "868-0595",
+  "address": "球磨郡多良木町多良木1648",
+  "phone": "0966-42-6111",
+  "official_url": "https://www.town.taragi.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43506",
+  "name": "湯前町役場",
+  "postal_code": "868-0621",
+  "address": "球磨郡湯前町1989-1",
+  "phone": "0966-43-4111",
+  "official_url": "https://www.town.yunomae.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43507",
+  "name": "水上村役場",
+  "postal_code": "868-0795",
+  "address": "球磨郡水上村大字岩野90",
+  "phone": "0966-44-0311",
+  "official_url": "https://www.vill.mizukami.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43510",
+  "name": "相良村役場",
+  "postal_code": "868-8501",
+  "address": "球磨郡相良村大字深水2500-1",
+  "phone": "0966-35-0211",
+  "official_url": "https://www.vill.sagara.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43511",
+  "name": "五木村役場",
+  "postal_code": "868-0201",
+  "address": "球磨郡五木村甲2672番地7",
+  "phone": "0966-37-2211",
+  "official_url": "https://www.vill.itsuki.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43512",
+  "name": "山江村役場",
+  "postal_code": "868-8502",
+  "address": "球磨郡山江村大字山田甲1356番地の1",
+  "phone": "0966-23-3111",
+  "official_url": "https://www.vill.yamae.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43513",
+  "name": "球磨村役場",
+  "postal_code": "869-6401",
+  "address": "球磨郡球磨村大字渡丙1730番地",
+  "phone": "0966-32-1111",
+  "official_url": "https://www.kumamura.com/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43514",
+  "name": "あさぎり町役場",
+  "postal_code": "868-0408",
+  "address": "球磨郡あさぎり町免田東1199番地",
+  "phone": "0966-45-1111",
+  "official_url": "https://www.town.asagiri.lg.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "43531",
+  "name": "苓北町役場",
+  "postal_code": "863-2503",
+  "address": "天草郡苓北町志岐660番地",
+  "phone": "0969-35-1111",
+  "official_url": "https://reihoku-kumamoto.jp/",
+  "source_url": "https://www.pref.kumamoto.jp/soshiki/1/177925.html,各市町村公式サイト,https://www.city.kumamoto.jp/",
+  "verified_at": "2026-07-07"
+ }
+]

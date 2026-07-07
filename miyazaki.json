@@ -1,0 +1,262 @@
+[
+ {
+  "city_code": "45201",
+  "name": "宮崎市役所",
+  "postal_code": "880-8505",
+  "address": "宮崎市橘通西1丁目1番1号",
+  "phone": "0985-25-2111",
+  "official_url": "http://www.city.miyazaki.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45202",
+  "name": "都城市役所",
+  "postal_code": "885-8555",
+  "address": "都城市姫城町6街区21号",
+  "phone": "0986-23-2111",
+  "official_url": "http://www.city.miyakonojo.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45203",
+  "name": "延岡市役所",
+  "postal_code": "882-8686",
+  "address": "延岡市東本小路2番地1",
+  "phone": "0982-34-2111",
+  "official_url": "http://www.city.nobeoka.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45204",
+  "name": "日南市役所",
+  "postal_code": "887-8585",
+  "address": "日南市中央通1丁目1番地1",
+  "phone": "0987-31-1113",
+  "official_url": "http://www.city.nichinan.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45205",
+  "name": "小林市役所",
+  "postal_code": "886-8501",
+  "address": "小林市細野300番地",
+  "phone": "0984-23-1111",
+  "official_url": "http://www.city.kobayashi.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45206",
+  "name": "日向市役所",
+  "postal_code": "883-8555",
+  "address": "日向市本町10番5号",
+  "phone": "0982-52-2111",
+  "official_url": "https://www.hyugacity.jp",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45207",
+  "name": "串間市役所",
+  "postal_code": "888-8555",
+  "address": "串間市大字西方5550番地",
+  "phone": "0987-72-1111",
+  "official_url": "http://www.city.kushima.lg.jp",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45208",
+  "name": "西都市役所",
+  "postal_code": "881-8501",
+  "address": "西都市聖陵町2丁目1番地",
+  "phone": "0983-43-1111",
+  "official_url": "http://www.city.saito.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45209",
+  "name": "えびの市役所",
+  "postal_code": "889-4292",
+  "address": "えびの市大字栗下1292番地",
+  "phone": "0984-35-1111",
+  "official_url": "http://www.city.ebino.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45341",
+  "name": "三股町役場",
+  "postal_code": "889-1995",
+  "address": "北諸県郡三股町五本松1番地1",
+  "phone": "0986-52-1111",
+  "official_url": "http://www.town.mimata.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45361",
+  "name": "高原町役場",
+  "postal_code": "889-4492",
+  "address": "西諸県郡高原町大字西麓899番地",
+  "phone": "0984-42-2111",
+  "official_url": "http://www.town.takaharu.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45382",
+  "name": "国富町役場",
+  "postal_code": "880-1192",
+  "address": "東諸県郡国富町大字本庄4800番地",
+  "phone": "0985-75-3111",
+  "official_url": "http://www.town.kunitomi.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45383",
+  "name": "綾町役場",
+  "postal_code": "880-1392",
+  "address": "東諸県郡綾町大字南俣515番地",
+  "phone": "0985-77-1111",
+  "official_url": "http://www.town.aya.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45401",
+  "name": "高鍋町役場",
+  "postal_code": "884-8655",
+  "address": "児湯郡高鍋町大字上江8437番地",
+  "phone": "0983-26-2001",
+  "official_url": "http://www.town.takanabe.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45402",
+  "name": "新富町役場",
+  "postal_code": "889-1493",
+  "address": "児湯郡新富町大字上富田7491番地",
+  "phone": "0983-33-6002",
+  "official_url": "http://www.town.shintomi.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45403",
+  "name": "西米良村役場",
+  "postal_code": "881-1411",
+  "address": "児湯郡西米良村大字村所15番地",
+  "phone": "0983-36-1111",
+  "official_url": "http://www.vill.nishimera.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45404",
+  "name": "木城町役場",
+  "postal_code": "884-0101",
+  "address": "児湯郡木城町大字高城1227番地1",
+  "phone": "0983-32-4725",
+  "official_url": "http://www.town.kijo.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45405",
+  "name": "川南町役場",
+  "postal_code": "889-1301",
+  "address": "児湯郡川南町大字川南13680番地1",
+  "phone": "0983-27-8001",
+  "official_url": "http://www.town.kawaminami.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45406",
+  "name": "都農町役場",
+  "postal_code": "889-1201",
+  "address": "児湯郡都農町大字川北4874番地2",
+  "phone": "0983-25-5710",
+  "official_url": "https://www.town.tsuno.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45421",
+  "name": "門川町役場",
+  "postal_code": "889-0696",
+  "address": "東臼杵郡門川町平城東1番地1",
+  "phone": "0982-63-1140",
+  "official_url": "http://www.town.kadogawa.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45429",
+  "name": "諸塚村役場",
+  "postal_code": "883-1392",
+  "address": "東臼杵郡諸塚村大字家代2683番地",
+  "phone": "0982-65-1111",
+  "official_url": "http://www.vill.morotsuka.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45430",
+  "name": "椎葉村役場",
+  "postal_code": "883-1601",
+  "address": "東臼杵郡椎葉村大字下福良1762番地1",
+  "phone": "0982-67-3111",
+  "official_url": "http://www.vill.shiiba.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45431",
+  "name": "美郷町役場",
+  "postal_code": "883-1101",
+  "address": "東臼杵郡美郷町西郷田代1番地",
+  "phone": "0982-66-3600",
+  "official_url": "http://www.town.miyazaki-misato.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45441",
+  "name": "高千穂町役場",
+  "postal_code": "882-1192",
+  "address": "西臼杵郡高千穂町大字三田井13番地",
+  "phone": "0982-73-1200",
+  "official_url": "http://www.town-takachiho.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45442",
+  "name": "日之影町役場",
+  "postal_code": "882-0401",
+  "address": "西臼杵郡日之影町大字七折9079番地",
+  "phone": "0982-87-3800",
+  "official_url": "http://www.town.hinokage.lg.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "45443",
+  "name": "五ヶ瀬町役場",
+  "postal_code": "882-1295",
+  "address": "西臼杵郡五ヶ瀬町大字三ヶ所1670番地",
+  "phone": "0982-82-1700",
+  "official_url": "http://www.town.gokase.miyazaki.jp/",
+  "source_url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/shichoson/shichosonmap.html",
+  "verified_at": "2026-07-07"
+ }
+]

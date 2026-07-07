@@ -1,0 +1,182 @@
+[
+ {
+  "city_code": "44201",
+  "name": "大分市役所",
+  "postal_code": "870-8504",
+  "address": "大分市荷揚町2番31号",
+  "phone": "097-534-6111",
+  "official_url": "http://www.city.oita.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44202",
+  "name": "別府市役所",
+  "postal_code": "874-8511",
+  "address": "別府市上野口町1番15号",
+  "phone": "0977-21-1111",
+  "official_url": "http://www.city.beppu.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44203",
+  "name": "中津市役所",
+  "postal_code": "871-8501",
+  "address": "中津市豊田町14番地3",
+  "phone": "0979-22-1111",
+  "official_url": "http://www.city-nakatsu.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44204",
+  "name": "日田市役所",
+  "postal_code": "877-8601",
+  "address": "日田市田島2丁目6番1号",
+  "phone": "0973-23-3111",
+  "official_url": "http://www.city.hita.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44205",
+  "name": "佐伯市役所",
+  "postal_code": "876-8585",
+  "address": "佐伯市中村南町1番1号",
+  "phone": "0972-22-3111",
+  "official_url": "http://www.city.saiki.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44206",
+  "name": "臼杵市役所",
+  "postal_code": "875-8501",
+  "address": "臼杵市大字臼杵72番1",
+  "phone": "0972-63-1111",
+  "official_url": "http://www.city.usuki.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44207",
+  "name": "津久見市役所",
+  "postal_code": "879-2435",
+  "address": "津久見市宮本町20番15号",
+  "phone": "0570-01-2934",
+  "official_url": "http://www.city.tsukumi.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44208",
+  "name": "竹田市役所",
+  "postal_code": "878-8555",
+  "address": "竹田市大字会々1650番地",
+  "phone": "0974-63-1111",
+  "official_url": "http://www.city.taketa.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44209",
+  "name": "豊後高田市役所",
+  "postal_code": "879-0692",
+  "address": "豊後高田市是永町39番地3",
+  "phone": "0978-22-3100",
+  "official_url": "http://www.city.bungotakada.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44210",
+  "name": "杵築市役所",
+  "postal_code": "873-0001",
+  "address": "杵築市大字杵築377番地1",
+  "phone": "0978-62-3131",
+  "official_url": "http://www.city.kitsuki.lg.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44211",
+  "name": "宇佐市役所",
+  "postal_code": "879-0492",
+  "address": "宇佐市大字上田1030番地の1",
+  "phone": "0978-32-1111",
+  "official_url": "http://www.city.usa.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44212",
+  "name": "豊後大野市役所",
+  "postal_code": "879-7198",
+  "address": "豊後大野市三重町市場1200番地",
+  "phone": "0974-22-1001",
+  "official_url": "http://www.bungo-ohno.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44213",
+  "name": "由布市役所",
+  "postal_code": "879-5498",
+  "address": "由布市庄内町柿原302番地",
+  "phone": "097-582-1111",
+  "official_url": "http://www.city.yufu.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44214",
+  "name": "国東市役所",
+  "postal_code": "873-0503",
+  "address": "国東市国東町鶴川149番地",
+  "phone": "0978-72-1111",
+  "official_url": "http://www.city.kunisaki.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44322",
+  "name": "姫島村役場",
+  "postal_code": "872-1501",
+  "address": "東国東郡姫島村1630番地の1",
+  "phone": "0978-87-2281",
+  "official_url": "http://www.himeshima.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44341",
+  "name": "日出町役場",
+  "postal_code": "879-1592",
+  "address": "速見郡日出町2974番地1",
+  "phone": "0977-73-3111",
+  "official_url": "http://www.town.hiji.lg.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44461",
+  "name": "九重町役場",
+  "postal_code": "879-4895",
+  "address": "玖珠郡九重町大字後野上8番地1",
+  "phone": "0973-76-2111",
+  "official_url": "http://www.town.kokonoe.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "44462",
+  "name": "玖珠町役場",
+  "postal_code": "879-4492",
+  "address": "玖珠郡玖珠町大字帆足268番地の5",
+  "phone": "0973-72-1111",
+  "official_url": "http://www.town.kusu.oita.jp/",
+  "source_url": "https://www.pref.oita.jp/soshiki/75008/kennai-sityoson.html",
+  "verified_at": "2026-07-07"
+ }
+]

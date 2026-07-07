@@ -1,0 +1,202 @@
+[
+ {
+  "city_code": "41201",
+  "name": "佐賀市役所",
+  "postal_code": "840-8501",
+  "address": "佐賀市栄町1番1号",
+  "phone": "0952-24-3151",
+  "official_url": "https://www.city.saga.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41202",
+  "name": "唐津市役所",
+  "postal_code": "847-8511",
+  "address": "唐津市西城内1番1号",
+  "phone": "0955-72-9111",
+  "official_url": "https://www.city.karatsu.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41203",
+  "name": "鳥栖市役所",
+  "postal_code": "841-8511",
+  "address": "鳥栖市宿町1118番地",
+  "phone": "0942-85-3500",
+  "official_url": "https://www.city.tosu.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41204",
+  "name": "多久市役所",
+  "postal_code": "846-8501",
+  "address": "多久市北多久町大字小侍7-1",
+  "phone": "0952-75-2111",
+  "official_url": "https://www.city.taku.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41205",
+  "name": "伊万里市役所",
+  "postal_code": "848-8501",
+  "address": "伊万里市立花町1355番地1",
+  "phone": "0955-23-2111",
+  "official_url": "https://www.city.imari.saga.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41206",
+  "name": "武雄市役所",
+  "postal_code": "843-8639",
+  "address": "武雄市武雄町大字昭和12番地10",
+  "phone": "0954-23-9111",
+  "official_url": "http://www.city.takeo.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41207",
+  "name": "鹿島市役所",
+  "postal_code": "849-1312",
+  "address": "鹿島市大字納富分2643番地1",
+  "phone": "0954-63-2111",
+  "official_url": "https://www.city.saga-kashima.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41208",
+  "name": "小城市役所",
+  "postal_code": "845-8511",
+  "address": "小城市三日月町長神田2312番地2",
+  "phone": "0952-37-6111",
+  "official_url": "https://www.city.ogi.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41209",
+  "name": "嬉野市役所",
+  "postal_code": "849-1492",
+  "address": "嬉野市塩田町大字馬場下甲1769番地",
+  "phone": "0954-66-3111",
+  "official_url": "https://www.city.ureshino.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41210",
+  "name": "神埼市役所",
+  "postal_code": "842-8601",
+  "address": "神埼市神埼町鶴3542番地1",
+  "phone": "0952-52-1111",
+  "official_url": "https://www.city.kanzaki.saga.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41327",
+  "name": "吉野ヶ里町役場",
+  "postal_code": "842-8501",
+  "address": "神埼郡吉野ヶ里町吉田321番地2",
+  "phone": "0952-53-1111",
+  "official_url": "https://www.town.yoshinogari.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41341",
+  "name": "基山町役場",
+  "postal_code": "841-0204",
+  "address": "三養基郡基山町大字宮浦666番地",
+  "phone": "0942-92-2011",
+  "official_url": "https://www.town.kiyama.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41345",
+  "name": "上峰町役場",
+  "postal_code": "849-0123",
+  "address": "三養基郡上峰町大字坊所383番地1",
+  "phone": "0952-52-2181",
+  "official_url": "https://www.town.kamimine.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41346",
+  "name": "みやき町役場",
+  "postal_code": "849-0113",
+  "address": "三養基郡みやき町大字東尾737-5",
+  "phone": "0942-89-1651",
+  "official_url": "https://www.town.miyaki.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41387",
+  "name": "玄海町役場",
+  "postal_code": "847-1421",
+  "address": "東松浦郡玄海町大字諸浦348番地",
+  "phone": "0955-52-2111",
+  "official_url": "https://www.town.genkai.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41401",
+  "name": "有田町役場",
+  "postal_code": "849-4192",
+  "address": "西松浦郡有田町立部乙2202番地",
+  "phone": "0955-46-2111",
+  "official_url": "https://www.town.arita.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41423",
+  "name": "大町町役場",
+  "postal_code": "849-2101",
+  "address": "杵島郡大町町大字大町5017番地",
+  "phone": "0952-82-3111",
+  "official_url": "https://www.town.omachi.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41424",
+  "name": "江北町役場",
+  "postal_code": "849-0592",
+  "address": "杵島郡江北町大字山口1651番地1",
+  "phone": "0952-86-2111",
+  "official_url": "https://www.town.kouhoku.saga.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41425",
+  "name": "白石町役場",
+  "postal_code": "849-1192",
+  "address": "杵島郡白石町大字福田1247番地1",
+  "phone": "0952-84-2111",
+  "official_url": "https://www.town.shiroishi.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "41441",
+  "name": "太良町役場",
+  "postal_code": "849-1698",
+  "address": "藤津郡太良町大字多良1番地6",
+  "phone": "0954-67-0311",
+  "official_url": "https://www.town.tara.lg.jp/",
+  "source_url": "https://www.pref.saga.lg.jp/kiji0034791/index.html,各市町公式サイト",
+  "verified_at": "2026-07-07"
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "city_code": "42201",
+  "name": "長崎市役所",
+  "postal_code": "850-8685",
+  "address": "長崎市魚の町4-1",
+  "phone": "095-822-8888",
+  "official_url": "https://www.city.nagasaki.lg.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42202",
+  "name": "佐世保市役所",
+  "postal_code": "857-8585",
+  "address": "佐世保市八幡町1-10",
+  "phone": "0956-24-1111",
+  "official_url": "https://www.city.sasebo.lg.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42203",
+  "name": "島原市役所",
+  "postal_code": "855-8555",
+  "address": "島原市上の町537",
+  "phone": "0957-63-1111",
+  "official_url": "http://www.city.shimabara.lg.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42204",
+  "name": "諫早市役所",
+  "postal_code": "854-8601",
+  "address": "諫早市東小路町7-1",
+  "phone": "0957-22-1500",
+  "official_url": "http://www.city.isahaya.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42205",
+  "name": "大村市役所",
+  "postal_code": "856-8686",
+  "address": "大村市玖島1-25",
+  "phone": "0957-53-4111",
+  "official_url": "http://www.city.omura.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42207",
+  "name": "平戸市役所",
+  "postal_code": "859-5192",
+  "address": "平戸市岩の上町1508-3",
+  "phone": "0950-22-4111",
+  "official_url": "http://www.city.hirado.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42208",
+  "name": "松浦市役所",
+  "postal_code": "859-4598",
+  "address": "松浦市志佐町里免365",
+  "phone": "0956-72-1111",
+  "official_url": "http://www.city-matsuura.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42209",
+  "name": "対馬市役所",
+  "postal_code": "817-8510",
+  "address": "対馬市厳原町国分1441",
+  "phone": "0920-53-6111",
+  "official_url": "http://www.city.tsushima.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42210",
+  "name": "壱岐市役所",
+  "postal_code": "811-5192",
+  "address": "壱岐市郷ノ浦町本村触562",
+  "phone": "0920-48-1111",
+  "official_url": "http://www.city.iki.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42211",
+  "name": "五島市役所",
+  "postal_code": "853-8501",
+  "address": "五島市福江町1-1",
+  "phone": "0959-72-6111",
+  "official_url": "https://www.city.goto.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42212",
+  "name": "西海市役所",
+  "postal_code": "857-2392",
+  "address": "西海市大瀬戸町瀬戸樫浦郷2222",
+  "phone": "0959-37-0011",
+  "official_url": "http://www.city.saikai.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42213",
+  "name": "雲仙市役所",
+  "postal_code": "859-1107",
+  "address": "雲仙市吾妻町牛口名714",
+  "phone": "0957-38-3111",
+  "official_url": "http://www.city.unzen.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42214",
+  "name": "南島原市役所",
+  "postal_code": "859-2211",
+  "address": "南島原市西有家町里坊96-2",
+  "phone": "0957-73-6600",
+  "official_url": "http://www.city.minamishimabara.lg.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42307",
+  "name": "長与町役場",
+  "postal_code": "851-2185",
+  "address": "西彼杵郡長与町嬉里郷659-1",
+  "phone": "095-883-1111",
+  "official_url": "http://webtown.nagayo.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42308",
+  "name": "時津町役場",
+  "postal_code": "851-2198",
+  "address": "西彼杵郡時津町浦郷274-1",
+  "phone": "095-882-2211",
+  "official_url": "http://www.town.togitsu.nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42321",
+  "name": "東彼杵町役場",
+  "postal_code": "859-3808",
+  "address": "東彼杵郡東彼杵町蔵本郷1850-6",
+  "phone": "0957-46-1111",
+  "official_url": "https://www.town.higashisonogi.lg.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42322",
+  "name": "川棚町役場",
+  "postal_code": "859-3692",
+  "address": "東彼杵郡川棚町中組郷1518-1",
+  "phone": "0956-82-3131",
+  "official_url": "http://www.kawatana.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42323",
+  "name": "波佐見町役場",
+  "postal_code": "859-3791",
+  "address": "東彼杵郡波佐見町宿郷660",
+  "phone": "0956-85-2111",
+  "official_url": "http://www.town.hasami.lg.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42383",
+  "name": "小値賀町役場",
+  "postal_code": "857-4701",
+  "address": "北松浦郡小値賀町笛吹郷2376-1",
+  "phone": "0959-56-3111",
+  "official_url": "https://www.town.ojika.lg.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42391",
+  "name": "佐々町役場",
+  "postal_code": "857-0392",
+  "address": "北松浦郡佐々町本田原免168-2",
+  "phone": "0956-62-2101",
+  "official_url": "http://www.sazacho-nagasaki.jp/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "42411",
+  "name": "新上五島町役場",
+  "postal_code": "857-4495",
+  "address": "南松浦郡新上五島町青方郷1585-1",
+  "phone": "0959-53-1111",
+  "official_url": "http://official.shinkamigoto.net/",
+  "source_url": "https://www.pref.nagasaki.jp/pages/page-31.html , https://www.pref.nagasaki.jp/doc/page-412855.html",
+  "verified_at": "2026-07-07"
+ }
+]

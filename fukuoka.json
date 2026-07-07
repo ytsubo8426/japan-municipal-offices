@@ -1,0 +1,742 @@
+[
+ {
+  "city_code": "40100",
+  "name": "北九州市役所",
+  "postal_code": "803-8501",
+  "address": "北九州市小倉北区城内1-1",
+  "phone": "093-582-4894",
+  "official_url": "https://www.city.kitakyushu.lg.jp/category/file_0013.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40101",
+  "name": "北九州市門司区役所",
+  "postal_code": "801-8510",
+  "address": "北九州市門司区清滝1-1-1",
+  "phone": "093-331-1881",
+  "official_url": "https://www.city.kitakyushu.lg.jp/contents/14900032.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40103",
+  "name": "北九州市若松区役所",
+  "postal_code": "808-8510",
+  "address": "北九州市若松区浜町1-1-1",
+  "phone": "093-761-5321",
+  "official_url": "https://www.city.kitakyushu.lg.jp/contents/14900032.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40105",
+  "name": "北九州市戸畑区役所",
+  "postal_code": "804-8510",
+  "address": "北九州市戸畑区千防1-1-1",
+  "phone": "093-871-1501",
+  "official_url": "https://www.city.kitakyushu.lg.jp/contents/14900032.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40106",
+  "name": "北九州市小倉北区役所",
+  "postal_code": "803-8510",
+  "address": "北九州市小倉北区大手町1-1",
+  "phone": "093-582-3311",
+  "official_url": "https://www.city.kitakyushu.lg.jp/contents/14900032.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40107",
+  "name": "北九州市小倉南区役所",
+  "postal_code": "802-8510",
+  "address": "北九州市小倉南区若園5-1-2",
+  "phone": "093-951-4111",
+  "official_url": "https://www.city.kitakyushu.lg.jp/contents/14900032.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40108",
+  "name": "北九州市八幡東区役所",
+  "postal_code": "805-8510",
+  "address": "北九州市八幡東区中央1-1-1",
+  "phone": "093-671-0801",
+  "official_url": "https://www.city.kitakyushu.lg.jp/contents/14900032.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40109",
+  "name": "北九州市八幡西区役所",
+  "postal_code": "806-8510",
+  "address": "北九州市八幡西区黒崎3-15-3",
+  "phone": "093-642-1441",
+  "official_url": "https://www.city.kitakyushu.lg.jp/contents/14900032.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40130",
+  "name": "福岡市役所",
+  "postal_code": "810-8620",
+  "address": "福岡市中央区天神1-8-1",
+  "phone": "092-711-4111",
+  "official_url": "https://www.city.fukuoka.lg.jp/shicho/koho/shisei/060.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40131",
+  "name": "福岡市東区役所",
+  "postal_code": "812-8653",
+  "address": "福岡市東区箱崎2-54-1",
+  "phone": "092-631-2131",
+  "official_url": "https://www.city.fukuoka.lg.jp/higashi/index.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40132",
+  "name": "福岡市博多区役所",
+  "postal_code": "812-8512",
+  "address": "福岡市博多区博多駅前2-8-1",
+  "phone": "092-441-2131",
+  "official_url": "https://www.city.fukuoka.lg.jp/hakata/index.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40133",
+  "name": "福岡市中央区役所",
+  "postal_code": "810-8622",
+  "address": "福岡市中央区大名2-5-31",
+  "phone": "092-714-2131",
+  "official_url": "https://www.city.fukuoka.lg.jp/chuo/index.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40134",
+  "name": "福岡市南区役所",
+  "postal_code": "815-8501",
+  "address": "福岡市南区塩原3-25-1",
+  "phone": "092-561-2131",
+  "official_url": "https://www.city.fukuoka.lg.jp/minami/index.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40135",
+  "name": "福岡市西区役所",
+  "postal_code": "819-8501",
+  "address": "福岡市西区内浜1-4-1",
+  "phone": "092-881-2131",
+  "official_url": "https://www.city.fukuoka.lg.jp/nishi/index.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40136",
+  "name": "福岡市城南区役所",
+  "postal_code": "814-0192",
+  "address": "福岡市城南区鳥飼6-1-1",
+  "phone": "092-822-2131",
+  "official_url": "https://www.city.fukuoka.lg.jp/jonan/index.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40137",
+  "name": "福岡市早良区役所",
+  "postal_code": "814-8501",
+  "address": "福岡市早良区百道2-1-1",
+  "phone": "092-841-2131",
+  "official_url": "https://www.city.fukuoka.lg.jp/sawara/index.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40202",
+  "name": "大牟田市役所",
+  "postal_code": "836-8666",
+  "address": "大牟田市有明町2丁目3番地",
+  "phone": "0944-41-2222",
+  "official_url": "http://www.city.omuta.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40203",
+  "name": "久留米市役所",
+  "postal_code": "830-8520",
+  "address": "久留米市城南町15番地3",
+  "phone": "0942-30-9000",
+  "official_url": "http://www.city.kurume.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40204",
+  "name": "直方市役所",
+  "postal_code": "822-8501",
+  "address": "直方市殿町7-1",
+  "phone": "0949-25-2000",
+  "official_url": "http://www.city.nogata.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40205",
+  "name": "飯塚市役所",
+  "postal_code": "820-8501",
+  "address": "飯塚市新立岩5番5号",
+  "phone": "0948-22-5500",
+  "official_url": "http://www.city.iizuka.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40206",
+  "name": "田川市役所",
+  "postal_code": "825-8501",
+  "address": "田川市中央町1番1号",
+  "phone": "0947-44-2000",
+  "official_url": "https://www.joho.tagawa.fukuoka.jp/default.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40207",
+  "name": "柳川市役所",
+  "postal_code": "832-8601",
+  "address": "柳川市本町87番地1",
+  "phone": "0944-73-8111",
+  "official_url": "http://www.city.yanagawa.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40210",
+  "name": "八女市役所",
+  "postal_code": "834-8585",
+  "address": "八女市本町647番地",
+  "phone": "0943-23-1111",
+  "official_url": "http://www.city.yame.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40211",
+  "name": "筑後市役所",
+  "postal_code": "833-8601",
+  "address": "筑後市大字山ノ井898番地",
+  "phone": "0942-53-4111",
+  "official_url": "http://www.city.chikugo.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40212",
+  "name": "大川市役所",
+  "postal_code": "831-8601",
+  "address": "大川市大字酒見256番地1",
+  "phone": "0944-87-2101",
+  "official_url": "http://www.city.okawa.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40213",
+  "name": "行橋市役所",
+  "postal_code": "824-8601",
+  "address": "行橋市中央一丁目1番1号",
+  "phone": "0930-25-1111",
+  "official_url": "http://www.city.yukuhashi.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40214",
+  "name": "豊前市役所",
+  "postal_code": "828-8501",
+  "address": "豊前市大字吉木955",
+  "phone": "0979-82-1111",
+  "official_url": "http://www.city.buzen.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40215",
+  "name": "中間市役所",
+  "postal_code": "809-8501",
+  "address": "中間市中間一丁目1番1号",
+  "phone": "093-244-1111",
+  "official_url": "http://www.city.nakama.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40216",
+  "name": "小郡市役所",
+  "postal_code": "838-0198",
+  "address": "小郡市小郡255番地1",
+  "phone": "0942-72-2111",
+  "official_url": "http://www.city.ogori.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40217",
+  "name": "筑紫野市役所",
+  "postal_code": "818-8686",
+  "address": "筑紫野市石崎1-1-1",
+  "phone": "092-923-1111",
+  "official_url": "http://www.city.chikushino.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40218",
+  "name": "春日市役所",
+  "postal_code": "816-8501",
+  "address": "春日市原町3-1-5",
+  "phone": "092-584-1111",
+  "official_url": "http://www.city.kasuga.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40219",
+  "name": "大野城市役所",
+  "postal_code": "816-8510",
+  "address": "大野城市曙町二丁目2-1",
+  "phone": "092-501-2211",
+  "official_url": "http://www.city.onojo.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40220",
+  "name": "宗像市役所",
+  "postal_code": "811-3492",
+  "address": "宗像市東郷一丁目1番1号",
+  "phone": "0940-36-1121",
+  "official_url": "http://www.city.munakata.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40221",
+  "name": "太宰府市役所",
+  "postal_code": "818-0198",
+  "address": "太宰府市観世音寺一丁目1番1号",
+  "phone": "092-921-2121",
+  "official_url": "http://www.city.dazaifu.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40223",
+  "name": "古賀市役所",
+  "postal_code": "811-3192",
+  "address": "古賀市駅東1-1-1",
+  "phone": "092-942-1111",
+  "official_url": "http://www.city.koga.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40224",
+  "name": "福津市役所",
+  "postal_code": "811-3293",
+  "address": "福津市中央1丁目1番1号",
+  "phone": "0940-42-1111",
+  "official_url": "https://www.city.fukutsu.lg.jp/3256.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40225",
+  "name": "うきは市役所",
+  "postal_code": "839-1393",
+  "address": "うきは市吉井町新治316",
+  "phone": "0943-75-3111",
+  "official_url": "http://www.city.ukiha.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40226",
+  "name": "宮若市役所",
+  "postal_code": "823-0011",
+  "address": "宮若市宮田29番地",
+  "phone": "0949-32-0510",
+  "official_url": "http://www.city.miyawaka.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40227",
+  "name": "嘉麻市役所",
+  "postal_code": "820-0292",
+  "address": "嘉麻市岩崎1180番地1",
+  "phone": "0948-42-7411",
+  "official_url": "https://www.city.kama.lg.jp/site/shityousya-akusesu/16230.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40228",
+  "name": "朝倉市役所",
+  "postal_code": "838-8601",
+  "address": "朝倉市甘木232番地1",
+  "phone": "0946-22-1111",
+  "official_url": "http://www.city.asakura.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40229",
+  "name": "みやま市役所",
+  "postal_code": "835-8601",
+  "address": "みやま市瀬高町小川5番地",
+  "phone": "0944-63-6111",
+  "official_url": "http://www.city.miyama.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40230",
+  "name": "糸島市役所",
+  "postal_code": "819-1192",
+  "address": "糸島市前原西1丁目1-1",
+  "phone": "092-323-1111",
+  "official_url": "http://www.city.itoshima.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40231",
+  "name": "那珂川市役所",
+  "postal_code": "811-1292",
+  "address": "那珂川市西隈1丁目1番1号",
+  "phone": "092-953-2211",
+  "official_url": "http://www.city.nakagawa.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40341",
+  "name": "宇美町役場",
+  "postal_code": "811-2192",
+  "address": "糟屋郡宇美町宇美5丁目1番1号",
+  "phone": "092-932-1111",
+  "official_url": "http://www.town.umi.lg.jp/soshiki/61/38869.html",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40342",
+  "name": "篠栗町役場",
+  "postal_code": "811-2492",
+  "address": "糟屋郡篠栗町中央一丁目1番1号",
+  "phone": "092-947-1111",
+  "official_url": "http://www.town.sasaguri.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40343",
+  "name": "志免町役場",
+  "postal_code": "811-2292",
+  "address": "糟屋郡志免町志免中央1丁目1番1号",
+  "phone": "092-935-1001",
+  "official_url": "http://www.town.shime.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40344",
+  "name": "須恵町役場",
+  "postal_code": "811-2193",
+  "address": "糟屋郡須恵町大字須恵771番地",
+  "phone": "092-932-1151",
+  "official_url": "http://www.town.sue.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40345",
+  "name": "新宮町役場",
+  "postal_code": "811-0192",
+  "address": "糟屋郡新宮町緑ケ浜一丁目1-1",
+  "phone": "092-962-0231",
+  "official_url": "http://www.town.shingu.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40348",
+  "name": "久山町役場",
+  "postal_code": "811-2592",
+  "address": "糟屋郡久山町大字久原3632",
+  "phone": "092-976-1111",
+  "official_url": "http://www.town.hisayama.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40349",
+  "name": "粕屋町役場",
+  "postal_code": "811-2392",
+  "address": "糟屋郡粕屋町駕与丁1丁目1番1号",
+  "phone": "092-938-2311",
+  "official_url": "http://www.town.kasuya.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40381",
+  "name": "芦屋町役場",
+  "postal_code": "807-0198",
+  "address": "遠賀郡芦屋町幸町2番20号",
+  "phone": "093-223-0881",
+  "official_url": "http://www.town.ashiya.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40382",
+  "name": "水巻町役場",
+  "postal_code": "807-8501",
+  "address": "遠賀郡水巻町頃末北1丁目1番1号",
+  "phone": "093-201-4321",
+  "official_url": "https://www.town.mizumaki.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40383",
+  "name": "岡垣町役場",
+  "postal_code": "811-4233",
+  "address": "遠賀郡岡垣町野間1丁目1番1号",
+  "phone": "093-282-1211",
+  "official_url": "http://www.town.okagaki.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40384",
+  "name": "遠賀町役場",
+  "postal_code": "811-4392",
+  "address": "遠賀郡遠賀町大字今古賀513番地",
+  "phone": "093-293-1234",
+  "official_url": "http://www.town.onga.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40401",
+  "name": "小竹町役場",
+  "postal_code": "820-1192",
+  "address": "鞍手郡小竹町大字勝野3167番地1",
+  "phone": "0949-62-1212",
+  "official_url": "http://town.kotake.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40402",
+  "name": "鞍手町役場",
+  "postal_code": "807-1392",
+  "address": "鞍手郡鞍手町大字小牧2080番地2",
+  "phone": "0949-42-2111",
+  "official_url": "http://www.town.kurate.lg.jp/documents/dennwabanngou.pdf",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40421",
+  "name": "桂川町役場",
+  "postal_code": "820-0696",
+  "address": "嘉穂郡桂川町大字土居424番地1",
+  "phone": "0948-65-1100",
+  "official_url": "http://www.town.keisen.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40447",
+  "name": "筑前町役場",
+  "postal_code": "838-0298",
+  "address": "朝倉郡筑前町篠隈373番地",
+  "phone": "0946-42-3111",
+  "official_url": "http://www.town.chikuzen.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40448",
+  "name": "東峰村役場",
+  "postal_code": "838-1692",
+  "address": "朝倉郡東峰村大字宝珠山6425",
+  "phone": "0946-72-2311",
+  "official_url": "http://vill.toho-info.com/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40503",
+  "name": "大刀洗町役場",
+  "postal_code": "830-1298",
+  "address": "三井郡大刀洗町大字冨多819番地",
+  "phone": "0942-77-0101",
+  "official_url": "http://www.town.tachiarai.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40522",
+  "name": "大木町役場",
+  "postal_code": "830-0416",
+  "address": "三潴郡大木町大字八町牟田255-1",
+  "phone": "0944-32-1013",
+  "official_url": "http://www.town.ooki.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40544",
+  "name": "広川町役場",
+  "postal_code": "834-0115",
+  "address": "八女郡広川町大字新代1804番地1",
+  "phone": "0943-32-1111",
+  "official_url": "http://www.town.hirokawa.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40601",
+  "name": "香春町役場",
+  "postal_code": "822-1492",
+  "address": "田川郡香春町大字高野994",
+  "phone": "0947-32-2511",
+  "official_url": "http://www.town.kawara.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40602",
+  "name": "添田町役場",
+  "postal_code": "824-0691",
+  "address": "田川郡添田町大字添田2151",
+  "phone": "0947-82-1231",
+  "official_url": "http://www.town.soeda.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40604",
+  "name": "糸田町役場",
+  "postal_code": "822-1392",
+  "address": "田川郡糸田町1975番地1",
+  "phone": "0947-26-1231",
+  "official_url": "http://www.town.itoda.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40605",
+  "name": "川崎町役場",
+  "postal_code": "827-8501",
+  "address": "田川郡川崎町大字田原789-2",
+  "phone": "0947-72-3000",
+  "official_url": "http://www.town-kawasaki.com/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40608",
+  "name": "大任町役場",
+  "postal_code": "824-0512",
+  "address": "田川郡大任町大字大行事3067",
+  "phone": "0947-63-3000",
+  "official_url": "http://www.town.oto.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40609",
+  "name": "赤村役場",
+  "postal_code": "824-0432",
+  "address": "田川郡赤村内田1188",
+  "phone": "0947-62-3000",
+  "official_url": "http://www.akamura.net/government/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40610",
+  "name": "福智町役場",
+  "postal_code": "822-1292",
+  "address": "田川郡福智町金田937番地2",
+  "phone": "0947-22-0555",
+  "official_url": "http://www.town.fukuchi.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40621",
+  "name": "苅田町役場",
+  "postal_code": "800-0392",
+  "address": "京都郡苅田町富久町1丁目19-1",
+  "phone": "093-434-1111",
+  "official_url": "http://www.town.kanda.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40625",
+  "name": "みやこ町役場",
+  "postal_code": "824-0892",
+  "address": "京都郡みやこ町勝山上田960番地",
+  "phone": "0930-32-2511",
+  "official_url": "http://www.town.miyako.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40642",
+  "name": "吉富町役場",
+  "postal_code": "871-8585",
+  "address": "築上郡吉富町大字広津226番地1",
+  "phone": "0979-24-1122",
+  "official_url": "http://www.town.yoshitomi.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40646",
+  "name": "上毛町役場",
+  "postal_code": "871-0992",
+  "address": "築上郡上毛町大字垂水1321番地1",
+  "phone": "0979-72-3111",
+  "official_url": "http://www.town.koge.lg.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ },
+ {
+  "city_code": "40647",
+  "name": "築上町役場",
+  "postal_code": "829-0392",
+  "address": "築上郡築上町大字椎田891番地2",
+  "phone": "0930-56-0300",
+  "official_url": "http://www.town.chikujo.fukuoka.jp/",
+  "source_url": "https://www.pref.fukuoka.lg.jp/contents/shichoson01.html",
+  "verified_at": "2026-07-07"
+ }
+]
